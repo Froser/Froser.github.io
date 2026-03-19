@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "仮面の忍者赤影（日）",
+      "ja-hint": "かめんのにんじゃあかかげ（にち）",
+      "zh": "假面忍者赤影（日）",
+      "zh-hint": "jiamianrenzhechiying (ri)"
+    }
+  }
+}

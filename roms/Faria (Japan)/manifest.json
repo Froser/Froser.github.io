@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Faria - A World of Mystery & Danger! (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 721,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Faria - A World of Mystery & Danger! (USA)": {
+      "ja": "ファリア 封印の剣（米）",
+      "ja-hint": "ファリア ふういんのつるぎ（べい）",
+      "zh": "封印之剑（美）",
+      "zh-hint": "fengyinzhijian (mei)"
+    },
+    "default": {
+      "ja": "ファリア 封印の剣（日）",
+      "ja-hint": "ファリア ふういんのつるぎ（にち）",
+      "zh": "封印之剑（日）",
+      "zh-hint": "fengyinzhijian (ri)"
+    }
+  }
+}

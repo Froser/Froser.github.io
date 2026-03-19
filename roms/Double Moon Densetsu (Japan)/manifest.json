@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダブルムーン伝説（日）",
+      "ja-hint": "ダブルムーンでんせつ（にち）",
+      "zh": "双月传说（日）",
+      "zh-hint": "shuangyuechuanshuo(ri)"
+    }
+  }
+}

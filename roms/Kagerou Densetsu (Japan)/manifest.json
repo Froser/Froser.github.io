@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "影狼伝説（日）",
+      "ja-hint": "かげろうでんせつ（にち）",
+      "zh": "影狼传说（日）",
+      "zh-hint": "yinglangchuanshuo(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゼノフォウビア（米）",
+      "ja-hint": "ゼノフォウビア（べい）",
+      "zh": "异形任务（美）",
+      "zh-hint": "yixingrenwu (mei)"
+    }
+  }
+}

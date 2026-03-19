@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "F-15 ストライクイーグル（米）",
+      "ja-hint": "F-15 ストライクイーグル（べい）",
+      "zh": "F-15 鹰式战斗机（美）",
+      "zh-hint": "F-15 yingshizhandouji (mei)"
+    }
+  }
+}

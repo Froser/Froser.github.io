@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tecmo Cup - Soccer Game (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Tecmo Cup - Soccer Game (USA)": {
+      "ja": "キャプテン翼（米）",
+      "ja-hint": "キャプテンつばさ（べい）",
+      "zh": "大空翼（美）",
+      "zh-hint": "dakongyi (mei)"
+    },
+    "default": {
+      "ja": "キャプテン翼（日）",
+      "ja-hint": "キャプテンつばさ（にち）",
+      "zh": "大空翼（日）",
+      "zh-hint": "dakongyi (ri)"
+    }
+  }
+}

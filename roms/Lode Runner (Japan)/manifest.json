@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Lode Runner (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Lode Runner (USA)": {
+      "ja": "ロードランナー（米）",
+      "zh": "淘金者（美）"
+    },
+    "default": {
+      "ja": "ロードランナー（にち）",
+      "zh": "淘金者（日）",
+      "zh-hint": "taojinzhe(ri)"
+    }
+  }
+}

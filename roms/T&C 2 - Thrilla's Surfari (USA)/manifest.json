@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "T&C 2（米）",
+      "ja-hint": "T&C 2（べい）",
+      "zh": "滑板2（美）",
+      "zh-hint": "huaban2 (mei)"
+    }
+  }
+}

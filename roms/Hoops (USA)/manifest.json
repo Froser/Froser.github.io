@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フープス（米）",
+      "ja-hint": "フープス（べい）",
+      "zh": "投篮高手（美）",
+      "zh-hint": "toulangaoshou (mei)"
+    }
+  }
+}

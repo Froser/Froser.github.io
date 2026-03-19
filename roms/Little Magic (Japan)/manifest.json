@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "リトルマジック（日）",
+      "ja-hint": "リトルマジック（にち）",
+      "zh": "小小魔道士 - 魔道士的阴谋（日）",
+      "zh-hint": "xiaoxiaomodaoshimodaoshideyinmou(ri)"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Die Hard (Japan)": {
+      "height": 400,
+      "width": 278
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Die Hard (Japan)": {
+      "ja": "ダイ・ハード（日）",
+      "zh": "虎胆龙威（日）",
+      "zh-hint": "hudanlongwei(ri)"
+    },
+    "default": {
+      "ja": "ダイ・ハード（米）",
+      "zh": "虎胆龙威（美）",
+      "zh-hint": "hudanlongwei(mei)"
+    }
+  }
+}

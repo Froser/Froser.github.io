@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 746,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドラゴンニンジャ（米）",
+      "ja-hint": "ドラゴンニンジャ（べい）",
+      "zh": "龙之忍者（美）",
+      "zh-hint": "longzhirenzhe (mei)"
+    }
+  }
+}

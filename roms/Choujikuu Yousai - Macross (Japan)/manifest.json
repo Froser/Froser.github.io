@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "超時空要塞マクロス（日）",
+      "ja-hint": "ちょうじくうようさいマクロス（にち）",
+      "zh": "超时空要塞（日）",
+      "zh-hint": "chaoshikongyaosai(ri)"
+    }
+  }
+}

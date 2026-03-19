@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Championship Bowling (Japan)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Championship Bowling (Japan)": {
+      "ja": "チャンピオンシップボウリング（日）",
+      "ja-hint": "チャンピオンシップボウリング（にち）",
+      "zh": "保龄球锦标赛（日）",
+      "zh-hint": "baolingqiujinbiaosai (ri)"
+    },
+    "default": {
+      "ja": "チャンピオンシップボウリング（米）",
+      "ja-hint": "チャンピオンシップボウリング（べい）",
+      "zh": "保龄球锦标赛（美）",
+      "zh-hint": "baolingqiujinbiaosai (mei)"
+    }
+  }
+}

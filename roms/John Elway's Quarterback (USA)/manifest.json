@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジョン　エルウェイのクォーターバック（米）",
+      "ja-hint": "ジョン　エルウェイのクォーターバック（べい）",
+      "zh": "约翰埃尔维的四分卫（美）",
+      "zh-hint": "yuehanaierweidesifenwei (mei)"
+    }
+  }
+}

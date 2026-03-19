@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プロ野球ファミリースタジアム'87（日）",
+      "ja-hint": "プロやきゅうファミリースタジアム'87（にち）",
+      "zh": "职业棒球87年度版（日）",
+      "zh-hint": "zhiyebangqiu87nianduban (ri)"
+    }
+  }
+}

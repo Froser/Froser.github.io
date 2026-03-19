@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 306,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドンドコドン2（日）",
+      "ja-hint": "ドンドコドン2（にち）",
+      "zh": "木匠兄弟2（日）",
+      "zh-hint": "mujiangxiongdi2 (ri)"
+    }
+  }
+}

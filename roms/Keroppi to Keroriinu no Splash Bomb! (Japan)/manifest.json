@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "けろっぴとけろりーぬのスプラッシュボム（日）",
+      "ja-hint": "けろっぴとけろりーぬのスプラッシュボム（にち）",
+      "zh": "大眼蛙可乐比的水炸弹（日）",
+      "zh-hint": "dayanwakelebideshuizhadan(ri)"
+    }
+  }
+}

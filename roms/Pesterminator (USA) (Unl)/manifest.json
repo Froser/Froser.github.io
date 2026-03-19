@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ペスターミネイター（米）",
+      "ja-hint": "ペスターミネイター（べい）",
+      "zh": "害虫终结者（美）",
+      "zh-hint": "haichongzhongjiezhe (mei)"
+    }
+  }
+}

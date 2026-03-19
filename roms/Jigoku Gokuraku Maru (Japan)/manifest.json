@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Kabuki - Quantum Fighter (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Kabuki - Quantum Fighter (USA)": {
+      "ja": "地獄極楽丸（美）",
+      "zh": "地狱极乐丸（美）"
+    },
+    "default": {
+      "ja": "地獄極楽丸（日）",
+      "ja-hint": "じごくごくらくまる（にち）",
+      "zh": "地狱极乐丸（日）",
+      "zh-hint": "diyujilewan(ri)"
+    }
+  }
+}

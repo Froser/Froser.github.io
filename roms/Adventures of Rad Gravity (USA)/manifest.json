@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Adventures of Rad Gravity（米）",
+      "zh": "Rad Gravity 历险记（美）",
+      "zh-hint": "Rad Gravity lixianji(mei)"
+    }
+  }
+}

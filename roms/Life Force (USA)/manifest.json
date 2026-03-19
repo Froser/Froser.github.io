@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "沙羅曼蛇（米）",
+      "ja-hint": "サラマンダ（べい）",
+      "zh": "沙罗曼蛇（美）",
+      "zh-hint": "shaluomanshe(mei)"
+    }
+  }
+}

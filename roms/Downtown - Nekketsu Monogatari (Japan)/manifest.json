@@ -1,0 +1,32 @@
+{
+  "boxarts": {
+    "Downtown - Nekketsu Monogatari (CN)": {
+      "height": 280,
+      "width": 400
+    },
+    "River City Ransom (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 280,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Downtown - Nekketsu Monogatari (CN)": {
+      "ja": "熱血物語（中）",
+      "zh": "热血物语（中）"
+    },
+    "River City Ransom (USA)": {
+      "ja": "熱血物語（米）",
+      "zh": "热血物语（美）"
+    },
+    "default": {
+      "ja": "熱血物語（日）",
+      "ja-hint": "ねっけつものがたり（にち）",
+      "zh": "热血物语（日）",
+      "zh-hint": "rexuewuyu(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 714,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "飛龍の拳スペシャルファイティングウォーズ（日）",
+      "ja-hint": "ひりゅうのこぶしスペシャルファイティングウォーズ（にち）",
+      "zh": "飞龙之拳特别版：格斗大战（日）",
+      "zh-hint": "feilongzhiquantebieban：gedoudazhan (ri)"
+    }
+  }
+}

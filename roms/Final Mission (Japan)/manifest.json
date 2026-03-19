@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "S.C.A.T. - Special Cybernetic Attack Team (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "S.C.A.T. - Special Cybernetic Attack Team (USA)": {
+      "ja": "ファイナルミッション（米）",
+      "ja-hint": "ファイナルミッション（べい）",
+      "zh": "最终任务（美）",
+      "zh-hint": "zuizhongrenwu (mei)"
+    },
+    "default": {
+      "ja": "ファイナルミッション（にち）",
+      "ja-hint": "ファイナルミッション（にち）",
+      "zh": "最终任务（日）",
+      "zh-hint": "zuizhongrenwu (ri)"
+    }
+  }
+}

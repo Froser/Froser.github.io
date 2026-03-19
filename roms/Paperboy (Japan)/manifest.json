@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Paperboy (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 348,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Paperboy (USA)": {
+      "ja": "ペーパーボーイ（米）",
+      "ja-hint": "ペーパーボーイ（べい）",
+      "zh": "送报男孩（美）",
+      "zh-hint": "songbaonanhai (mei)"
+    },
+    "default": {
+      "ja": "ペーパーボーイ（日）",
+      "ja-hint": "ペーパーボーイ（にち）",
+      "zh": "送报男孩（日）",
+      "zh-hint": "songbaonanhai (ri)"
+    }
+  }
+}

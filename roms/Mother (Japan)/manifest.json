@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マザー（日）",
+      "ja-hint": "マザー（にち）",
+      "zh": "地球冒险（日）",
+      "zh-hint": "diqiumaoxian(ri)"
+    }
+  }
+}

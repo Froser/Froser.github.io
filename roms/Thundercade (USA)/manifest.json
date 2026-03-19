@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "特殊部隊UAG（米）",
+      "ja-hint": "とくしゅぶたいUAG（べい）",
+      "zh": "特殊部队UAG（美）",
+      "zh-hint": "teshubuduiUAG (mei)"
+    }
+  }
+}

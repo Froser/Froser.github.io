@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スカイキッド（米）",
+      "ja-hint": "スカイキッド（べい）",
+      "zh": "天空小子（美）",
+      "zh-hint": "tiankongxiaozi (mei)"
+    }
+  }
+}

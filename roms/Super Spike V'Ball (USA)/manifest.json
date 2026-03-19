@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "U.S. Championship V'Ball (Japan)": {
+      "height": 738,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "U.S. Championship V'Ball (Japan)": {
+      "ja": "スーパースパイク V'BALL（日）",
+      "ja-hint": "スーパースパイク V'BALL（にち）",
+      "zh": "超级扣球（日）",
+      "zh-hint": "chaojikouqiu (ri)"
+    },
+    "default": {
+      "ja": "スーパースパイク V'BALL（米）",
+      "ja-hint": "スーパースパイク V'BALL（べい）",
+      "zh": "超级扣球（美）",
+      "zh-hint": "chaojikouqiu (mei)"
+    }
+  }
+}

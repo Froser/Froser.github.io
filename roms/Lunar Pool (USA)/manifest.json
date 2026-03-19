@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Lunar Ball (Japan)": {
+      "height": 267,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Lunar Ball (Japan)": {
+      "ja": "ルナーボール（日）",
+      "zh": "月宫桌球（日）"
+    },
+    "default": {
+      "ja": "ルナーボール（米）",
+      "zh": "月宫桌球（美）",
+      "zh-hint": "yuegongzhuoqiu(mei)"
+    }
+  }
+}

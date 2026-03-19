@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Magmax (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Magmax (USA)": {
+      "ja": "マグマックス（米）",
+      "ja-hint": "マグマックス（べい）",
+      "zh": "合体金刚（美）",
+      "zh-hint": "hetijingang (mei)"
+    },
+    "default": {
+      "ja": "マグマックス（日）",
+      "ja-hint": "マグマックス（にち）",
+      "zh": "合体金刚（日）",
+      "zh-hint": "hetijingang (ri)"
+    }
+  }
+}

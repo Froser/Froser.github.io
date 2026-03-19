@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ミラクルロピット～２１００年の冒険～（日）",
+      "ja-hint": "ミラクルロピット～２１００ねんのぼうけん～（にち）",
+      "zh": "神奇罗比特2100大冒险（日）",
+      "zh-hint": "shenqiluobite2100damaoxian (ri)"
+    }
+  }
+}

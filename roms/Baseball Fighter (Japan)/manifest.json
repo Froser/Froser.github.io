@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 360,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ベースボールファイター（日）",
+      "ja-hint": "ベースボールファイター（にち）",
+      "zh": "棒球斗士（日）",
+      "zh-hint": "bangqiudoushi (ri)"
+    }
+  }
+}

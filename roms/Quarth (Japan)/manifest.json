@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クォース（日）",
+      "zh": "射击方块（日）",
+      "zh-hint": "shejifangkuai(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドクター·カオス - 地獄の扉（米）",
+      "ja-hint": "ドクターカオスじごくのとびら（べい）",
+      "zh": "混沌先生 - 地狱之门（美）",
+      "zh-hint": "hundunxianshengdiyuzhimen(mei)"
+    }
+  }
+}

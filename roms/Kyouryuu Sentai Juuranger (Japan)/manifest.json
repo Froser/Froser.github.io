@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 276,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "恐竜戦隊ジュウレンジャー（日）",
+      "ja-hint": "きょうりゅうせんたいジュウレンジャー（にち）",
+      "zh": "恐龙战队兽连者（日）",
+      "zh-hint": "konglongzhanduishoulianzhe (ri)"
+    }
+  }
+}

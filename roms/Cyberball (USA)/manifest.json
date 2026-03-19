@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 692,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サイバーボール（米）",
+      "ja-hint": "サイバーボール（べい）",
+      "zh": "赛博球（美）",
+      "zh-hint": "saiboqiu (mei)"
+    }
+  }
+}

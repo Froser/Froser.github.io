@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ghostbusters (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 347,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ghostbusters (USA)": {
+      "ja": "ゴーストバスターズ（米）",
+      "ja-hint": "ゴーストバスターズ（べい）",
+      "zh": "魔鬼克星（美）",
+      "zh-hint": "moguikexing (mei)"
+    },
+    "default": {
+      "ja": "ゴーストバスターズ（日）",
+      "ja-hint": "ゴーストバスターズ（にち）",
+      "zh": "魔鬼克星（日）",
+      "zh-hint": "moguikexing (ri)"
+    }
+  }
+}

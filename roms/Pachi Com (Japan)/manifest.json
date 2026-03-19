@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 737
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パチコン（日）",
+      "ja-hint": "パチコン（にち）",
+      "zh": "柏青哥弹珠机（日）",
+      "zh-hint": "baiqinggedanzhuji (ri)"
+    }
+  }
+}

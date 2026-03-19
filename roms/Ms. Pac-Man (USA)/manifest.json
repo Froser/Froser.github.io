@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ミズパックマン（米）",
+      "ja-hint": "ミズパックマン（べい）",
+      "zh": "小精灵小姐（美）",
+      "zh-hint": "xiaojinglingxiaojie (mei)"
+    }
+  }
+}

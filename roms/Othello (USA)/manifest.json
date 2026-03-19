@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Family Computer Othello (Japan)": {
+      "height": 526,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Family Computer Othello (Japan)": {
+      "ja": "オセロ（日）",
+      "ja-hint": "オセロ（にち）",
+      "zh": "黑白棋（日）",
+      "zh-hint": "heibaiqi (ri)"
+    },
+    "default": {
+      "ja": "オセロ（米）",
+      "ja-hint": "オセロ（べい）",
+      "zh": "黑白棋（美）",
+      "zh-hint": "heibaiqi (mei)"
+    }
+  }
+}

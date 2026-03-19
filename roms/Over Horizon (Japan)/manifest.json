@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 767,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "オーバーホライゾン（日）",
+      "ja-hint": "オーバーホライゾン（にち）",
+      "zh": "飞越地平线（日）",
+      "zh-hint": "feiyuedipingxian (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 569,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "メタルスレイダーグローリー（日）",
+      "ja-hint": "メタルスレイダーグローリー（にち）",
+      "zh": "金属之光（金属荣耀）（日）",
+      "zh-hint": "jinshuzhiguang (jinshurongyao) (ri)"
+    }
+  }
+}

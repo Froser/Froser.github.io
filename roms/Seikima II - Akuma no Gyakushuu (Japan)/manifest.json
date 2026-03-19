@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "聖飢魔2悪魔の逆襲（日）",
+      "ja-hint": "ひじりきま2あくまのぎゃくしゅう（にち）",
+      "zh": "圣饥魔2恶魔的逆袭（日）",
+      "zh-hint": "shengjimo2emodenixi (ri)"
+    }
+  }
+}

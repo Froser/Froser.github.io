@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Side Pocket (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 734,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Side Pocket (USA)": {
+      "ja": "サイドポケット（米）",
+      "ja-hint": "サイドポケット（べい）",
+      "zh": "花式台球（美）",
+      "zh-hint": "huashitaiqiu (mei)"
+    },
+    "default": {
+      "ja": "サイドポケット（日）",
+      "ja-hint": "サイドポケット（にち）",
+      "zh": "花式台球（日）",
+      "zh-hint": "huashitaiqiu (ri)"
+    }
+  }
+}

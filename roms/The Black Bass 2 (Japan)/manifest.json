@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Black Bass USA (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "The Black Bass USA (USA)": {
+      "ja": "ザ ブラックバス2（米）",
+      "ja-hint": "ザ ブラックバス2（べい）",
+      "zh": "钓鱼模拟游戏：黑巴斯2（美）",
+      "zh-hint": "diaoyumoniyouxi：heibasi2 (mei)"
+    },
+    "default": {
+      "ja": "ザ ブラックバス2（日）",
+      "ja-hint": "ザ ブラックバス2（にち）",
+      "zh": "钓鱼模拟游戏：黑巴斯2（日）",
+      "zh-hint": "diaoyumoniyouxi：heibasi2 (ri)"
+    }
+  }
+}

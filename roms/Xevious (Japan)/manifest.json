@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Xevious - The Avenger (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Xevious - The Avenger (USA)": {
+      "ja": "ゼビウス（米）",
+      "ja-hint": "ゼビウス（べい）",
+      "zh": "铁板阵（美）",
+      "zh-hint": "tiebanzhen (mei)"
+    },
+    "default": {
+      "ja": "ゼビウス（日）",
+      "ja-hint": "ゼビウス（にち）",
+      "zh": "铁板阵（日）",
+      "zh-hint": "tiebanzhen (ri)"
+    }
+  }
+}

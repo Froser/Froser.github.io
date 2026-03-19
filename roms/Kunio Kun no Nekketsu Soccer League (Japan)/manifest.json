@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Nintendo World Cup (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 362,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Nintendo World Cup (USA)": {
+      "ja": "くにおくんの熱血サッカーリーグ（米）",
+      "ja-hint": "くにおくんのねっけつサッカーリーグ（べい）",
+      "zh": "国夫君的热血足球（美）",
+      "zh-hint": "guofujunderexuezuqiu (mei)"
+    },
+    "default": {
+      "ja": "くにおくんの熱血サッカーリーグ（日）",
+      "ja-hint": "くにおくんのねっけつサッカーリーグ（にち）",
+      "zh": "国夫君的热血足球（日）",
+      "zh-hint": "guofujunderexuezuqiu (ri)"
+    }
+  }
+}

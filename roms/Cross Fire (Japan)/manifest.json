@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クロスファイヤー（日）",
+      "zh": "穿越火线（日）",
+      "zh-hint": "chuanyuehuoxian(ri)"
+    }
+  }
+}

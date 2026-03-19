@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザ　イミュータブル（米）",
+      "ja-hint": "ザ　イミュータブル（べい）",
+      "zh": "不死传说（美）",
+      "zh-hint": "busichuanshuo (mei)"
+    }
+  }
+}

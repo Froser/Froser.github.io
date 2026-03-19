@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "God Slayer - Haruka Tenkuu no Sonata (Japan)": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "God Slayer - Haruka Tenkuu no Sonata (Japan)": {
+      "ja": "ゴッド・スレイヤー はるか天空のソナタ（日）",
+      "ja-hint": "ゴッド・スレイヤー はるかてんくうのソナタ（にち）",
+      "zh": "天神之剑 - 遥远的天空奏鸣曲（日）",
+      "zh-hint": "tianshenzhijian - yaoyuandetiankongzoumingqu(ri)"
+    },
+    "default": {
+      "ja": "ゴッド・スレイヤー はるか天空のソナタ（米）",
+      "ja-hint": "ゴッド・スレイヤー はるかてんくうのソナタ（べい）",
+      "zh": "天神之剑 - 遥远的天空奏鸣曲（美）",
+      "zh-hint": "tianshenzhijian - yaoyuandetiankongzoumingqu(mei)"
+    }
+  }
+}

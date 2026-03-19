@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Mad City (Japan)": {
+      "height": 736,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Mad City (Japan)": {
+      "ja": "マッドシティ（日）",
+      "ja-hint": "マッドシティ（にち）",
+      "zh": "鳄鱼先生（日）",
+      "zh-hint": "eyuxiansheng (ri)"
+    },
+    "default": {
+      "ja": "マッドシティ（米）",
+      "ja-hint": "マッドシティ（べい）",
+      "zh": "鳄鱼先生（美）",
+      "zh-hint": "eyuxiansheng (ri)"
+    }
+  }
+}

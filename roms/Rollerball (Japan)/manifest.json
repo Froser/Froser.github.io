@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Rollerball (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Rollerball (USA)": {
+      "ja": "ローラーボール（米）",
+      "ja-hint": "ローラーボール（べい）",
+      "zh": "超级弹珠柜（美）",
+      "zh-hint": "chaojidanzhugui (mei)"
+    },
+    "default": {
+      "ja": "ローラーボール（日）",
+      "ja-hint": "ローラーボール（にち）",
+      "zh": "超级弹珠柜（日）",
+      "zh-hint": "chaojidanzhugui (ri)"
+    }
+  }
+}

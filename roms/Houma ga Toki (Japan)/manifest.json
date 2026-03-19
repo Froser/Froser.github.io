@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dr. Jekyll and Mr. Hyde (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "Dr. Jekyll and Mr. Hyde (USA)": {
+      "ja": "ジーキル博士の彷魔が刻（米）",
+      "ja-hint": "ジーキルはかせのほうまがこく（べい）",
+      "zh": "化身博士（美）",
+      "zh-hint": "huashenboshi (mei)"
+    },
+    "default": {
+      "ja": "ジーキル博士の彷魔が刻（日）",
+      "ja-hint": "ジーキルはかせのほうまがこく（にち）",
+      "zh": "化身博士（日）",
+      "zh-hint": "huashenboshi (ri)"
+    }
+  }
+}

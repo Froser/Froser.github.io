@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Airwolf (Japan)": {
+      "height": 357,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Airwolf (Japan)": {
+      "ja": "エアーウルフ（日）",
+      "ja-hint": "エアーウルフ（にち）",
+      "zh": "飞狼（日）",
+      "zh-hint": "feilang (ri)"
+    },
+    "default": {
+      "ja": "エアーウルフ（米）",
+      "ja-hint": "エアーウルフ（べい）",
+      "zh": "飞狼（美）",
+      "zh-hint": "feilang (mei)"
+    }
+  }
+}

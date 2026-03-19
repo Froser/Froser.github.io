@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アルキスタ リング（米）",
+      "ja-hint": "アルキスタ リング（べい）",
+      "zh": "阿基斯塔之戒（美）",
+      "zh-hint": "ajisitazhijie (mei)"
+    }
+  }
+}

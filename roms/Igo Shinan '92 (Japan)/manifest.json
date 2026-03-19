@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 751,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "囲碁指南 '92（日）",
+      "ja-hint": "いごしなん '92（にち）",
+      "zh": "围棋指南92（日）",
+      "zh-hint": "weiqizhinan92 (ri)"
+    }
+  }
+}

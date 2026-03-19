@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 346,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "熱血高校ドッジボール部サッカー編（日）",
+      "ja-hint": "ねっけつこうこうドッジボールぶサッカーへん（にち）",
+      "zh": "热血高校躲避球部足球篇（日）",
+      "zh-hint": "rexiegaoxiaoduobiqiubuzuqiupian (ri)"
+    }
+  }
+}

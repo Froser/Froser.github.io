@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "谷川浩司の将棋指南2（日）",
+      "ja-hint": "たにがわこうじのしょうぎしなん2（にち）",
+      "zh": "将棋指南2：称为名人的道路（日）",
+      "zh-hint": "jiangqizhinan2：chengweimingrendedaolu (ri)"
+    }
+  }
+}

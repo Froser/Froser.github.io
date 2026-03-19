@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Jリーグ ウィニングゴール（日）",
+      "ja-hint": "Jリーグ ウィニングゴール（にち）",
+      "zh": "J联盟胜利足球（日）",
+      "zh-hint": "jlianmengshenglizuqiu(ri)"
+    }
+  }
+}

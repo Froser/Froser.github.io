@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーラグビー（日）",
+      "ja-hint": "スーパーラグビー（にち）",
+      "zh": "超级橄榄球（日）",
+      "zh-hint": "chaojiganlanqiu (ri)"
+    }
+  }
+}

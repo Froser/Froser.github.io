@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "コンセントレーション（米）",
+      "ja-hint": "コンセントレーション（べい）",
+      "zh": "集中力竞赛秀（美）",
+      "zh-hint": "jizhonglijingsaixiu (mei)"
+    }
+  }
+}

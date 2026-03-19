@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プロジェクトQ（日）",
+      "ja-hint": "プロジェクトQ（にち）",
+      "zh": "猜谜项目Q（日）",
+      "zh-hint": "caimixiangmuQ (ri)"
+    }
+  }
+}

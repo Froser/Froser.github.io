@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 350,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エッガーランド　迷宮の復活（日）",
+      "ja-hint": "エッガーランド　めいきゅうのふっかつ（にち）",
+      "zh": "蛋王子：迷宫复活（日）",
+      "zh-hint": "danwangzi：migongfuhuo (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バレーボール（米）",
+      "ja-hint": "バレーボール（べい）",
+      "zh": "排球（美）",
+      "zh-hint": "paiqiu (mei)"
+    }
+  }
+}

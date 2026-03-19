@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "中華大仙（日）",
+      "ja-hint": "ちゅうかだいせん（にち）",
+      "zh": "中华大仙（日）",
+      "zh-hint": "zhonghuadaxian (ri)"
+    }
+  }
+}

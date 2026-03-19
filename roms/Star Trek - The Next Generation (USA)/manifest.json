@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スタートレック2（米）",
+      "ja-hint": "スタートレック2（べい）",
+      "zh": "星际迷航2",
+      "zh-hint": "xingjimihang2"
+    }
+  }
+}

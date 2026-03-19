@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パワーサッカー（日）",
+      "ja-hint": "パワーサッカー（にち）",
+      "zh": "弹力足球（日）",
+      "zh-hint": "danlizuqiu (ri)"
+    }
+  }
+}

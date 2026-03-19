@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Amagon (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Amagon (USA)": {
+      "ja": "突然!マッチョマン（米）",
+      "ja-hint": "とつぜん!マッチョマン（べい）",
+      "zh": "突然君（美）",
+      "zh-hint": "turanjun (mei)"
+    },
+    "default": {
+      "ja": "突然!マッチョマン（日）",
+      "ja-hint": "とつぜん!マッチョマン（にち）",
+      "zh": "突然君（日）",
+      "zh-hint": "turanjun (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マイケル　ジョーダン ONE ON ONE（米）",
+      "ja-hint": "マイケル　ジョーダン ONE ON ONE（べい）",
+      "zh": "乔丹VS伯德（美）",
+      "zh-hint": "qiaodanVSbode (mei)"
+    }
+  }
+}

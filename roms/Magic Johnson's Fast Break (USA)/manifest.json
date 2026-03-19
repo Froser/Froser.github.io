@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マジック　ジョンソンのファストブレイク（米）",
+      "ja-hint": "マジック　ジョンソンのファストブレイク（べい）",
+      "zh": "魔术师约翰逊的快攻（美）",
+      "zh-hint": "mozhushiyuehanxundekuaigong (mei)"
+    }
+  }
+}

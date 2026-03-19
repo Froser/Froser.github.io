@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 374,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タイトーチェイスＨ．Ｑ．（日）",
+      "ja-hint": "タイトーチェイスＨ．Ｑ．（にち）",
+      "zh": "追踪HQ（日）",
+      "zh-hint": "zhuizongHQ (ri)"
+    }
+  }
+}

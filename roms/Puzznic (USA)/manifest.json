@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Puzznic (Japan)": {
+      "height": 744,
+      "width": 512
+    },
+    "default": {
+      "height": 352,
+      "width": 256
+    }
+  },
+  "titles": {
+    "Puzznic (Japan)": {
+      "ja": "パズニック（日）",
+      "ja-hint": "パズニック（にち）",
+      "zh": "神奇方块（日）",
+      "zh-hint": "shenqifangkuai  (ri)"
+    },
+    "default": {
+      "ja": "パズニック（米）",
+      "ja-hint": "パズニック（べい）",
+      "zh": "神奇方块（美）",
+      "zh-hint": "shenqifangkuai (mei)"
+    }
+  }
+}

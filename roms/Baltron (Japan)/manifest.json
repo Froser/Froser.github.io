@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バルトロン（日）",
+      "ja-hint": "バルトロン（にち）",
+      "zh": "巴特龙战机（日）",
+      "zh-hint": "batelongzhanji (ri)"
+    }
+  }
+}

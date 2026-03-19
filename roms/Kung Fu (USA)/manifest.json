@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "カンフー（米）",
+      "ja-hint": "カンフー（べい）",
+      "zh": "成龙踢馆（美）",
+      "zh-hint": "chenglongtiguan (mei)"
+    }
+  }
+}

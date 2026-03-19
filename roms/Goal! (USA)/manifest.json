@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 704,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "GOAL!!（米）",
+      "ja-hint": "GOAL!!（べい）",
+      "zh": "足球GOAL！（美）",
+      "zh-hint": "zuqiuGOAL！ (mei)"
+    }
+  }
+}

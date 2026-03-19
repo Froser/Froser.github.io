@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "つっぱり大相撲（日）",
+      "ja-hint": "つっぱりおおずもう（にち）",
+      "zh": "大相扑（日）",
+      "zh-hint": "daxiangpu (ri)"
+    }
+  }
+}

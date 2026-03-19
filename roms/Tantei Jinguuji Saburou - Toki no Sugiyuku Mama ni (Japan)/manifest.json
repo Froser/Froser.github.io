@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 384,
+      "width": 259
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "探偵 神宮寺三郎 時の過ぎゆくままに（日）",
+      "ja-hint": "たんてい じんぐうじさぶろう ときのすぎゆくままに（にち）",
+      "zh": "侦探神宫原三郎：过了那时（日）",
+      "zh-hint": "zhentanshengongyuansanlang：guolenashi (ri)"
+    }
+  }
+}

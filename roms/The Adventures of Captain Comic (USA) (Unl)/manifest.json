@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 702,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャプテンコミックの冒険（米）",
+      "ja-hint": "キャプテンコミックのぼうけん（べい）",
+      "zh": "滑稽队长大冒险（美）",
+      "zh-hint": "huajiduichangdamaoxian (mei)"
+    }
+  }
+}

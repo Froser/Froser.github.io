@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タイニー　トゥーン アドベンチャーズ　カートゥーン　ワークショップ（米）",
+      "ja-hint": "タイニー　トゥーン アドベンチャーズ　カートゥーン　ワークショップ（べい）",
+      "zh": "兔宝宝卡通创作室（美）",
+      "zh-hint": "tubaobaoqiatongchuangzuoshi (mei)"
+    }
+  }
+}

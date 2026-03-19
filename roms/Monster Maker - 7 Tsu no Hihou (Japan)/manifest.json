@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 745,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "モンスターメーカー７つの秘宝（日）",
+      "ja-hint": "モンスターメーカー７つのひほう（にち）",
+      "zh": "怪兽制造场：七个大密宝（日）",
+      "zh-hint": "guaishouzhizaochang：qigedamibao (ri)"
+    }
+  }
+}

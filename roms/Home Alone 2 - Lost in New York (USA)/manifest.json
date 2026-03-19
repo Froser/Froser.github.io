@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホームアローン2（米）",
+      "ja-hint": "ホームアローン2（べい）",
+      "zh": "小鬼当家2（美）",
+      "zh-hint": "xiaoguidangjia2 (mei)"
+    }
+  }
+}

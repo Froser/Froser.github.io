@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "グールスクール（米）",
+      "ja-hint": "グールスクール（べい）",
+      "zh": "幽灵校园（美）",
+      "zh-hint": "youlingxiaoyuan (mei)"
+    }
+  }
+}

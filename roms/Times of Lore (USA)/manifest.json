@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Times of Lore (Japan)": {
+      "height": 719,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Times of Lore (Japan)": {
+      "ja": "タイムズオブロア失われたメダリオン（日）",
+      "ja-hint": "タイムズオブロアうしなわれたメダリオン（にち）",
+      "zh": "时空勇士（日）",
+      "zh-hint": "shikongyongshi (ri)"
+    },
+    "default": {
+      "ja": "タイムズオブロア失われたメダリオン（米）",
+      "ja-hint": "タイムズオブロアうしなわれたメダリオン（べい）",
+      "zh": "时空勇士（美）",
+      "zh-hint": "shikongyongshi (mei)"
+    }
+  }
+}

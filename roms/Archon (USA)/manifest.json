@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アーコン（米）",
+      "ja-hint": "アーコン（べい）",
+      "zh": "执政者：光明与黑暗（美）",
+      "zh-hint": "zhizhengzhe：guangmingyuheian (mei)"
+    }
+  }
+}

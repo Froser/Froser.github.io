@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Galaga - Demons of Death (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Galaga - Demons of Death (USA)": {
+      "ja": "ギャラガ（米）",
+      "zh": "大蜜蜂（美）"
+    },
+    "default": {
+      "ja": "ギャラガ（日）",
+      "zh": "大蜜蜂（日）",
+      "zh-hint": "damifeng(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 741,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スペースハリアー（日）",
+      "ja-hint": "スペースハリアー（にち）",
+      "zh": "时空战士 - 太空哈利（日）",
+      "zh-hint": "shikongzhanshi - taikonghali (ri)"
+    }
+  }
+}

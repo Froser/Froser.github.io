@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Conquest of the Crystal Palace (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Conquest of the Crystal Palace (USA)": {
+      "ja": "魔天童子（米）",
+      "zh": "魔天童子（美）"
+    },
+    "default": {
+      "ja": "魔天童子（日）",
+      "ja-hint": "まてんどうじ（にち）",
+      "zh": "魔天童子（日）",
+      "zh-hint": "motiantongzi(ri)"
+    }
+  }
+}

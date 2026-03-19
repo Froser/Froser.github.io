@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 728,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ムーンクリスタル（日）",
+      "ja-hint": "ムーンクリスタル（にち）",
+      "zh": "月之水晶（日）",
+      "zh-hint": "yuezhishuijing (ri)"
+    }
+  }
+}

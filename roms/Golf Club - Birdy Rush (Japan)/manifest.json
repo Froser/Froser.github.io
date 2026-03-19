@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 346,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゴルフ倶楽部バーディラッシユ（日）",
+      "ja-hint": "ゴルフくらぶバーディラッシユ（にち）",
+      "zh": "高球锦标赛（日）",
+      "zh-hint": "gaoqiujinbiaosai (ri)"
+    }
+  }
+}

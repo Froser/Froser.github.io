@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "グリーンベレー（米）",
+      "ja-hint": "グリーンベレー（べい）",
+      "zh": "绿色兵团（美）",
+      "zh-hint": "lvsebingtuan (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 725,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バイブル　ビュッフェ（米）",
+      "ja-hint": "バイブル　ビュッフェ（べい）",
+      "zh": "圣经盛宴（美）",
+      "zh-hint": "shengjingshengyan (mei)"
+    }
+  }
+}

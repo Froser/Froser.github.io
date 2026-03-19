@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ninja Gaiden III - The Ancient Ship of Doom (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Ninja Gaiden III - The Ancient Ship of Doom (USA)": {
+      "ja": "忍者龍剣伝3 - 黄泉の方舟（米）",
+      "ja-hint": "にんじゃりゅうけんでん3 - よみのはこぶね（べい）",
+      "zh": "忍者龙剑传3 - 黄泉的方舟（美）",
+      "zh-hint": "renzhelongjianchuan3 - huangquandefangzhou (mei)"
+    },
+    "default": {
+      "ja": "忍者龍剣伝3 - 黄泉の方舟（日）",
+      "ja-hint": "にんじゃりゅうけんでん3 - よみのはこぶね（にち）",
+      "zh": "忍者龙剑传3 - 黄泉的方舟（日）",
+      "zh-hint": "renzhelongjianzhuan3 - huangquandefangzhou(ri)"
+    }
+  }
+}

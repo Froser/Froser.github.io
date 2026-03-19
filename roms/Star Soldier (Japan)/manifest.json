@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Star Soldier (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 273,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Star Soldier (USA)": {
+      "ja": "スターソルジャー（米）",
+      "ja-hint": "スターソルジャー（べい）",
+      "zh": "星际战士（美）",
+      "zh-hint": "xingjizhanshi(ri) (mei)"
+    },
+    "default": {
+      "ja": "スターソルジャー（日）",
+      "ja-hint": "スターソルジャー（にち）",
+      "zh": "星际战士（日）",
+      "zh-hint": "xingjizhanshi(ri)"
+    }
+  }
+}

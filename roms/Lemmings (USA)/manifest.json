@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "レミングス（米）",
+      "ja-hint": "レミングス（べい）",
+      "zh": "旅鼠（美）",
+      "zh-hint": "lvshu(mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "燃えろ!!プロテニス（米）",
+      "ja-hint": "もえろ!!プロテニス（べい）",
+      "zh": "网球之星（美）",
+      "zh-hint": "wangqiuzhixing (mei)"
+    }
+  }
+}

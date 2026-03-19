@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミリーボクシング（日）",
+      "ja-hint": "ファミリーボクシング（にち）",
+      "zh": "世界拳击赛（日）",
+      "zh-hint": "shijiequanjisai (ri)"
+    }
+  }
+}

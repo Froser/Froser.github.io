@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "谷川浩司の将棋指南3（日）",
+      "ja-hint": "たにがわこうじのしょうぎしなん3（にち）",
+      "zh": "将棋指南3（日）",
+      "zh-hint": "jiangqizhinan3 (ri)"
+    }
+  }
+}

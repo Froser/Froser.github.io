@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダイナマイトボウル（日）",
+      "ja-hint": "ダイナマイトボウル（にち）",
+      "zh": "保龄球（日）",
+      "zh-hint": "baolingqiu (ri)"
+    }
+  }
+}

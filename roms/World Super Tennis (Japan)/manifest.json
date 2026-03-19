@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 357,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ワールドスーパーテニス（日）",
+      "ja-hint": "ワールドスーパーテニス（にち）",
+      "zh": "世界杯网球赛（日）",
+      "zh-hint": "shijiebeiwangqiusai (ri)"
+    }
+  }
+}

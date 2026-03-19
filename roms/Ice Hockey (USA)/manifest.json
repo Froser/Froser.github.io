@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 281
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アイスホッケー（米）",
+      "ja-hint": "アイスホッケー（べい）",
+      "zh": "冰上曲棍球（美）",
+      "zh-hint": "bingshangqugunqiu(mei)"
+    }
+  }
+}

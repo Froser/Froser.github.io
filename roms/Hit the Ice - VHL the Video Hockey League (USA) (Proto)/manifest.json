@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 674,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ヒット ジ アイス（米）",
+      "ja-hint": "ヒット ジ アイス（べい）",
+      "zh": "冲击冰面 - VHL 冰球视频联赛（美）",
+      "zh-hint": "chongjibingmian - VHL bingqiushipinliansai (mei)"
+    }
+  }
+}

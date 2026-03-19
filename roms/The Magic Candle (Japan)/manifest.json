@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 721,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マジックキャンドル（日）",
+      "ja-hint": "マジックキャンドル（にち）",
+      "zh": "魔烛（日）",
+      "zh-hint": "mozhu (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "一揆（日）",
+      "ja-hint": "いっき（にち）",
+      "zh": "农夫忍者（日）",
+      "zh-hint": "nongfurenzhe(ri)"
+    }
+  }
+}

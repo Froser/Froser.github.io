@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザトライアスロン（日）",
+      "ja-hint": "ザトライアスロン（にち）",
+      "zh": "铁人竞技（日）",
+      "zh-hint": "tierenjingji (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dig Dug II - Trouble in Paradise (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 329,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Dig Dug II - Trouble in Paradise (USA)": {
+      "ja": "ディグダグ2（米）",
+      "ja-hint": "ディグダグ2（べい）",
+      "zh": "打空气2（美）",
+      "zh-hint": "dakongqi2 (mei)"
+    },
+    "default": {
+      "ja": "ディグダグ2（日）",
+      "ja-hint": "ディグダグ2（にち）",
+      "zh": "打空气2（日）",
+      "zh-hint": "dakongqi2 (ri)"
+    }
+  }
+}

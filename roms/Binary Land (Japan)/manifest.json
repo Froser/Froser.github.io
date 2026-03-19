@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バイナリィランド（日）",
+      "ja-hint": "バイナリィランド（にち）",
+      "zh": "企鹅先生（日）",
+      "zh-hint": "qiexiansheng (ri)"
+    }
+  }
+}

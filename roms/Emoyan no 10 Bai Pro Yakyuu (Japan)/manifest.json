@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 818,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エモやんの10倍プロ野球セリーグ編（日）",
+      "ja-hint": "エモやんの10ばいプロやきゅうセリーグへん（にち）",
+      "zh": "10倍职业棒球（日）",
+      "zh-hint": "10beizhiyebangqiu (ri)"
+    }
+  }
+}

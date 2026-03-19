@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マリオ・ズ・タイムマシーン（米）",
+      "zh": "马里奥的时间机器（美）",
+      "zh-hint": "maliaodeshijianjiqi(mei)"
+    }
+  }
+}

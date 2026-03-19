@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Dragon Wars (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Dragon Wars (Japan)": {
+      "ja": "ドラゴンウォーズ（日）",
+      "zh": "龙之战（日）",
+      "zh-hint": "longzhizhan(ri)"
+    },
+    "default": {
+      "ja": "ドラゴンウォーズ（米）",
+      "zh": "龙之战（美）",
+      "zh-hint": "longzhizhan(mei)"
+    }
+  }
+}

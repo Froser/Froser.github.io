@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "メタルストーム（米）",
+      "ja-hint": "メタルストーム（べい）",
+      "zh": "金属风暴（美）",
+      "zh-hint": "jinshufengbao (mei)"
+    }
+  }
+}

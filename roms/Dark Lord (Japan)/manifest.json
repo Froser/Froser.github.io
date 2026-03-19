@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 759,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アルカノイド（日）",
+      "ja-hint": "アルカノイド（にち）",
+      "zh": "黑暗骑士（日）",
+      "zh-hint": "heianqishi (ri)"
+    }
+  }
+}

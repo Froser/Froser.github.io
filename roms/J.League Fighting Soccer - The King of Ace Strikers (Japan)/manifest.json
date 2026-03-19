@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Jリーグ ファイティングサッカー（日）",
+      "ja-hint": "Jリーグ ファイティングサッカー（にち）",
+      "zh": "J联盟超级足球（日）",
+      "zh-hint": "jlianmengchaojizuqiu(ri)"
+    }
+  }
+}

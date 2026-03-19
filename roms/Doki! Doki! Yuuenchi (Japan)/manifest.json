@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 369,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドキ!ドキ!遊園地（日）",
+      "ja-hint": "ドキ!ドキ!ゆうえんち（にち）",
+      "zh": "游园地（日）",
+      "zh-hint": "youyuandi (ri)"
+    }
+  }
+}

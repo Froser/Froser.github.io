@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 350,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "森田将棋（日）",
+      "ja-hint": "もりたしょうぎ（にち）",
+      "zh": "森田将棋（日）",
+      "zh-hint": "sentianjiangqi (ri)"
+    }
+  }
+}

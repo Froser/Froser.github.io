@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "魔宮の伝説（米）",
+      "ja-hint": "まきゅうのでんせつ（べい）",
+      "zh": "魔宫传奇（美）",
+      "zh-hint": "mogongchuanqi (mei)"
+    }
+  }
+}

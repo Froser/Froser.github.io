@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ナーク（米）",
+      "ja-hint": "ナーク（べい）",
+      "zh": "城市猎人（美）",
+      "zh-hint": "chengshilieren (mei)"
+    }
+  }
+}

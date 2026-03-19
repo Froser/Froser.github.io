@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 259,
+      "width": 384
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウルトラマン倶楽部２帰ってきたウルトラマン倶楽部（日）",
+      "ja-hint": "ウルトラマンくらぶ２かえってきたウルトラマンくらぶ（にち）",
+      "zh": "奥特曼怪兽超人俱乐部2：归来吧怪兽超人俱乐部（日）",
+      "zh-hint": "aotemanguaishouchaorenjulebu2：guilaibaguaishouchaorenjulebu (ri)"
+    }
+  }
+}

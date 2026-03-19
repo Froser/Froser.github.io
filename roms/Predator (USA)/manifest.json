@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Predator (Japan)": {
+      "height": 356,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Predator (Japan)": {
+      "ja": "プレデター（日）",
+      "ja-hint": "プレデター（にち）",
+      "zh": "终极战士（日）",
+      "zh-hint": "zhongjizhanshi (ri)"
+    },
+    "default": {
+      "ja": "プレデター（米）",
+      "ja-hint": "プレデター（べい）",
+      "zh": "终极战士（美）",
+      "zh-hint": "zhongjizhanshi (mei)"
+    }
+  }
+}

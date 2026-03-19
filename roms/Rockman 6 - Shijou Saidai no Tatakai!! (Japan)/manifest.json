@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Mega Man 6 (USA)": {
+      "height": 400,
+      "width": 284
+    },
+    "default": {
+      "height": 278,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Mega Man 6 (USA)": {
+      "ja": "ロックマン6 - 史上最大の戦い!!（米）",
+      "zh": "洛克人6 - 史上最大战争!!（美）"
+    },
+    "default": {
+      "ja": "ロックマン6 - 史上最大の戦い!!（日）",
+      "ja-hint": "ロックマン6 - しじょうさいだいのたたかい（にち）",
+      "zh": "洛克人6 - 史上最大战争!!（日）",
+      "zh-hint": "luokeren6 - shishangzuidazhanzheng!!(ri)"
+    }
+  }
+}

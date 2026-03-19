@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ステッドSTED 遺跡惑星の野望（日）",
+      "ja-hint": "ステッドSTED いせきわくせいのやぼう（にち）",
+      "zh": "遗迹行星的野望（日）",
+      "zh-hint": "yijixingxingdeyewang (ri)"
+    }
+  }
+}

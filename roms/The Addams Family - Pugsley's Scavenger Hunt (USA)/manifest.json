@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アダムス　ファミリー：パグスリーのスカベンジャー ハント（米）",
+      "ja-hint": "アダムス　ファミリー：パグスリーのスカベンジャー ハント（べい）",
+      "zh": "亚当斯一家：普格斯利寻宝（美）",
+      "zh-hint": "yadangsiyijia：pugesilixunbao (mei)"
+    }
+  }
+}

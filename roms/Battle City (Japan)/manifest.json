@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 257,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バトルシティー（日）",
+      "zh": "坦克大战（日）",
+      "zh-hint": "tankedazhan(ri)"
+    }
+  }
+}

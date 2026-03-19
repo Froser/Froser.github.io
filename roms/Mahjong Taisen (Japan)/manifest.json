@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 767,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "麻雀大戦（日）",
+      "ja-hint": "まーじゃんたいせん（にち）",
+      "zh": "麻将大战（日）",
+      "zh-hint": "majiangdazhan (ri)"
+    }
+  }
+}

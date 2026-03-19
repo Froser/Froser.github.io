@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "忍者くん魔城の冒険（日）",
+      "ja-hint": "にんじゃくんましろのぼうけん（にち）",
+      "zh": "忍者君魔城的冒險（日）",
+      "zh-hint": "renzhejunmochengdemaoxian (ri)"
+    }
+  }
+}

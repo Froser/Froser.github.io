@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スラローム（米）",
+      "ja-hint": "スラローム（べい）",
+      "zh": "障碍滑雪赛（美）",
+      "zh-hint": "zhangaihuaxuesai (mei)"
+    }
+  }
+}

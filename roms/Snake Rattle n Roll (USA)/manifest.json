@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スネークラトルンロール（米）",
+      "ja-hint": "スネークラトルンロール（べい）",
+      "zh": "蛇形响尾蛇（美）",
+      "zh-hint": "shexingxiangweishe (mei)"
+    }
+  }
+}

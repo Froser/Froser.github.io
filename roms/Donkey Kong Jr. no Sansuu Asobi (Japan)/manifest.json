@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドンキーコングＪｒの算数遊び（日）",
+      "ja-hint": "ドンキーコングＪｒのさんすうあそび（にち）",
+      "zh": "小金刚算数（日）",
+      "zh-hint": "xiaojingangsuanshu (ri)"
+    }
+  }
+}

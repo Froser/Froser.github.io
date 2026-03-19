@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Godzilla (Japan)": {
+      "height": 742,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Godzilla (Japan)": {
+      "ja": "ゴジラ（日）",
+      "ja-hint": "ゴジラ（にち）",
+      "zh": "哥斯拉（日）",
+      "zh-hint": "gesila (ri)"
+    },
+    "default": {
+      "ja": "ゴジラ（米）",
+      "ja-hint": "ゴジラ（べい）",
+      "zh": "哥斯拉（美）",
+      "zh-hint": "gesila (mei)"
+    }
+  }
+}

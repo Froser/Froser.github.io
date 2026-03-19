@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Little Ninja Brothers (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 282,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Little Ninja Brothers (USA)": {
+      "ja": "スーパーチャイニーズ2 - ドラゴンキッド（米）",
+      "zh": "超级中国人2（美）"
+    },
+    "default": {
+      "ja": "スーパーチャイニーズ2 - ドラゴンキッド（日）",
+      "ja-hint": "スーパーチャイニーズ2ドラゴンキッド（にち）",
+      "zh": "超级中国人2（日）",
+      "zh-hint": "chaojizhongguoren2 (ri)"
+    }
+  }
+}

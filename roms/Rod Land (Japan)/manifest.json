@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "妖精物語ロッドランド（日）",
+      "ja-hint": "ようせいものがたりロッドランド（にち）",
+      "zh": "妖精物语（日）",
+      "zh-hint": "yaojingwuyu (ri)"
+    }
+  }
+}

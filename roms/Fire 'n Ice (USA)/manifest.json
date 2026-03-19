@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ソロモンの鍵（米）",
+      "ja-hint": "ソロモンのかぎ（べい）",
+      "zh": "所罗门之匙2（美）",
+      "zh-hint": "suoluomenzhishi2(mei)"
+    }
+  }
+}

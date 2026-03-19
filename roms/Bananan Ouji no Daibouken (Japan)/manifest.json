@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 279,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バナナ王子の大冒険（日）",
+      "zh": "香蕉王子大冒险（日）",
+      "zh-hint": "xiangjiaowangzidamaoxian(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダーティハリー（米）",
+      "ja-hint": "ダーティハリー（べい）",
+      "zh": "肮脏的哈里（美）",
+      "zh-hint": "hangzangdehali (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "からくり剣豪伝　ムサシロード　からくり人疾走る（日）",
+      "ja-hint": "からくりけんごうでんムサシロードからくりにんはしる（にち）",
+      "zh": "机械人剑豪传 武藏之路（日）",
+      "zh-hint": "jiqirenjianhaozhuanwuzangzhilu(ri)"
+    }
+  }
+}

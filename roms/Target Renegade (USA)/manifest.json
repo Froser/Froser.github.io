@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ターゲット：レネゲード（米）",
+      "ja-hint": "ターゲット：レネゲード（べい）",
+      "zh": "目标：叛徒（美）",
+      "zh-hint": "mubiao：pantu (mei)"
+    }
+  }
+}

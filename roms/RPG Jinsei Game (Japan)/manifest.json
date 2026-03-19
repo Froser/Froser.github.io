@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 261,
+      "width": 384
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "RPG人生ゲーム（日）",
+      "ja-hint": "RPGじんせいゲーム（にち）",
+      "zh": "人生游戏（日）",
+      "zh-hint": "renshengyouxi (ri)"
+    }
+  }
+}

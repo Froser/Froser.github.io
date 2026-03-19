@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "東京パチスロアドベンチャー（日）",
+      "ja-hint": "とうきょうパチスロアドベンチャー（にち）",
+      "zh": "东京柏青哥大冒险（日）",
+      "zh-hint": "dongjingbaiqinggedamaoxian (ri)"
+    }
+  }
+}

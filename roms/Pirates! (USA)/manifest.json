@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パイレーツ!（米）",
+      "ja-hint": "パイレーツ!（べい）",
+      "zh": "席德梅尔的海盗（美）",
+      "zh-hint": "xidemeierdehaidao (mei)"
+    }
+  }
+}

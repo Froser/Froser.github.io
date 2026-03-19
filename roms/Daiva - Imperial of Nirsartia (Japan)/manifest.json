@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 360,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ディーヴァナーサティアの玉座（日）",
+      "ja-hint": "ディーヴァナーサティアのぎょくざ（にち）",
+      "zh": "超人迪瓦（日）",
+      "zh-hint": "chaorendiwa (ri)"
+    }
+  }
+}

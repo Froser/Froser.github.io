@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ハローキティワールド（日）",
+      "ja-hint": "ハローキティワールド（にち）",
+      "zh": "Hello Kitty 世界（日）",
+      "zh-hint": "hellokittyshijie(ri)"
+    }
+  }
+}

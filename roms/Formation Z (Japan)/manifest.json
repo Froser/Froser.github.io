@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フォーメーションZ（日）",
+      "zh": "变形战机（日）",
+      "zh-hint": "bianxingzhanji(ri)"
+    }
+  }
+}

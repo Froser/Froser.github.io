@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゴルゴ13 第二章イカロスの謎（米）",
+      "ja-hint": "ゴルゴ13 だいにしょうイカロスのなぞ（べい）",
+      "zh": "狙击13 第二章 伊卡洛斯之谜（美）",
+      "zh-hint": "juji13dierzhangyikaluosizhimi (mei)"
+    }
+  }
+}

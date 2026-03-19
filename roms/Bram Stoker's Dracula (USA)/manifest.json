@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドラキュラ（米）",
+      "ja-hint": "ドラキュラ（べい）",
+      "zh": "德古拉吸血惊情四百年（美）",
+      "zh-hint": "degulaxixieliangqingsibainian (mei)"
+    }
+  }
+}

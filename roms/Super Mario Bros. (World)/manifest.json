@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーマリオブラザーズ",
+      "zh": "超级马里奥兄弟",
+      "zh-hint": "chaojimaliaoxiongdi"
+    }
+  }
+}

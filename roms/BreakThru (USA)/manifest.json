@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ブレイクスルー（米）",
+      "ja-hint": "ブレイクスルー（べい）",
+      "zh": "越野战车（美）",
+      "zh-hint": "yueyezhanche (mei)"
+    }
+  }
+}

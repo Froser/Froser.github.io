@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 718,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ラッシュアップ（日）",
+      "ja-hint": "ラッシュアップ（にち）",
+      "zh": "世界拳击（日）",
+      "zh-hint": "shijiequanji (ri)"
+    }
+  }
+}

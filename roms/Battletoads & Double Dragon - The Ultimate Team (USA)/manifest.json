@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バトルトードとダブルドラゴン（米）",
+      "ja-hint": "バトルトードとダブルドラゴン（べい）",
+      "zh": "忍者蛙和双截龙（美）",
+      "zh-hint": "renzhewaheshuangjielong (mei)"
+    }
+  }
+}

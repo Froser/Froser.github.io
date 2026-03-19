@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ラビリンス魔王の迷宮（日）",
+      "ja-hint": "ラビリンスまおうのめいきゅう（にち）",
+      "zh": "魔王迷宮（日）",
+      "zh-hint": "mowangmigong  (ri)"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Choujin - Ultra Baseball (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Choujin - Ultra Baseball (Japan)": {
+      "ja": "超人ウルトラベースボール（日）",
+      "zh": "超人究极棒球（日）"
+    },
+    "default": {
+      "ja": "超人ウルトラベースボール（米）",
+      "zh": "模拟棒球1000（美）",
+      "zh-hint": "monibangqiu1000(mei)"
+    }
+  }
+}

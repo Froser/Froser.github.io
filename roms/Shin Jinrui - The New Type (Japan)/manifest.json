@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Adventures of Dino Riki (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "The Adventures of Dino Riki (USA)": {
+      "ja": "新人類（米）",
+      "ja-hint": "しんじんるい（べい）",
+      "zh": "新人类（美）",
+      "zh-hint": "xinrenlei(ri) (mei)"
+    },
+    "default": {
+      "ja": "新人類（日）",
+      "ja-hint": "しんじんるい（日）",
+      "zh": "新人类（日）",
+      "zh-hint": "xinrenlei(ri)"
+    }
+  }
+}

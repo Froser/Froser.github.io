@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダウボーイ（日）",
+      "ja-hint": "ダウボーイ（にち）",
+      "zh": "美国大兵（日）",
+      "zh-hint": "meiguodabing (ri)"
+    }
+  }
+}

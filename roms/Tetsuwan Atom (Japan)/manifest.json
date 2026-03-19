@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "鉄腕アトム（日）",
+      "ja-hint": "てつわんアトム（にち）",
+      "zh": "铁臂阿童木（日）",
+      "zh-hint": "tiebiatongmu (ri)"
+    }
+  }
+}

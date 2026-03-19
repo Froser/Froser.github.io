@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Star Voyager (USA)": {
+      "height": 353,
+      "width": 256
+    },
+    "default": {
+      "height": 356,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Star Voyager (USA)": {
+      "ja": "コスモジェネシス（米）",
+      "ja-hint": "コスモジェネシス（べい）",
+      "zh": "宇宙创世纪（美）",
+      "zh-hint": "yuzhouchuangshiji (mei)"
+    },
+    "default": {
+      "ja": "コスモジェネシス（日）",
+      "ja-hint": "コスモジェネシス（にち）",
+      "zh": "宇宙创世纪（日）",
+      "zh-hint": "yuzhouchuangshiji (ri)"
+    }
+  }
+}

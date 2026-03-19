@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Donkey Kong (World) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 324,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Donkey Kong (World) (Rev A)": {
+      "ja": "ドンキーコング（米）",
+      "ja-hint": "ドンキーコング（べい）",
+      "zh": "大金刚（美）",
+      "zh-hint": "dajingang (mei)"
+    },
+    "default": {
+      "ja": "ドンキーコング（日）",
+      "ja-hint": "ドンキーコング（にち）",
+      "zh": "大金刚（日）",
+      "zh-hint": "dajingang (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Star Wars - The Empire Strikes Back (Japan)": {
+      "height": 743,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Star Wars - The Empire Strikes Back (Japan)": {
+      "ja": "スターウォーズ 帝国の逆襲（日）",
+      "ja-hint": "スターウォーズ ていこくのぎゃくしゅう（にち）",
+      "zh": "星球大战：帝国大反击（日）",
+      "zh-hint": "xingqiudazhan：diguodafanji (ri)"
+    },
+    "default": {
+      "ja": "スターウォーズ 帝国の逆襲（米）",
+      "ja-hint": "スターウォーズ ていこくのぎゃくしゅう（べい）",
+      "zh": "星球大战：帝国大反击（美）",
+      "zh-hint": "xingqiudazhan：diguodafanji (mei)"
+    }
+  }
+}

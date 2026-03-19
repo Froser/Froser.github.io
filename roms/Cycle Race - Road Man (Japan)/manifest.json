@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 753,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サイクルレース ロードマン 激走!! 日本一周4000km（日）",
+      "ja-hint": "サイクルレース ロードマン げきそう!! にほんいっしゅう4000km（にち）",
+      "zh": "单车王（日）",
+      "zh-hint": "danchewang (ri)"
+    }
+  }
+}

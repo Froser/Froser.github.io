@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Gekitou Stadium!! (Japan)": {
+      "height": 740,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Gekitou Stadium!! (Japan)": {
+      "ja": "激闘スタジアム（日）",
+      "ja-hint": "げきとうスタジアム（にち）",
+      "zh": "激斗棒球（日）",
+      "zh-hint": "jidoubangqiu(mei) (ri)"
+    },
+    "default": {
+      "ja": "激闘スタジアム（米）",
+      "ja-hint": "げきとうスタジアム（べい）",
+      "zh": "激斗棒球（美）",
+      "zh-hint": "jidoubangqiu(mei)"
+    }
+  }
+}

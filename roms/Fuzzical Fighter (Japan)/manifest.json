@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 272
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファジカルファイター（日）",
+      "zh": "奇幻勇士（日）",
+      "zh-hint": "qihuanyongshi(ri)"
+    }
+  }
+}

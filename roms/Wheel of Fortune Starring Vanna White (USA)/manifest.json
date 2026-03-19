@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホイール　オブ　フォーチュン：ヴァンナ・ホワイト（米）",
+      "ja-hint": "ホイール　オブ　フォーチュン：ヴァンナ・ホワイト（べい）",
+      "zh": "转轮台星星版（美）",
+      "zh-hint": "zhuanluntaixingxingban (mei)"
+    }
+  }
+}

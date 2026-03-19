@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Little Samson (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Little Samson (USA)": {
+      "ja": "聖鈴伝説 リックル（米）",
+      "zh": "圣铃传说（美）"
+    },
+    "default": {
+      "ja": "聖鈴伝説 リックル（日）",
+      "ja-hint": "せいれいでんせつ リックル（にち）",
+      "zh": "圣铃传说（日）",
+      "zh-hint": "shenglingchuanshuo(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゾイド　中央大陸の戦い（日）",
+      "ja-hint": "ゾイド　ちゅうおうだいりくのたたかい（にち）",
+      "zh": "洛依德：中央大陆之战（日）",
+      "zh-hint": "luoyide：zhongyangdaluzhizhan (ri)"
+    }
+  }
+}

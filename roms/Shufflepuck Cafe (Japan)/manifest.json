@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "シャッフルパックカフェ（日）",
+      "ja-hint": "シャッフルパックカフェ（にち）",
+      "zh": "浮球大赛（日）",
+      "zh-hint": "fuqiudasai (ri)"
+    }
+  }
+}

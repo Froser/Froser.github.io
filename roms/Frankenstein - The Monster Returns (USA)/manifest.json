@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フランケンシュタイン（米）",
+      "zh": "弗兰肯斯坦 - 怪兽归来（美）",
+      "zh-hint": "fulankensitan - guaishouguilai(mei)"
+    }
+  }
+}

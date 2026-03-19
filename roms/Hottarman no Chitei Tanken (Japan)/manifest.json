@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホッターマンの地底探険（日）",
+      "ja-hint": "ホッターマンのちていたんけん（にち）",
+      "zh": "地底探险（日）",
+      "zh-hint": "diditanxian(ri)"
+    }
+  }
+}

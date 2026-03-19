@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "コロンブス - 黄金の夜明け（日）",
+      "ja-hint": "コロンブス - おうごんのよあけ（にち）",
+      "zh": "哥伦布 - 黄金的黎明（日）",
+      "zh-hint": "gelunbu - huangjindeliming(ri)"
+    }
+  }
+}

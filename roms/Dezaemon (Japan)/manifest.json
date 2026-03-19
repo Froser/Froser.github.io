@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "絵描衛門（日）",
+      "ja-hint": "えびょうえもん（にち）",
+      "zh": "绘描卫门（日）",
+      "zh-hint": "huimiaoweimen (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アークティック（日）",
+      "ja-hint": "アークティック（にち）",
+      "zh": "北极星（日）",
+      "zh-hint": "beijixing (ri)"
+    }
+  }
+}

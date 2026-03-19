@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Gradius (Japan)": {
+      "height": 351,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Gradius (Japan)": {
+      "ja": "グラディウス（日）",
+      "ja-hint": "グラディウス（にち）",
+      "zh": "宇宙巡航机（日）",
+      "zh-hint": "yuzhouxunhangji(mei) (ri)"
+    },
+    "default": {
+      "ja": "グラディウス（米）",
+      "ja-hint": "グラディウス（べい）",
+      "zh": "宇宙巡航机（美）",
+      "zh-hint": "yuzhouxunhangji(mei)"
+    }
+  }
+}

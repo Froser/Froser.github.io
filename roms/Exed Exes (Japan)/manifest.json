@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エグゼド　エグゼス（日）",
+      "ja-hint": "エグゼド　エグゼス（にち）",
+      "zh": "超浮游要塞（日）",
+      "zh-hint": "chaofuyouyaosai (ri)"
+    }
+  }
+}

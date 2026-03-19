@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アイロンソード2（米）",
+      "ja-hint": "アイロンソード2（べい）",
+      "zh": "巫师与骑士2（美）",
+      "zh-hint": "wushiyuqishi2 (mei)"
+    }
+  }
+}

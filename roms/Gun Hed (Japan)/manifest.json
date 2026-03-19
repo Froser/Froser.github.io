@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ガンヘッド 新たなる戦い（日）",
+      "ja-hint": "ガンヘッド あらたなるたたかい（にち）",
+      "zh": "机甲战士：新的战役（日）",
+      "zh-hint": "jijiazhanshi：xindezhanyi (ri)"
+    }
+  }
+}

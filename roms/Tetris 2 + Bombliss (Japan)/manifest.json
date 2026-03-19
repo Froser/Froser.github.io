@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テトリス２＋ボンブリス（日）",
+      "ja-hint": "テトリス２＋ボンブリス（にち）",
+      "zh": "俄罗斯方块2 + 炸弹方块（日）",
+      "zh-hint": "eluosifangkuai2 + zhadanfangkuai (ri)"
+    }
+  }
+}

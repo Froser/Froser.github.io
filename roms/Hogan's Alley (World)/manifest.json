@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホーガンズアレイ（米）",
+      "ja-hint": "ホーガンズアレイ（べい）",
+      "zh": "警技射击（美）",
+      "zh-hint": "jingjisheji (mei)"
+    }
+  }
+}

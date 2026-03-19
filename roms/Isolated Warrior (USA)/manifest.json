@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Max Warrior - Wakusei Kaigenrei (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Max Warrior - Wakusei Kaigenrei (Japan)": {
+      "ja": "マックス・ウォーリアー 惑星戒厳令（日）",
+      "zh": "孤独战士（日）"
+    },
+    "default": {
+      "ja": "マックス・ウォーリアー 惑星戒厳令（米）",
+      "ja-hint": "マックス・ウォーリアー 惑星戒厳令（べい）",
+      "zh": "孤独战士（美）",
+      "zh-hint": "guduzhanshi(mei)"
+    }
+  }
+}

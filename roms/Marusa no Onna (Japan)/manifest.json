@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 725,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マルサの女（日）",
+      "ja-hint": "マルサのおんな（にち）",
+      "zh": "女税务官（日）",
+      "zh-hint": "nvshuiwuguan (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジッピーレース（日）",
+      "ja-hint": "ジッピーレース（にち）",
+      "zh": "疯狂赛车（日）",
+      "zh-hint": "fengkuangsaiche (ri)"
+    }
+  }
+}

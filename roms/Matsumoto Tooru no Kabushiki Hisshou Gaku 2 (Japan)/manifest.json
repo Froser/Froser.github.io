@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 843,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "松本亨の株式必勝学2（日）",
+      "ja-hint": "まつもととおるのかぶしきひっしょうがく（にち）",
+      "zh": "松本亨股票必胜学2（日）",
+      "zh-hint": "songbenhenggupiaobishengxue2 (ri)"
+    }
+  }
+}

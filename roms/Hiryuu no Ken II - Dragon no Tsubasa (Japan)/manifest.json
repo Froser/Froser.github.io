@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 762,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "飛龍の拳2 ドラゴンの翼（日）",
+      "ja-hint": "ひりゅうのこぶし2 ドラゴンのつばさ（にち）",
+      "zh": "飞龙之拳2 飞龙之翼（日）",
+      "zh-hint": "feilongzhiquan2 feilongzhiyi (ri)"
+    }
+  }
+}

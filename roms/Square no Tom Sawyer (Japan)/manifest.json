@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スクウェアのトムソーヤ（日）",
+      "ja-hint": "スクウェアのトムソーヤ（にち）",
+      "zh": "史克威尔的汤姆·索亚（日）",
+      "zh-hint": "shikeweierdetangmu·suoya (ri)"
+    }
+  }
+}

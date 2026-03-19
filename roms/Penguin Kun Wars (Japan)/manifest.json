@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ぺんぎんくんWARS（日）",
+      "ja-hint": "ぺんぎんくんWARS（にち）",
+      "zh": "投球大赛（日）",
+      "zh-hint": "touqiudasai (ri)"
+    }
+  }
+}

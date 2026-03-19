@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Dragon Warrior (USA) (Rev A)": {
+      "height": 400,
+      "width": 275
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Dragon Warrior (USA) (Rev A)": {
+      "ja": "ドラゴンクエスト（米）",
+      "zh": "勇者斗恶龙（美）",
+      "zh-hint": "yongzhedouelong(mei)"
+    },
+    "default": {
+      "ja": "ドラゴンクエスト（日）",
+      "zh": "勇者斗恶龙（日）",
+      "zh-hint": "yongzhedouelong(ri)"
+    }
+  }
+}

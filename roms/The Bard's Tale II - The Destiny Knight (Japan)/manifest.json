@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バーズテイル2（日）",
+      "ja-hint": "バーズテイル2（にち）",
+      "zh": "冰城传奇2：命运骑士（日）",
+      "zh-hint": "bingchengchuanqi2：mingyunqishi (ri)"
+    }
+  }
+}

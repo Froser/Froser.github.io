@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tecmo Super Bowl (Japan)": {
+      "height": 749,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Tecmo Super Bowl (Japan)": {
+      "ja": "テクモスーパーボウル（日）",
+      "ja-hint": "テクモスーパーボウル（にち）",
+      "zh": "特库摩超级美式橄榄球（日）",
+      "zh-hint": "tekumochaojimeishiganlanqiu (ri)"
+    },
+    "default": {
+      "ja": "テクモスーパーボウル（米）",
+      "ja-hint": "テクモスーパーボウル（べい）",
+      "zh": "特库摩超级美式橄榄球（美）",
+      "zh-hint": "tekumochaojimeishiganlanqiu (mei)"
+    }
+  }
+}

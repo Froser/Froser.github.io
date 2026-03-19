@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "イントルーダー 怒りの翼（米）",
+      "ja-hint": "イントルーダー いかりのつばさ（べい）",
+      "zh": "捍卫入侵者（美）",
+      "zh-hint": "hanweiruqinzhe (mei)"
+    }
+  }
+}

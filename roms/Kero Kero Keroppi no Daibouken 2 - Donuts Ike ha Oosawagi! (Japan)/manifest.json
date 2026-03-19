@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "けろけろけろっぴの大冒険2（日）",
+      "ja-hint": "けろけろけろっぴのだいぼうけん2（にち）",
+      "zh": "大眼蛙可乐比的大冒险2（日）",
+      "zh-hint": "dayanwakelebidedamaoxian2(ri)"
+    }
+  }
+}

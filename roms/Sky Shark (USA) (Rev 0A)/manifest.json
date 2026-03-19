@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スカイシャーク（米）",
+      "ja-hint": "スカイシャーク（べい）",
+      "zh": "天空鲨（美）",
+      "zh-hint": "tiankongsha (mei)"
+    }
+  }
+}

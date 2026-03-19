@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Trog!（米）",
+      "ja-hint": "Trog!（べい）",
+      "zh": "恐龙吃蛋（美）",
+      "zh-hint": "konglongchidan (mei)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 268,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エクセリオン（日）",
+      "zh": "火凤凰（日）",
+      "zh-hint": "huofenghuang(ri)"
+    }
+  }
+}

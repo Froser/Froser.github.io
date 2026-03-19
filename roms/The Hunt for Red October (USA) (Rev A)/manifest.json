@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "レッドオクトーバーを追え（米）",
+      "ja-hint": "レッドオクトーバーをおえ（べい）",
+      "zh": "猎杀红色十月（美）",
+      "zh-hint": "lieshahongseshiyue (mei)"
+    }
+  }
+}

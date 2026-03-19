@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Jackie Chan's Action Kung Fu (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 271
+    }
+  },
+  "titles": {
+    "Jackie Chan's Action Kung Fu (USA)": {
+      "ja": "ジャッキ・チェン（美）",
+      "zh": "成龙（美）"
+    },
+    "default": {
+      "ja": "ジャッキ・チェン（日）",
+      "ja-hint": "ジャッキチェン（にち）",
+      "zh": "成龙（日）",
+      "zh-hint": "chenglong(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バナナ（日）",
+      "ja-hint": "バナナ（にち）",
+      "zh": "香蕉（日）",
+      "zh-hint": "xiangjiao (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Nobunaga's Ambition II (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 726,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Nobunaga's Ambition II (USA)": {
+      "ja": "信長の野望　戦国群雄伝（米）",
+      "ja-hint": "のぶながのやぼう　せんごくぐんゆうでん（べい）",
+      "zh": "信长之野望　战国群雄传（美）",
+      "zh-hint": "xinchangzhiyewang　zhanguoqunxiongchuan (mei)"
+    },
+    "default": {
+      "ja": "信長の野望　戦国群雄伝（日）",
+      "ja-hint": "のぶながのやぼう　せんごくぐんゆうでん（にち）",
+      "zh": "信长之野望　战国群雄传（日）",
+      "zh-hint": "xinchangzhiyewang　zhanguoqunxiongchuan (ri)"
+    }
+  }
+}

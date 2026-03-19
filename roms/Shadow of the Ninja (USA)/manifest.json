@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Kage (Japan)": {
+      "height": 267,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Kage (Japan)": {
+      "ja": "闇の仕事人 KAGE（日）",
+      "ja-hint": "やみのしごとにん KAGE（にち）",
+      "zh": "赤影战士（日）",
+      "zh-hint": "chiyingzhanshi (ri)"
+    },
+    "default": {
+      "ja": "闇の仕事人 KAGE（米）",
+      "ja-hint": "やみのしごとにん KAGE（べい）",
+      "zh": "赤影战士（美）",
+      "zh-hint": "chiyingzhanshi (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スターゲイト（日）",
+      "ja-hint": "スターゲイト（にち）",
+      "zh": "时空门（日）",
+      "zh-hint": "shikongmen (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロードブラスターズ（米）",
+      "ja-hint": "ロードブラスターズ（べい）",
+      "zh": "公路赛车（美）",
+      "zh-hint": "gonglusaiche (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "WWFレッスルマニア　スティール　ケージ　チャレンジ（米）",
+      "ja-hint": "WWFレッスルマニア　スティール　ケージ　チャレンジ（べい）",
+      "zh": "WWF挑战赛（美）",
+      "zh-hint": "WWFtiaozhansai (mei)"
+    }
+  }
+}

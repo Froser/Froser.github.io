@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 704,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アダムス　ファミリー：フェスターズクエスト（米）",
+      "ja-hint": "アダムス　ファミリー：フェスターズクエスト（べい）",
+      "zh": "亚当斯一家：费斯特叔叔的冒险（美）",
+      "zh-hint": "yadangsiyijia：feisiteshushudemaoxian (mei)"
+    }
+  }
+}

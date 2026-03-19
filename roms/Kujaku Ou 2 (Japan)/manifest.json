@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "孔雀王2（日）",
+      "ja-hint": "くじゃくおう2（にち）",
+      "zh": "孔雀王2（日）",
+      "zh-hint": "kongquewang2(ri)"
+    }
+  }
+}

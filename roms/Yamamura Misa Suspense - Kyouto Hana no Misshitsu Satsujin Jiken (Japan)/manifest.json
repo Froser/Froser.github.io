@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 444,
+      "width": 640
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "山村美紗サスペンス 京都花の密室殺人事件（日）",
+      "ja-hint": "さんそんみさサスペンス きょうとはなのみっしつさつじんじけん（にち）",
+      "zh": "山村美纱悬疑系列：京都花之密室杀人事件（日）",
+      "zh-hint": "shancunmeishaxuanyixilie：jingduhuazhimishisharenshijian (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Mega Man 4 (USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Mega Man 4 (USA) (Rev A)": {
+      "ja": "ロックマン4 - 新たなる野望!!（米）",
+      "ja-hint": "ロックマン4 - あらたなるやぼう!!（べい）",
+      "zh": "洛克人4 - 新的野心!!（美）",
+      "zh-hint": "luokeren4 - xindeyexin!! (mei)"
+    },
+    "default": {
+      "ja": "ロックマン4 - 新たなる野望!!（日）",
+      "ja-hint": "ロックマン4 - あらたなるやぼう!!（にち）",
+      "zh": "洛克人4 - 新的野心!!（日）",
+      "zh-hint": "luokeren4 - xindeyexin!!(ri)"
+    }
+  }
+}

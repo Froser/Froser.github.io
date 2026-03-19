@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Baseball Star - Mezase Sankanou!! (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Baseball Star - Mezase Sankanou!! (Japan)": {
+      "ja": "ベースボールスターズ めざせ三冠王！！（日）",
+      "ja-hint": "ベースボールスターズ めざせさんかんおう！！（にち）",
+      "zh": "棒球之星 目标是三冠王！！（日）",
+      "zh-hint": "bangqiuzhixing mubiaoshisanguanwang！！ (ri)"
+    },
+    "default": {
+      "ja": "ベースボールスターズ（米）",
+      "ja-hint": "ベースボールスターズ（べい）",
+      "zh": "棒球之星（美）",
+      "zh-hint": "bangqiuzhixing(mei)"
+    }
+  }
+}

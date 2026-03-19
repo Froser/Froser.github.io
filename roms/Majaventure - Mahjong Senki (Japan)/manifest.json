@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 357,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "麻雀戦記（日）",
+      "ja-hint": "まーじゃんせんき（にち）",
+      "zh": "麻将战记（日）",
+      "zh-hint": "majiangzhanji (ri)"
+    }
+  }
+}

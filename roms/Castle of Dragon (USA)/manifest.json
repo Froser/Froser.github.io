@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dragon Unit (Japan)": {
+      "height": 355,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Dragon Unit (Japan)": {
+      "ja": "ドラゴンユニット（日）",
+      "ja-hint": "ドラゴンユニット（にち）",
+      "zh": "战斗龙单位（日）",
+      "zh-hint": "zhandoulongdanwei (ri)"
+    },
+    "default": {
+      "ja": "ドラゴンユニット（米）",
+      "ja-hint": "ドラゴンユニット（べい）",
+      "zh": "战斗龙单位（美）",
+      "zh-hint": "zhandoulongdanwei (mei)"
+    }
+  }
+}

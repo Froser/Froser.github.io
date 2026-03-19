@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "戦場の狼（米）",
+      "ja-hint": "せんじょうのおおかみ（べい）",
+      "zh": "战场之狼（美）",
+      "zh-hint": "zhanchangzhilang (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダックハント（米）",
+      "ja-hint": "ダックハント（べい）",
+      "zh": "打鸭子（美）",
+      "zh-hint": "dayazi (mei)"
+    }
+  }
+}

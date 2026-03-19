@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "高橋名人の冒険島4（日）",
+      "ja-hint": "たかはしめいじんのぼうけんしま4（にち）",
+      "zh": "冒险岛4（日）",
+      "zh-hint": "maoxiandao4 (ri)"
+    }
+  }
+}

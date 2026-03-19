@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Hudson's Adventure Island (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 272,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Hudson's Adventure Island (USA)": {
+      "ja": "高橋名人の冒険島（米）",
+      "ja-hint": "たかはしめいじんのぼうけんじま（べい）",
+      "zh": "冒险岛（美）",
+      "zh-hint": "maoxiandao (mei)"
+    },
+    "default": {
+      "ja": "高橋名人の冒険島（日）",
+      "ja-hint": "たかはしめいじんのぼうけんじま（にち）",
+      "zh": "冒险岛（日）",
+      "zh-hint": "maoxiandao(ri)"
+    }
+  }
+}

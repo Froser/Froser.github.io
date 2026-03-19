@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クール　ワールド（米）",
+      "ja-hint": "クール　ワールド（べい）",
+      "zh": "美女闯通关（美）",
+      "zh-hint": "meinvchuangtongguan (mei)"
+    }
+  }
+}

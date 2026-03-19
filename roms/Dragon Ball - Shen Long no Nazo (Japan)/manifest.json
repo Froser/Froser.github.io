@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dragon Power (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Dragon Power (USA)": {
+      "ja": "ドラゴンボール神龍の謎（米）",
+      "ja-hint": "ドラゴンボールしんりゅうのなぞ（べい）",
+      "zh": "七龙珠神龙之谜（美）",
+      "zh-hint": "qilongzhushenlongzhimi (mei)"
+    },
+    "default": {
+      "ja": "ドラゴンボール神龍の謎（日）",
+      "ja-hint": "ドラゴンボールしんりゅうのなぞ（にち）",
+      "zh": "七龙珠神龙之谜（日）",
+      "zh-hint": "qilongzhushenlongzhimi (ri)"
+    }
+  }
+}

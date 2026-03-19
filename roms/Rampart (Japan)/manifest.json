@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ランパート（日）",
+      "ja-hint": "ランパート（にち）",
+      "zh": "领国战役（日）",
+      "zh-hint": "lingguozhanyi (ri)"
+    }
+  }
+}

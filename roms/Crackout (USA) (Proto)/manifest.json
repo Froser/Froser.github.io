@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "謎の壁 ブロックくずし（米）",
+      "ja-hint": "なぞのかべ ブロックくずし（べい）",
+      "zh": "谜之壁:打砖块（美）",
+      "zh-hint": "mizhibi:dazhuankuai (mei)"
+    }
+  }
+}

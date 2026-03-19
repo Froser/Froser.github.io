@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "熱血!すとりーとバスケット（日）",
+      "ja-hint": "ねっけつ!すとりーとバスケット（にち）",
+      "zh": "热血街头篮球（日）",
+      "zh-hint": "rexiejietoulanqiu (ri)"
+    }
+  }
+}

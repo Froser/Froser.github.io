@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タッチミステリーオブトライアングル（日）",
+      "ja-hint": "タッチミステリーオブトライアングル（にち）",
+      "zh": "邻家女孩（日）",
+      "zh-hint": "linjianvhai (ri)"
+    }
+  }
+}

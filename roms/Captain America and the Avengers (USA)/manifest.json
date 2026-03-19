@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャプテンアメリカ アンド ジ アベンジャーズ（米）",
+      "ja-hint": "キャプテンアメリカ アンド ジ アベンジャーズ（べい）",
+      "zh": "美国队长与复仇者联盟（美）",
+      "zh-hint": "meiguoduichangyufuchouzhelianmeng (mei)"
+    }
+  }
+}

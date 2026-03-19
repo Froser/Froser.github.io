@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ultimate Basketball (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 767,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ultimate Basketball (USA)": {
+      "ja": "タイトーバスケットボール（米）",
+      "ja-hint": "タイトーバスケットボール（べい）",
+      "zh": "太东篮球（美）",
+      "zh-hint": "taidonglanqiu (mei)"
+    },
+    "default": {
+      "ja": "タイトーバスケットボール（日）",
+      "ja-hint": "タイトーバスケットボール（にち）",
+      "zh": "太东篮球（日）",
+      "zh-hint": "taidonglanqiu (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ギャラクシー5000（米）",
+      "ja-hint": "ギャラクシアン（べい）",
+      "zh": "银河5000（美）",
+      "zh-hint": "yinhe5000 (mei)"
+    }
+  }
+}

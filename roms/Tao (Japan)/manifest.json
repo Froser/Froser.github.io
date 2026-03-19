@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "究極の世紀末ロープレ　道（日）",
+      "ja-hint": "きゅうきょくのせいきまつロープレ　みち（にち）",
+      "zh": "道（日）",
+      "zh-hint": "dao (ri)"
+    }
+  }
+}

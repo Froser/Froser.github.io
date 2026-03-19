@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Track & Field II (USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Track & Field II (USA) (Rev A)": {
+      "ja": "コナミックスポーツ イン ソウル（米）",
+      "ja-hint": "コナミックスポーツ イン ソウル（べい）",
+      "zh": "科乐美首尔奥运会（美）",
+      "zh-hint": "kelemeishoueraoyunhui(ri) (mei)"
+    },
+    "default": {
+      "ja": "コナミックスポーツ イン ソウル（日）",
+      "ja-hint": "コナミックスポーツ イン ソウル（にち）",
+      "zh": "科乐美首尔奥运会（日）",
+      "zh-hint": "kelemeishoueraoyunhui(ri)"
+    }
+  }
+}

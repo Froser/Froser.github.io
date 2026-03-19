@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "不動明王伝（米）",
+      "ja-hint": "ふどうみょうおうでん（べい）",
+      "zh": "不动明王传（美）",
+      "zh-hint": "budongmingwangchuan (mei)"
+    }
+  }
+}

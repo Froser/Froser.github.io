@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ikari Warriors II - Victory Road (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Ikari Warriors II - Victory Road (USA)": {
+      "ja": "怒2 - 怒号層圏（米）",
+      "ja-hint": "いかり2 どごうそうけん（べい）",
+      "zh": "怒2 - 胜利之路（美）",
+      "zh-hint": "nu2 - shenglizhilu (mei)"
+    },
+    "default": {
+      "ja": "怒2 - 怒号層圏（日）",
+      "ja-hint": "いかり2 どごうそうけん（にち）",
+      "zh": "怒2 - 胜利之路（日）",
+      "zh-hint": "nu2 - shenglizhilu (ri)"
+    }
+  }
+}

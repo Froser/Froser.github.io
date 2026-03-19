@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジョイメカファイト（日）",
+      "zh": "欢乐机器人格斗（日）",
+      "zh-hint": "huanlejiqirengedou(ri)"
+    }
+  }
+}

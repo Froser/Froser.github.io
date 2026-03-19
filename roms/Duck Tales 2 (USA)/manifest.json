@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Duck Tales 2 (Japan)": {
+      "height": 738,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Duck Tales 2 (Japan)": {
+      "ja": "わんぱくダック夢冒険2（日）",
+      "ja-hint": "わんぱくダックゆめぼうけん（にち）",
+      "zh": "唐老鸭俱乐部2（日）",
+      "zh-hint": "tanglaoyajulebu2 (ri)"
+    },
+    "default": {
+      "ja": "わんぱくダック夢冒険2（米）",
+      "ja-hint": "わんぱくダックゆめぼうけん（べい）",
+      "zh": "唐老鸭俱乐部2（美）",
+      "zh-hint": "tanglaoyajulebu2 (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロウ　ジー　マン（米）",
+      "ja-hint": "ロウ　ジー　マン（べい）",
+      "zh": "反重力战士（美）",
+      "zh-hint": "fanzhonglizhanshi (mei)"
+    }
+  }
+}

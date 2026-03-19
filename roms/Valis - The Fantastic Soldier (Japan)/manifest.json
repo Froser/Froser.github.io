@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "夢幻戦士ヴァリス（日）",
+      "ja-hint": "むげんせんしヴァリス（にち）",
+      "zh": "梦幻战士（日）",
+      "zh-hint": "menghuanzhanshi (ri)"
+    }
+  }
+}

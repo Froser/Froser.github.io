@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミリー　フュード（米）",
+      "ja-hint": "ファミリー　フュード（べい）",
+      "zh": "家庭问答（美）",
+      "zh-hint": "jiatingwenda (mei)"
+    }
+  }
+}

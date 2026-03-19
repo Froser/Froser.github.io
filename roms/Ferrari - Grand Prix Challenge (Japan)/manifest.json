@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ferrari - Grand Prix Challenge (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "Ferrari - Grand Prix Challenge (USA)": {
+      "ja": "フェラーリグランプリチャレンジ（米）",
+      "ja-hint": "フェラーリグランプリチャレンジ（べい）",
+      "zh": "法拉利大赛车（美）",
+      "zh-hint": "falalidasaiche (mei)"
+    },
+    "default": {
+      "ja": "フェラーリグランプリチャレンジ（日）",
+      "ja-hint": "フェラーリグランプリチャレンジ（にち）",
+      "zh": "法拉利大赛车（日）",
+      "zh-hint": "falalidasaiche (ri)"
+    }
+  }
+}

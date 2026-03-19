@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "特殊部隊ジャッカル（米）",
+      "ja-hint": "とくしゅぶたいジャッカル（べい）",
+      "zh": "赤色要塞（美）",
+      "zh-hint": "chiseyaosai(mei)"
+    }
+  }
+}

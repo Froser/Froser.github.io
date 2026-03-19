@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Athena (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Athena (USA)": {
+      "ja": "アテナ（米）",
+      "ja-hint": "アテナ（べい）",
+      "zh": "雅典娜（美）",
+      "zh-hint": "yadiannuo (mei)"
+    },
+    "default": {
+      "ja": "アテナ（日）",
+      "ja-hint": "アテナ（にち）",
+      "zh": "雅典娜（日）",
+      "zh-hint": "yadiannuo (ri)"
+    }
+  }
+}

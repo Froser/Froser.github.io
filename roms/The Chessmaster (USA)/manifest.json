@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "チェスマスター（米）",
+      "ja-hint": "チェスマスター（べい）",
+      "zh": "国际象棋大师（美）",
+      "zh-hint": "guojixiangqidashi (mei)"
+    }
+  }
+}

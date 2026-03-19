@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バトルシップ（米）",
+      "zh": "超级战舰（美）",
+      "zh-hint": "chaojizhanjian(mei)"
+    }
+  }
+}

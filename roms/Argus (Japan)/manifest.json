@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アーガス（日）",
+      "ja-hint": "アーガス（にち）",
+      "zh": "百眼巨神（日）",
+      "zh-hint": "baiyanjushen (ri)"
+    }
+  }
+}

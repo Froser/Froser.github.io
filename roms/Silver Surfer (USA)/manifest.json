@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "シルバーサーファー（米）",
+      "ja-hint": "シルバーサーファー（べい）",
+      "zh": "银影侠（美）",
+      "zh-hint": "yinyingxia (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ultimate Air Combat (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ultimate Air Combat (USA)": {
+      "ja": "エイセス アイアンイーグル3（米）",
+      "ja-hint": "エイセス アイアンイーグル3（べい）",
+      "zh": "铁鹰战士（美）",
+      "zh-hint": "tieyingzhanshi (mei)"
+    },
+    "default": {
+      "ja": "エイセス アイアンイーグル3（日）",
+      "ja-hint": "エイセス アイアンイーグル3（にち）",
+      "zh": "铁鹰战士（日）",
+      "zh-hint": "tieyingzhanshi (ri)"
+    }
+  }
+}

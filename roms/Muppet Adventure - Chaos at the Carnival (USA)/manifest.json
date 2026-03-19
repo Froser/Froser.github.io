@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マッペット アドベンチャー（米）",
+      "ja-hint": "マッペット アドベンチャー（べい）",
+      "zh": "Muppet大冒险：狂欢节",
+      "zh-hint": "Muppetdamaoxian：kuanghuanjie"
+    }
+  }
+}

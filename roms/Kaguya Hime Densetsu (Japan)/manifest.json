@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "かぐや姫伝説（日）",
+      "ja-hint": "かぐやひめでんせつ（にち）",
+      "zh": "竹取公主传说（日）",
+      "zh-hint": "zhuqugongzhuchuanshuo (ri)"
+    }
+  }
+}

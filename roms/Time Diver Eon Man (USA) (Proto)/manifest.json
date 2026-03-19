@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タイムダイバー（米）",
+      "ja-hint": "タイムダイバー（べい）",
+      "zh": "时空旅行者（美）",
+      "zh-hint": "shikonglvxingzhe (mei)"
+    }
+  }
+}

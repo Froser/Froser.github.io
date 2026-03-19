@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テグザー（日）",
+      "ja-hint": "テグザー（にち）",
+      "zh": "变形战机（日）",
+      "zh-hint": "bianxingzhanji (ri)"
+    }
+  }
+}

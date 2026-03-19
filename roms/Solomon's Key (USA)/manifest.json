@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Solomon no Kagi (Japan)": {
+      "height": 351,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Solomon no Kagi (Japan)": {
+      "ja": "ソロモンの鍵（日）",
+      "ja-hint": "ソロモンのかぎ（にち）",
+      "zh": "所罗门之匙（日）",
+      "zh-hint": "suoluomenzhishi(mei) (ri)"
+    },
+    "default": {
+      "ja": "ソロモンの鍵（米）",
+      "ja-hint": "ソロモンのかぎ（べい）",
+      "zh": "所罗门之匙（美）",
+      "zh-hint": "suoluomenzhishi(mei)"
+    }
+  }
+}

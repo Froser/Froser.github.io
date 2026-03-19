@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 442,
+      "width": 640
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "東方見文録（日）",
+      "ja-hint": "とうほうけんぶんろく（にち）",
+      "zh": "东方见文录（日）",
+      "zh-hint": "dongfangjianwenlu (ri)"
+    }
+  }
+}

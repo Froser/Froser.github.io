@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミコンウォーズ（日）",
+      "ja-hint": "ファミコンウォーズ（にち）",
+      "zh": "机器神童（日）",
+      "zh-hint": "jiqishentong (ri)"
+    }
+  }
+}

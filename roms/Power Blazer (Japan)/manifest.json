@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 645,
+      "width": 500
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パワーブレイザー（日）",
+      "ja-hint": "パワーブレイザー（にち）",
+      "zh": "能源战士 - 初代（日）",
+      "zh-hint": "nengyuanzhanshi - chudai (ri)"
+    }
+  }
+}

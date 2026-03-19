@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "インディ　ジョーンズ　若き日の大冒険（米）",
+      "ja-hint": "インディ　ジョーンズ　わかきにちのだいぼうけん（べい）",
+      "zh": "少年印第安纳琼斯大冒险（美）",
+      "zh-hint": "shaonianyindiannaqiongsidamaoxian (mei)"
+    }
+  }
+}

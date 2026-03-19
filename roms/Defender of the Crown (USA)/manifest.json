@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ディフェンダー　オブ　ザ　クラウン（米）",
+      "ja-hint": "ディフェンダー　オブ　ザ　クラウン（べい）",
+      "zh": "王冠守护者（美）",
+      "zh-hint": "wangguanshouhuzhe (mei)"
+    }
+  }
+}

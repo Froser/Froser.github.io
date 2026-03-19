@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Pajama Hero - Nemo (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Pajama Hero - Nemo (Japan)": {
+      "ja": "パジャマヒーローNEMO（日）",
+      "zh": "睡衣英雄（日）"
+    },
+    "default": {
+      "ja": "パジャマヒーローNEMO（米）",
+      "ja-hint": "パジャマヒーローNEMO（べい）",
+      "zh": "睡衣英雄（美）",
+      "zh-hint": "shuiyiyingxiong(mei)"
+    }
+  }
+}

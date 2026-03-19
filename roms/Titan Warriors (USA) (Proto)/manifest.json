@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タイタンウォリアーズ（米）",
+      "ja-hint": "タイタンウォリアーズ（べい）",
+      "zh": "泰坦战士（美）",
+      "zh-hint": "taitanzhanshi (mei)"
+    }
+  }
+}

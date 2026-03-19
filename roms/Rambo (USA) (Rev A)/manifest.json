@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Rambo (Japan)": {
+      "height": 354,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Rambo (Japan)": {
+      "ja": "ランボー（日）",
+      "ja-hint": "ランボー（にち）",
+      "zh": "蓝波（日）",
+      "zh-hint": "lanbo (ri)"
+    },
+    "default": {
+      "ja": "ランボー（米）",
+      "ja-hint": "ランボー（べい）",
+      "zh": "蓝波（美）",
+      "zh-hint": "lanbo (mei)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フィリックス・ザ・キャット（米）",
+      "zh": "菲力猫（美）",
+      "zh-hint": "feilimao(mei)"
+    }
+  }
+}

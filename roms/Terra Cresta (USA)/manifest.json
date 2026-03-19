@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Terra Cresta (Japan)": {
+      "height": 349,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Terra Cresta (Japan)": {
+      "ja": "テラクレスタ（日）",
+      "ja-hint": "テラクレスタ（にち）",
+      "zh": "神鹰一号（日）",
+      "zh-hint": "shenyingyihao (ri)"
+    },
+    "default": {
+      "ja": "テラクレスタ（米）",
+      "ja-hint": "テラクレスタ（べい）",
+      "zh": "神鹰一号（美）",
+      "zh-hint": "shenyingyihao (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "リー・トレビノズ ファイティングゴルフ（米）",
+      "ja-hint": "リー・トレビノズ ファイティングゴルフ（べい）",
+      "zh": "李维诺战斗高尔夫（美）",
+      "zh-hint": "liweinuozhandougaoerfu(mei)"
+    }
+  }
+}

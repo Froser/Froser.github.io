@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Heavy Barrel (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Heavy Barrel (Japan)": {
+      "ja": "ヘビーバレル（日）",
+      "zh": "重炮（日）",
+      "zh-hint": "zhongpao(ri)"
+    },
+    "default": {
+      "ja": "ヘビーバレル（米）",
+      "zh": "重炮（美）",
+      "zh-hint": "zhongpao(mei)"
+    }
+  }
+}

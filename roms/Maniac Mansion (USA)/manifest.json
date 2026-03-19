@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Maniac Mansion (Japan)": {
+      "height": 525,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Maniac Mansion (Japan)": {
+      "ja": "マニアックマンション（日）",
+      "ja-hint": "マニアックマンション（にち）",
+      "zh": "疯狂大楼（日）",
+      "zh-hint": "fengkuangdalou (ri)"
+    },
+    "default": {
+      "ja": "マニアックマンション（米）",
+      "ja-hint": "マニアックマンション（べい）",
+      "zh": "疯狂大楼（美）",
+      "zh-hint": "fengkuangdalou (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ピーパータイム（日）",
+      "ja-hint": "ピーパータイム（にち）",
+      "zh": "机器人引导赛（日）",
+      "zh-hint": "jiqirenyindaosai (ri)"
+    }
+  }
+}

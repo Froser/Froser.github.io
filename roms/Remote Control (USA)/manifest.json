@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "リモートコントロール（米）",
+      "ja-hint": "リモートコントロール（べい）",
+      "zh": "电视问答（美）",
+      "zh-hint": "dianshiwenda (mei)"
+    }
+  }
+}

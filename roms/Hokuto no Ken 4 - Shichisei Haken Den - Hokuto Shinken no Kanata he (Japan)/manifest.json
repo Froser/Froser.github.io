@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "北斗の拳4 七星覇拳伝 北斗神拳の彼方へ（日）",
+      "ja-hint": "ほくとのけん4 ななえはこぶしでん ほくとかみこぶしのかなたへ（にち）",
+      "zh": "北斗神拳4：七星霸拳传-北斗神拳的那方（日）",
+      "zh-hint": "beidoushenquan4：qixingbaquanchuan-beidoushenquandenafang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 733,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "里見八犬伝（日）",
+      "ja-hint": "さとみはっけんでん（にち）",
+      "zh": "里见八犬传（日）",
+      "zh-hint": "lijianbaquanchuan (ri)"
+    }
+  }
+}

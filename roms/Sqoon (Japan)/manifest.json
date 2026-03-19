@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Sqoon (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 427,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Sqoon (USA)": {
+      "ja": "スクーン（米）",
+      "ja-hint": "スクーン（べい）",
+      "zh": "潜水艇大作战（美）",
+      "zh-hint": "qianshuitingdazuozhan (mei)"
+    },
+    "default": {
+      "ja": "スクーン（日）",
+      "ja-hint": "スクーン（にち）",
+      "zh": "潜水艇大作战（日）",
+      "zh-hint": "qianshuitingdazuozhan (ri)"
+    }
+  }
+}

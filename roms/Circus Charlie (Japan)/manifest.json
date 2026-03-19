@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 272,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サーカスチャーリー（日）",
+      "zh": "马戏团（日）",
+      "zh-hint": "maxituan(ri)"
+    }
+  }
+}

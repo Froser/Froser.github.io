@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テトラスター（日）",
+      "ja-hint": "テトラスター（にち）",
+      "zh": "星际斗士（日）",
+      "zh-hint": "xingjidoushi (ri)"
+    }
+  }
+}

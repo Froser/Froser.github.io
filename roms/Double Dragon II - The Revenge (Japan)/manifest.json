@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Double Dragon II - The Revenge (USA) (Rev A)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 483,
+      "width": 340
+    }
+  },
+  "titles": {
+    "Double Dragon II - The Revenge (USA) (Rev A)": {
+      "ja": "双截龍2（米）",
+      "ja-hint": "そうせつりゅう2（べい）",
+      "zh": "双截龙2（美）",
+      "zh-hint": "shuangjielong2 (mei)"
+    },
+    "default": {
+      "ja": "双截龍2（日）",
+      "ja-hint": "そうせつりゅう2（にち）",
+      "zh": "双截龙2（日）",
+      "zh-hint": "shuangjielong2(ri)"
+    }
+  }
+}

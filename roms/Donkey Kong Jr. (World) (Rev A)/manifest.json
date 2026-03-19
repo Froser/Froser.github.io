@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドンキーコングJR.（GameCube）",
+      "zh": "大金刚Jr.（GameCube）",
+      "zh-hint": "dajingangjr(GameCube)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ベスト　オブ　ザ　ベスト（米）",
+      "ja-hint": "ベスト　オブ　ザ　ベスト（べい）",
+      "zh": "强中强：踢拳锦标赛（美）",
+      "zh-hint": "qiangzhongqiang：tiquanjinbiaosai (mei)"
+    }
+  }
+}

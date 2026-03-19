@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ナイトシェード（米）",
+      "ja-hint": "ナイトシェード（べい）",
+      "zh": "黑暗阴影（美）",
+      "zh-hint": "heianyinying (mei)"
+    }
+  }
+}

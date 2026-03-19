@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザナック（米）",
+      "ja-hint": "ザナック（べい）",
+      "zh": "银河号（美）",
+      "zh-hint": "yinhehao (mei)"
+    }
+  }
+}

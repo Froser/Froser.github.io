@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "紫禁城（日）",
+      "ja-hint": "しきんしろ（にち）",
+      "zh": "紫禁城（日）",
+      "zh-hint": "zijincheng (ri)"
+    }
+  }
+}

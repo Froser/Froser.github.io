@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ブルース ブラザーズ（米）",
+      "ja-hint": "ブルース ブラザーズ（べい）",
+      "zh": "蓝调兄弟（美）",
+      "zh-hint": "landiaoxiongdi (mei)"
+    }
+  }
+}

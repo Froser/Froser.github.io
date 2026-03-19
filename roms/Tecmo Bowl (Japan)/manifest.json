@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tecmo Bowl (USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 360,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Tecmo Bowl (USA) (Rev A)": {
+      "ja": "テクモボウル（米）",
+      "ja-hint": "テクモボウル（べい）",
+      "zh": "特库摩橄榄球（美）",
+      "zh-hint": "tekumoganlanqiu (mei)"
+    },
+    "default": {
+      "ja": "テクモボウル（日）",
+      "ja-hint": "テクモボウル（にち）",
+      "zh": "特库摩橄榄球（日）",
+      "zh-hint": "tekumoganlanqiu (ri)"
+    }
+  }
+}

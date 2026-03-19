@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クリフハンガー（米）",
+      "ja-hint": "クリフハンガー（べい）",
+      "zh": "绝岭雄风（美）",
+      "zh-hint": "juelingxiongfeng (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ＳＤ戦国武将列伝烈火のごとく天下を盗れ！（日）",
+      "ja-hint": "ＳＤせんごくぶしょうれつでんれっかのごとくてんかをとれ！（にち）",
+      "zh": "SD战国武将传（日）",
+      "zh-hint": "SDzhanguowujiangchuan (ri)"
+    }
+  }
+}

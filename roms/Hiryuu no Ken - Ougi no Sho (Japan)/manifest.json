@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Flying Dragon - The Secret Scroll (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Flying Dragon - The Secret Scroll (USA)": {
+      "ja": "飛龍の拳奥義の書（米）",
+      "ja-hint": "ひりゅうのこぶしおうぎのかき（べい）",
+      "zh": "飞龙之拳 奥义之书（美）",
+      "zh-hint": "feilongzhiquan aoyizhishu (mei)"
+    },
+    "default": {
+      "ja": "飛龍の拳奥義の書（日）",
+      "ja-hint": "ひりゅうのこぶしおうぎのかき（にち）",
+      "zh": "飞龙之拳 奥义之书（日）",
+      "zh-hint": "feilongzhiquan aoyizhishu (ri)"
+    }
+  }
+}

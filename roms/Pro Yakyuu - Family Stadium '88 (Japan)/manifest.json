@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プロ野球ファミリースタジアム' 88（日）",
+      "ja-hint": "プロやきゅうファミリースタジアム' 88（にち）",
+      "zh": "职业棒球88年度版（日）",
+      "zh-hint": "zhiyebangqiu88nianduban (ri)"
+    }
+  }
+}

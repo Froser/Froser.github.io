@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 240,
+      "width": 375
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マッピー（日）",
+      "zh": "猫捉老鼠（日）",
+      "zh-hint": "maozhuolaoshu(ri)"
+    }
+  }
+}

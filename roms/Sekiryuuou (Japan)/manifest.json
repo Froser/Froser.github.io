@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 738,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "赤龍王（日）",
+      "ja-hint": "あかりゅうおう（にち）",
+      "zh": "赤龙王（日）",
+      "zh-hint": "chilongwang (ri)"
+    }
+  }
+}

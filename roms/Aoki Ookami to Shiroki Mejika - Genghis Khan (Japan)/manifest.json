@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Genghis Khan (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Genghis Khan (USA)": {
+      "ja": "蒼き狼と白き牝鹿ジンギスカン（米）",
+      "ja-hint": "あおきおおかみとしろきめしかジンギスカン（べい）",
+      "zh": "苍狼与白鹿 成吉思汗（美）",
+      "zh-hint": "canglangyubailu chengjisihan (mei)"
+    },
+    "default": {
+      "ja": "蒼き狼と白き牝鹿ジンギスカン（日）",
+      "ja-hint": "あおきおおかみとしろきめしかジンギスカン（にち）",
+      "zh": "苍狼与白鹿 成吉思汗（日）",
+      "zh-hint": "canglangyubailu chengjisihan (ri)"
+    }
+  }
+}

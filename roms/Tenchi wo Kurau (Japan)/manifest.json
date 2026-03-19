@@ -1,0 +1,32 @@
+{
+  "boxarts": {
+    "Destiny of an Emperor (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "Tenchi wo Kurau (CN)": {
+      "height": 267,
+      "width": 400
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Destiny of an Emperor (USA)": {
+      "ja": "天地を喰らう（米）",
+      "zh": "吞食天地（美）"
+    },
+    "Tenchi wo Kurau (CN)": {
+      "ja": "天地を喰らう（中）",
+      "zh": "吞食天地（中）"
+    },
+    "default": {
+      "ja": "天地を喰らう（日）",
+      "ja-hint": "てんちをくらう（にち）",
+      "zh": "吞食天地（日）",
+      "zh-hint": "tunshitiandi(ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "WWF Wrestlemania Challenge (USA)": {
+      "height": 362,
+      "width": 256
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "WWF Wrestlemania Challenge (USA)": {
+      "ja": "WWFレッスルマニアチャレンジ（日）",
+      "ja-hint": "WWFレッスルマニアチャレンジ（にち）",
+      "zh": "WWF摔角（日）",
+      "zh-hint": "WWFshuaijiao (ri)"
+    },
+    "default": {
+      "ja": "WWFレッスルマニアチャレンジ（日）",
+      "ja-hint": "WWFレッスルマニアチャレンジ（にち）",
+      "zh": "WWF摔角（日）",
+      "zh-hint": "WWFshuaijiao (ri)"
+    }
+  }
+}

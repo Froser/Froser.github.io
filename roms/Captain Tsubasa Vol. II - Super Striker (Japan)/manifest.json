@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャプテン翼2 スーパーストライカー（日）",
+      "ja-hint": "キャプテンつばさ2 スーパーストライカー（にち）",
+      "zh": "大空翼2（日）",
+      "zh-hint": "dakongyi2 (ri)"
+    }
+  }
+}

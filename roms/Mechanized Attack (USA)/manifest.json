@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "メカナイズドアタック（米）",
+      "ja-hint": "メカナイズドアタック（べい）",
+      "zh": "机枪双雄（美）",
+      "zh-hint": "jiqiangshuangxiong (mei)"
+    }
+  }
+}

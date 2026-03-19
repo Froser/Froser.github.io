@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Top Gun - Dual Fighters (Japan)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Top Gun - Dual Fighters (Japan)": {
+      "ja": "トップガン2 デュアルファイターズ（日）",
+      "ja-hint": "トップガン2 デュアルファイターズ（にち）",
+      "zh": "凌云壮志2（日）",
+      "zh-hint": "lingyunzhuangzhi2 (ri)"
+    },
+    "default": {
+      "ja": "トップガン2 デュアルファイターズ（米）",
+      "ja-hint": "トップガン2 デュアルファイターズ（べい）",
+      "zh": "凌云壮志2（美）",
+      "zh-hint": "lingyunzhuangzhi2 (mei)"
+    }
+  }
+}

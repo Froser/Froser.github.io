@@ -1,0 +1,25 @@
+{
+  "boxarts": {
+    "Hitler no Fukkatsu - Top Secret (Japan)": {
+      "height": 267,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Hitler no Fukkatsu - Top Secret (Japan)": {
+      "ja": "ヒットラーの復活（日）",
+      "zh": "希魔复活（日）",
+      "zh-hint": "ximofuhuo(ri)"
+    },
+    "default": {
+      "ja": "ヒットラーの復活（米）",
+      "ja-hint": "ヒットラーのふっかつ（べい）",
+      "zh": "生化尖兵（美）",
+      "zh-hint": "shenghuajianbing(mei)"
+    }
+  }
+}

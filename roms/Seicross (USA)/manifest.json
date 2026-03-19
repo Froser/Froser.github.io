@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Seicross (Japan) (Rev 1)": {
+      "height": 354,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Seicross (Japan) (Rev 1)": {
+      "ja": "セクロス（日）",
+      "ja-hint": "セクロス（にち）",
+      "zh": "霹雳机车（日）",
+      "zh-hint": "pilijiche (ri)"
+    },
+    "default": {
+      "ja": "セクロス（米）",
+      "ja-hint": "セクロス（べい）",
+      "zh": "霹雳机车（美）",
+      "zh-hint": "pilijiche (mei)"
+    }
+  }
+}

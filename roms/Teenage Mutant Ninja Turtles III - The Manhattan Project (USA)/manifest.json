@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ3（米）",
+      "zh": "忍者神龟3（美）",
+      "zh-hint": "renzheshengui3(mei)"
+    }
+  }
+}

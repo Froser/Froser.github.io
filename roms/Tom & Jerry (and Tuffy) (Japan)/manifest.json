@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 720,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "トムとジェリー（日）",
+      "ja-hint": "トムとジェリー（にち）",
+      "zh": "猫和老鼠（日）",
+      "zh-hint": "maohelaoshu (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エルナークの財宝（日）",
+      "ja-hint": "エルナークのざいほう（にち）",
+      "zh": "艾鲁那财宝（日）",
+      "zh-hint": "ailunacaibao (ri)"
+    }
+  }
+}

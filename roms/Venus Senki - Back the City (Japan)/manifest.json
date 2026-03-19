@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ヴィナス戦記（日）",
+      "ja-hint": "ヴィナスせんき（にち）",
+      "zh": "金星战记（日）",
+      "zh-hint": "jinxingzhanji (ri)"
+    }
+  }
+}

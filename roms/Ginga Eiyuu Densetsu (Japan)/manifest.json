@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 346,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "銀河英雄伝説　わが征くは星の大海（日）",
+      "ja-hint": "ぎんがえいゆうでんせつ　わがゆくはほしのたいかい（にち）",
+      "zh": "银河英雄传说（日）",
+      "zh-hint": "yinheyingxiongchuanshuo (ri)"
+    }
+  }
+}

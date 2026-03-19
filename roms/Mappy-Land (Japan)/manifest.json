@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Mappy-Land (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 512,
+      "width": 353
+    }
+  },
+  "titles": {
+    "Mappy-Land (USA)": {
+      "ja": "マッピーランド（米）",
+      "ja-hint": "マッピーランド（べい）",
+      "zh": "猫捉老鼠2（美）",
+      "zh-hint": "maozhuolaoshu2 (mei)"
+    },
+    "default": {
+      "ja": "マッピーランド（日）",
+      "ja-hint": "マッピーランド（にち）",
+      "zh": "猫捉老鼠2（日）",
+      "zh-hint": "maozhuolaoshu2 (ri)"
+    }
+  }
+}

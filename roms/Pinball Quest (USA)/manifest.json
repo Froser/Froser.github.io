@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ピンボールクエスト（米）",
+      "ja-hint": "ピンボールクエスト（べい）",
+      "zh": "弹珠台冒险（美）",
+      "zh-hint": "danzhutaimaoxian (mei)"
+    }
+  }
+}

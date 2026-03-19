@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ニチブツマージャン3 Gメン（日）",
+      "ja-hint": "ニチブツマージャン3 Gメン（にち）",
+      "zh": "麻雀道场3（日）",
+      "zh-hint": "maquedaochang3 (ri)"
+    }
+  }
+}

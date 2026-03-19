@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バトルベースボール（日）",
+      "ja-hint": "バトルベースボール（にち）",
+      "zh": "战斗棒球（日）",
+      "zh-hint": "zhandoubangqiu (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Touch Down Fever (USA)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "Touch Down Fever (USA)": {
+      "ja": "アメリカンフットボール タッチダウンフィーバー（日）",
+      "ja-hint": "アメリカンフットボール タッチダウンフィーバー（にち）",
+      "zh": "美式橄榄球（日）",
+      "zh-hint": "meishiganlanqiu (ri)"
+    },
+    "default": {
+      "ja": "アメリカンフットボール タッチダウンフィーバー（日）",
+      "ja-hint": "アメリカンフットボール タッチダウンフィーバー（にち）",
+      "zh": "美式橄榄球（日）",
+      "zh-hint": "meishiganlanqiu (ri)"
+    }
+  }
+}

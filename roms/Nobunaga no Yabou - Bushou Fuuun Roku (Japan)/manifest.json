@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 718,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "信長の野望　武将風雲録（日）",
+      "ja-hint": "のぶながのやぼう　ぶしょうふううんろく（にち）",
+      "zh": "信长之野望　武将风云录（日）",
+      "zh-hint": "xinchangzhiyewang　wujiangfengyunlu (ri)"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "boxarts": {
+    "Metal Gear (Japan)": {
+      "height": 739,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Metal Gear (Japan)": {
+      "ja": "メタルギア（日）",
+      "ja-hint": "メタルギア（にち）",
+      "zh": "合金装备（日）",
+      "zh-hint": "hejinzhuangbei (ri)"
+    },
+    "default": {
+      "ja": "メタルギア（米）",
+      "zh": "合金装备（美）",
+      "zh-hint": "hejinzhuangbei(mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ピラミッドの彼方に ホワイト・ライオン伝説（米）",
+      "ja-hint": "ピラミッドのかなたに ホワイト・ライオンでんせつ（べい）",
+      "zh": "白狮子传说（美）",
+      "zh-hint": "baishizichuanshuo(mei)"
+    }
+  }
+}

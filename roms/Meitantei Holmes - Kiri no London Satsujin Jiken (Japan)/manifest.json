@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 740,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "名探偵ホームズ 霧のロンドン殺人事件（日）",
+      "ja-hint": "めいたんていホームズ きりのロンドンさつじんじけん（にち）",
+      "zh": "名侦探福尔摩斯 - 雾都伦敦杀人事件（日）",
+      "zh-hint": "mingzhentanfuermosi - wudulundunsharenshijian (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エルム街の悪夢（米）",
+      "ja-hint": "エルムまちのあくむ（べい）",
+      "zh": "半夜鬼上床（美）",
+      "zh-hint": "banyeguishangchuang (mei)"
+    }
+  }
+}

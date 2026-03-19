@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 740,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "おたくの星座（日）",
+      "ja-hint": "おたくのせいざ（にち）",
+      "zh": "星座之旅（日）",
+      "zh-hint": "xingzuozhilv (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "SDガンダムワールド ガチャポン戦士3 英雄戦記（日）",
+      "ja-hint": "SDガンダムワールド ガチャポンせんし3 えいゆうせんき（にち）",
+      "zh": "SD高达扭蛋战士3（日）",
+      "zh-hint": "SDgaodaniudanzhanshi3 (ri)"
+    }
+  }
+}

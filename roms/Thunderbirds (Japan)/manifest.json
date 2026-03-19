@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Thunderbirds (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 427,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Thunderbirds (USA)": {
+      "ja": "サンダーバード（米）",
+      "ja-hint": "サンダーバード（べい）",
+      "zh": "雷鸟号（美）",
+      "zh-hint": "leiniaohao (mei)"
+    },
+    "default": {
+      "ja": "サンダーバード（日）",
+      "ja-hint": "サンダーバード（にち）",
+      "zh": "雷鸟号（日）",
+      "zh-hint": "leiniaohao (ri)"
+    }
+  }
+}

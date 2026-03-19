@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tag Team Wrestling (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 315,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Tag Team Wrestling (USA)": {
+      "ja": "タッグチームプロレスリング（米）",
+      "ja-hint": "タッグチームプロレスリング（べい）",
+      "zh": "组合摔跤（美）",
+      "zh-hint": "zuheshuaijiao (mei)"
+    },
+    "default": {
+      "ja": "タッグチームプロレスリング（日）",
+      "ja-hint": "タッグチームプロレスリング（にち）",
+      "zh": "组合摔跤（日）",
+      "zh-hint": "zuheshuaijiao (ri)"
+    }
+  }
+}

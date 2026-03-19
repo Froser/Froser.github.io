@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 663,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "たけしの戦国風雲児（日）",
+      "ja-hint": "たけしのせんごくふううんじ（にち）",
+      "zh": "阿武的战国风云儿（日）",
+      "zh-hint": "awudezhanguofengyuner (ri)"
+    }
+  }
+}

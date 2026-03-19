@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "影の伝説（米）",
+      "ja-hint": "かげのでんせつ（べい）",
+      "zh": "影子传说（美）",
+      "zh-hint": "yingzichuanshuo(mei)"
+    }
+  }
+}

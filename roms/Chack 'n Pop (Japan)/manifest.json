@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 257,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ちゃっくんぽっぷ（日）",
+      "zh": "拯救爱心（日）",
+      "zh-hint": "zhengjiuaixin(ri)"
+    }
+  }
+}

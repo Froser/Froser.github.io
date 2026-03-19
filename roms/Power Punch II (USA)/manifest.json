@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パワーパンチ2（米）",
+      "ja-hint": "パワーパンチ2（べい）",
+      "zh": "力量拳击 2（美）",
+      "zh-hint": "liliangquanji 2 (mei)"
+    }
+  }
+}

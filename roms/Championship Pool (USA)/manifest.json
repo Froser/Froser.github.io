@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 736,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プールチャンピオンシップ（米）",
+      "ja-hint": "プールチャンピオンシップ（べい）",
+      "zh": "台球锦标赛（美）",
+      "zh-hint": "taiqiujinbiaosai (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Romance of the Three Kingdoms II (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "Romance of the Three Kingdoms II (USA)": {
+      "ja": "三國志2（米）",
+      "ja-hint": "さんごくし2（べい）",
+      "zh": "三国志2（美）",
+      "zh-hint": "sanguozhi2 (mei)"
+    },
+    "default": {
+      "ja": "三國志2（日）",
+      "ja-hint": "さんごくし2（にち）",
+      "zh": "三国志2（日）",
+      "zh-hint": "sanguozhi2 (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Gekitou Pro Wrestling!! - Toukon Densetsu (Japan)": {
+      "height": 701,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Gekitou Pro Wrestling!! - Toukon Densetsu (Japan)": {
+      "ja": "テクモ ワールド レスリング（日）",
+      "ja-hint": "テクモ ワールド レスリング（にち）",
+      "zh": "特库摩世界摔跤（日）",
+      "zh-hint": "tekumoshijieshuaijiao (ri)"
+    },
+    "default": {
+      "ja": "テクモ ワールド レスリング（米）",
+      "ja-hint": "テクモ ワールド レスリング（べい）",
+      "zh": "特库摩世界摔跤（美）",
+      "zh-hint": "tekumoshijieshuaijiao (mei)"
+    }
+  }
+}

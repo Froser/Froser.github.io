@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Taro's Quest (USA) (Proto)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 522,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Taro's Quest (USA) (Proto)": {
+      "ja": "じゃじゃ丸忍法帳（米）",
+      "ja-hint": "じゃじゃまるにんぽうちょう（べい）",
+      "zh": "茶茶丸忍法帐（美）",
+      "zh-hint": "chachawanrenfazhang (mei)"
+    },
+    "default": {
+      "ja": "じゃじゃ丸忍法帳（日）",
+      "ja-hint": "じゃじゃまるにんぽうちょう（にち）",
+      "zh": "茶茶丸忍法帐（日）",
+      "zh-hint": "chachawanrenfazhang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バーコードワールド（日）",
+      "ja-hint": "バーコードワールド（にち）",
+      "zh": "平行世界（日）",
+      "zh-hint": "pingxingshijie (ri)"
+    }
+  }
+}

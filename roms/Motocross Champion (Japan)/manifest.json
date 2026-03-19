@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 726,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "モトクロスチャンピオン（日）",
+      "ja-hint": "モトクロスチャンピオン（にち）",
+      "zh": "世界摩托车越野锦标赛（日）",
+      "zh-hint": "shijiemotuocheyueyejinbiaosai (ri)"
+    }
+  }
+}

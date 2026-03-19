@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ベガスコネクション カジノより愛をこめて（日）",
+      "ja-hint": "ベガスコネクション カジノよりあいをこめて（にち）",
+      "zh": "拉斯维加斯-我爱赌城（日）",
+      "zh-hint": "lasiweijiasi-woaiducheng (ri)"
+    }
+  }
+}

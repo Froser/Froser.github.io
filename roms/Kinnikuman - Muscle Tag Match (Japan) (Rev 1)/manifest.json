@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "M.U.S.C.L.E. - Tag Team Match (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "M.U.S.C.L.E. - Tag Team Match (USA)": {
+      "ja": "キン肉マンマッスルタッグマッチ（米）",
+      "ja-hint": "キンにくマンマッスルタッグマッチ（べい）",
+      "zh": "筋肉人摔跤（美）",
+      "zh-hint": "jinrourenshuaijiao (mei)"
+    },
+    "default": {
+      "ja": "キン肉マンマッスルタッグマッチ（日）",
+      "ja-hint": "キンにくマンマッスルタッグマッチ（にち）",
+      "zh": "筋肉人摔跤（日）",
+      "zh-hint": "jinrourenshuaijiao(mei)"
+    }
+  }
+}

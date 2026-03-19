@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アタック オブ ザ キラートマト（米）",
+      "zh": "杀人番茄（美）",
+      "zh-hint": "sharenfanqie(mei)"
+    }
+  }
+}

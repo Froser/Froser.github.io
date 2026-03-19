@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Karnov (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Karnov (USA)": {
+      "ja": "カルノフ（日）",
+      "zh": "卡诺夫（美）"
+    },
+    "default": {
+      "ja": "カルノフ（日）",
+      "ja-hint": "カルノフ（にち）",
+      "zh": "卡诺夫（日）",
+      "zh-hint": "kanuofu(ri)"
+    }
+  }
+}

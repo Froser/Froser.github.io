@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダイナウォーズ（米）",
+      "ja-hint": "ダイナウォーズ（べい）",
+      "zh": "毁灭的斯邦迪那斯（美）",
+      "zh-hint": "huimiedesibangdinasi (mei)"
+    }
+  }
+}

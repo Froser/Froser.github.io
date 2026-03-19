@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "グーニーズ（日）",
+      "zh": "七宝奇谋（日）",
+      "zh-hint": "qibaoqimou(ri)"
+    }
+  }
+}

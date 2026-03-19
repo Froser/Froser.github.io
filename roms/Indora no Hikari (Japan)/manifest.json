@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 344,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "インドラの光（日）",
+      "ja-hint": "インドラのひかり（にち）",
+      "zh": "因陀罗之光（日）",
+      "zh-hint": "yintuoluozhiguang (ri)"
+    }
+  }
+}

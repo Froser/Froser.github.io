@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 342,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "帰って来た！軍人将棋なんやそれ!?（日）",
+      "ja-hint": "かえってきた！ぐんじんしょうぎなんやそれ!?（にち）",
+      "zh": "军人将棋（日）",
+      "zh-hint": "junrenjiangqi (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Baseball (USA, Europe)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Baseball (USA, Europe)": {
+      "ja": "ベースボール（米）",
+      "ja-hint": "ベースボール（べい）",
+      "zh": "棒球（美）",
+      "zh-hint": "bangqiu (mei)"
+    },
+    "default": {
+      "ja": "ベースボール（日）",
+      "ja-hint": "ベースボール（にち）",
+      "zh": "棒球（日）",
+      "zh-hint": "bangqiu (ri)"
+    }
+  }
+}

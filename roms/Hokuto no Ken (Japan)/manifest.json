@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 344,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "北斗の拳（日）",
+      "ja-hint": "ほくとのけん（にち）",
+      "zh": "北斗神拳（日）",
+      "zh-hint": "beidoushenquan (ri)"
+    }
+  }
+}

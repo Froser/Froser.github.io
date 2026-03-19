@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Wizardry - The Knight of Diamonds (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 738,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Wizardry - The Knight of Diamonds (USA)": {
+      "ja": "ウィザードリィ3 ダイヤモンドの騎士（日）",
+      "ja-hint": "ウィザードリィ3 ダイヤモンドのきし（にち）",
+      "zh": "巫术3：钻石骑士（日）",
+      "zh-hint": "wuzhu3：zuanshiqishi (ri)"
+    },
+    "default": {
+      "ja": "ウィザードリィ3 ダイヤモンドの騎士（日）",
+      "ja-hint": "ウィザードリィ3 ダイヤモンドのきし（にち）",
+      "zh": "巫术3：钻石骑士（日）",
+      "zh-hint": "wuzhu3：zuanshiqishi (ri)"
+    }
+  }
+}

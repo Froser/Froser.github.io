@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Rainbow Islands - The Story of Bubble Bobble 2 (Japan)": {
+      "height": 355,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Rainbow Islands - The Story of Bubble Bobble 2 (Japan)": {
+      "ja": "レインボーアイランド（日）",
+      "ja-hint": "レインボーアイランド（にち）",
+      "zh": "彩虹岛（日）",
+      "zh-hint": "caihongdao (ri)"
+    },
+    "default": {
+      "ja": "レインボーアイランド（米）",
+      "ja-hint": "レインボーアイランド（べい）",
+      "zh": "彩虹岛（美）",
+      "zh-hint": "caihongdao (mei)"
+    }
+  }
+}

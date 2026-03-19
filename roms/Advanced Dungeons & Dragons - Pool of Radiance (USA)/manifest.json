@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Advanced Dungeons & Dragons - Pool of Radiance (Japan)": {
+      "height": 748,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Advanced Dungeons & Dragons - Pool of Radiance (Japan)": {
+      "ja": "AD&Dプール・オブ・レイディアンス（日）",
+      "ja-hint": "AD&Dプール・オブ・レイディアンス（にち）",
+      "zh": "龙与地下城：光芒之池（日）",
+      "zh-hint": "longyudixiacheng：guangmangzhichi (ri)"
+    },
+    "default": {
+      "ja": "AD&Dプール・オブ・レイディアンス（米）",
+      "ja-hint": "AD&Dプール・オブ・レイディアンス（べい）",
+      "zh": "龙与地下城：光芒之池（美）",
+      "zh-hint": "longyudixiacheng：guangmangzhichi (mei)"
+    }
+  }
+}

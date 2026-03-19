@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ガーフィールドの一週間（日）",
+      "ja-hint": "ガーフィールドのいっしゅうかん（にち）",
+      "zh": "加菲猫（日）",
+      "zh-hint": "jiafeimao (ri)"
+    }
+  }
+}

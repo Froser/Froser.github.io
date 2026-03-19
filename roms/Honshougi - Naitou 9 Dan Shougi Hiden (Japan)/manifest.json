@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "本将棋 - 内藤九段将棋秘伝（日）",
+      "ja-hint": "ほんしょうぎないとうきゅうだんしょうぎひでん（にち）",
+      "zh": "本将棋 - 内藤九段将棋秘传入门篇（日）",
+      "zh-hint": "benjiangqineitengjiuduanjiangqimichuanrumenpian(ri)"
+    }
+  }
+}

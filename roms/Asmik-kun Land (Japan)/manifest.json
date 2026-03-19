@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 739,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アスミッくんランド（日）",
+      "ja-hint": "アスミッくんランド（にち）",
+      "zh": "阿兹米克君（日）",
+      "zh-hint": "azimikejun (ri)"
+    }
+  }
+}

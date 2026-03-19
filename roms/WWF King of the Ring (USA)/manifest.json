@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "WWF キング　オブ　ザ　リング（米）",
+      "ja-hint": "WWF キング　オブ　ザ　リング（べい）",
+      "zh": "WWF金腰带（美）",
+      "zh-hint": "WWFjinyaodai (mei)"
+    }
+  }
+}

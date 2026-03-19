@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "カオスワールド（日）",
+      "ja-hint": "カオスワールド（にち）",
+      "zh": "混沌世界（日）",
+      "zh-hint": "hundunshijie (ri)"
+    }
+  }
+}

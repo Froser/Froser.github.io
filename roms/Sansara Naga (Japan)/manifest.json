@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サンサーラ ナーガ（日）",
+      "ja-hint": "サンサーラ ナーガ（にち）",
+      "zh": "育龙战记（日）",
+      "zh-hint": "yulongzhanji (ri)"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "boxarts": {
+    "Pac-Man (Japan) (Rev A)": {
+      "height": 329,
+      "width": 512
+    },
+    "Pac-Man (USA) (Tengen)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Pac-Man (Japan) (Rev A)": {
+      "ja": "パックマン（日）",
+      "ja-hint": "パックマン（にち）",
+      "zh": "吃豆人（日）",
+      "zh-hint": "chidouren (ri)"
+    },
+    "Pac-Man (USA) (Tengen)": {
+      "ja": "パックマン（Tengen）（米）",
+      "ja-hint": "パックマン（Tengen）（べい）",
+      "zh": "吃豆人 （Tengen）（美）",
+      "zh-hint": "chidouren  (Tengen) (mei)"
+    },
+    "default": {
+      "ja": "パックマン（米）",
+      "ja-hint": "パックマン（べい）",
+      "zh": "吃豆人（美）",
+      "zh-hint": "chidouren (mei)"
+    }
+  }
+}

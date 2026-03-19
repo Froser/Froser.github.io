@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 744,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "チェスターフィールド 暗黒神への挑戦（日）",
+      "ja-hint": "チェスターフィールド あんこくかみへのちょうせん（にち）",
+      "zh": "暗黑神的挑战（日）",
+      "zh-hint": "anheishendetiaozhan (ri)"
+    }
+  }
+}

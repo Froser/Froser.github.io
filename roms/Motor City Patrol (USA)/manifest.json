@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "モーターシティ パトロール（米）",
+      "ja-hint": "モーターシティ パトロール（べい）",
+      "zh": "城市巡警（美）",
+      "zh-hint": "chengshixunjing (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 738,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーピンボール（日）",
+      "ja-hint": "スーパーピンボール（にち）",
+      "zh": "超级弹珠柜（日）",
+      "zh-hint": "chaojidanzhugui (ri)"
+    }
+  }
+}

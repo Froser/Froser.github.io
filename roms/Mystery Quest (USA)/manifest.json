@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ハオ君の不思議な旅（米）",
+      "ja-hint": "ハオくんのふしぎなたび（べい）",
+      "zh": "豪君不可思议之旅（美）",
+      "zh-hint": "haojunbukesiyizhilv (mei)"
+    }
+  }
+}

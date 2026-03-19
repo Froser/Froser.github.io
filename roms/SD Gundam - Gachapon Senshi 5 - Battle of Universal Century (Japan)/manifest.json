@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 742
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "SDガンダムワールド ガチャポン戦士5（日）",
+      "ja-hint": "SDガンダムワールド ガチャポンせんし5（にち）",
+      "zh": "SD高达扭蛋战士5（日）",
+      "zh-hint": "SDgaodaniudanzhanshi5 (ri)"
+    }
+  }
+}

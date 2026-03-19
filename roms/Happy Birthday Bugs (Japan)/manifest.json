@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Bugs Bunny Birthday Blowout (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "The Bugs Bunny Birthday Blowout (USA)": {
+      "ja": "ハッピーバースディ バックス（美）",
+      "ja-hint": "ハッピーバースディ バックス（べい）",
+      "zh": "兔子巴比 - 生日盛会（美）",
+      "zh-hint": "tuzibabishengrishenghui(mei)"
+    },
+    "default": {
+      "ja": "ハッピーバースディ バックス（日）",
+      "ja-hint": "ハッピーバースディ バックス（にち）",
+      "zh": "兔子巴比 - 生日盛会（日）",
+      "zh-hint": "tuzibabishengrishenghui(mei)"
+    }
+  }
+}

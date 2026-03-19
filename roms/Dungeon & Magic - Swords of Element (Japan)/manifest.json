@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dungeon Magic - Sword of the Elements (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Dungeon Magic - Sword of the Elements (USA)": {
+      "ja": "ダンジョン&マジック（米）",
+      "ja-hint": "ダンジョン&マジック（べい）",
+      "zh": "巫术魔洞：魔剑的元素（美）",
+      "zh-hint": "wuzhumodong：mojiandeyuansu (mei)"
+    },
+    "default": {
+      "ja": "ダンジョン&マジック（日）",
+      "ja-hint": "ダンジョン&マジック（にち）",
+      "zh": "巫术魔洞：魔剑的元素（日）",
+      "zh-hint": "wuzhumodong：mojiandeyuansu (ri)"
+    }
+  }
+}

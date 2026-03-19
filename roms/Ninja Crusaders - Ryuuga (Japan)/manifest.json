@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ninja Crusaders (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 746,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ninja Crusaders (USA)": {
+      "ja": "忍者クルセイダーズ 龍牙（米）",
+      "ja-hint": "にんじゃクルセイダーズ りゅうが（べい）",
+      "zh": "忍者龙牙（美）",
+      "zh-hint": "renzhelongya (mei)"
+    },
+    "default": {
+      "ja": "忍者クルセイダーズ 龍牙（日）",
+      "ja-hint": "にんじゃクルセイダーズ りゅうが（にち）",
+      "zh": "忍者龙牙（日）",
+      "zh-hint": "renzhelongya (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウルトラマン倶楽部３またまた出撃!!ウルトラ兄弟（日）",
+      "ja-hint": "ウルトラマンくらぶ３またまたしゅつげき!!ウルトラきょうだい（にち）",
+      "zh": "奥特曼怪兽超人俱乐部3：再次出击！超人兄弟（日）",
+      "zh-hint": "aotemanguaishouchaorenjulebu3：zaicichuji！chaorenxiongdi (ri)"
+    }
+  }
+}

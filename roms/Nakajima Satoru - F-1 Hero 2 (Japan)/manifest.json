@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "中島悟F1ヒーロー2（日）",
+      "ja-hint": "なかじまさとるF1ヒーロー2（にち）",
+      "zh": "中岛悟F1英雄2（日）",
+      "zh-hint": "zhongdaowuF1yingxiong2 (ri)"
+    }
+  }
+}

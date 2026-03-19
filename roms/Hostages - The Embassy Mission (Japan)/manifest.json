@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Rescue - The Embassy Mission (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 767,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Rescue - The Embassy Mission (USA)": {
+      "ja": "ホステージ（米）",
+      "ja-hint": "ホステージ（べい）",
+      "zh": "虎穴行动（美）",
+      "zh-hint": "huxuexingdong (mei)"
+    },
+    "default": {
+      "ja": "ホステージ（日）",
+      "ja-hint": "ホステージ（にち）",
+      "zh": "虎穴行动（日）",
+      "zh-hint": "huxuexingdong (ri)"
+    }
+  }
+}

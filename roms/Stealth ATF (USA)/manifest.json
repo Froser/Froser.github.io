@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ステルスATF（米）",
+      "ja-hint": "ステルスATF（べい）",
+      "zh": "隐形战斗机ATF（美）",
+      "zh-hint": "yinxingzhandoujiATF (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Joust (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Joust (USA)": {
+      "ja": "ジャウスト（米）",
+      "ja-hint": "ジャウスト（べい）",
+      "zh": "鸵鸟骑士（美）",
+      "zh-hint": "tuoniaoqishi(mei)"
+    },
+    "default": {
+      "ja": "ジャウスト（日）",
+      "ja-hint": "ジャウスト（にち）",
+      "zh": "鸵鸟骑士（日）",
+      "zh-hint": "tuoniaoqishi(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "さんまの名探偵（日）",
+      "ja-hint": "さんまのめいたんてい（にち）",
+      "zh": "名侦探秋刀鱼（日）",
+      "zh-hint": "mingzhentanqiudaoyu (ri)"
+    }
+  }
+}

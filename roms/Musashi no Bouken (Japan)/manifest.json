@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 756,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ムサシの冒険（日）",
+      "ja-hint": "ムサシのぼうけん（にち）",
+      "zh": "武藏的冒险（日）",
+      "zh-hint": "wucangdemaoxian (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Street Fighter 2010 - The Final Fight (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "Street Fighter 2010 - The Final Fight (USA)": {
+      "ja": "2010 ストリートファイター（米）",
+      "ja-hint": "2010 ストリートファイター（べい）",
+      "zh": "街头快打2010（美）",
+      "zh-hint": "jietoukuaida2010 (mei)"
+    },
+    "default": {
+      "ja": "2010 ストリートファイター（日）",
+      "ja-hint": "2010 ストリートファイター（にち）",
+      "zh": "街头快打2010（日）",
+      "zh-hint": "jietoukuaida2010 (ri)"
+    }
+  }
+}

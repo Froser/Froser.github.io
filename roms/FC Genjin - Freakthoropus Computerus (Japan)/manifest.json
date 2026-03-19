@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Bonk's Adventure (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 273
+    }
+  },
+  "titles": {
+    "Bonk's Adventure (USA)": {
+      "ja": "FC原人（米）",
+      "ja-hint": "FCげんじん（べい）",
+      "zh": "FC原人（美）",
+      "zh-hint": "fcyuanren(ri) (mei)"
+    },
+    "default": {
+      "ja": "FC原人（日）",
+      "ja-hint": "FCげんじん（にち）",
+      "zh": "FC原人（日）",
+      "zh-hint": "fcyuanren(ri)"
+    }
+  }
+}

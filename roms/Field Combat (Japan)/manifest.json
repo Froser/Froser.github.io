@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 273,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フィールドコンバット（日）",
+      "zh": "杀戮战场（日）",
+      "zh-hint": "shaluzhanchang(ri)"
+    }
+  }
+}

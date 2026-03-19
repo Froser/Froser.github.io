@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 816,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "囲碁名鑑（日）",
+      "ja-hint": "いごめいかん（にち）",
+      "zh": "围棋名鉴（日）",
+      "zh-hint": "weiqimingjian (ri)"
+    }
+  }
+}

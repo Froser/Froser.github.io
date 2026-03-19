@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 735,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "100万ドルキッド 幻の帝王編（日）",
+      "ja-hint": "100まんドルキッド まぼろしのていおうへん（にち）",
+      "zh": "百万小子：梦幻的帝王编（日）",
+      "zh-hint": "baiwanxiaozi：menghuandediwangbian (ri)"
+    }
+  }
+}

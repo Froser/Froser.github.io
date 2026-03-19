@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "メトロイド（米）",
+      "zh": "银河战士（美）",
+      "zh-hint": "yinhezhanshi(mei)"
+    }
+  }
+}

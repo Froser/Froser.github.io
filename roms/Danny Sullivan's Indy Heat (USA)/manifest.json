@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダニー・サリバンのインディ・ヒート（米）",
+      "zh": "丹尼·沙利文的印地之热（美）",
+      "zh-hint": "dannishaliwendeyindizhire(mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "SDガンダムワールド ガチャポン戦士4 ニュータイプストーリー（日）",
+      "ja-hint": "SDガンダムワールド ガチャポンせんし4 ニュータイプストーリー（にち）",
+      "zh": "SD高达扭蛋战士4（日）",
+      "zh-hint": "SDgaodaniudanzhanshi4 (ri)"
+    }
+  }
+}

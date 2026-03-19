@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Blaster Master (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Blaster Master (USA)": {
+      "ja": "超惑星戦記メタファイト（米）",
+      "zh": "超惑星战记（美）"
+    },
+    "default": {
+      "ja": "超惑星戦記メタファイト（日）",
+      "ja-hint": "ちょうわくせいせんきメタファイト（にち）",
+      "zh": "超惑星战记（日）",
+      "zh-hint": "chaohuoxingzhanji(ri)"
+    }
+  }
+}

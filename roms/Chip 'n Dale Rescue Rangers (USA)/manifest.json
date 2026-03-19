@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Chip to Dale no Daisakusen (Japan)": {
+      "height": 698,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Chip to Dale no Daisakusen (Japan)": {
+      "ja": "チップとデールの大作戦（日）",
+      "ja-hint": "チップとデールのだいさくせん（にち）",
+      "zh": "松鼠大作战（日）",
+      "zh-hint": "songshudazuozhan (ri)"
+    },
+    "default": {
+      "ja": "チップとデールの大作戦（米）",
+      "ja-hint": "チップとデールのだいさくせん（べい）",
+      "zh": "松鼠大作战（美）",
+      "zh-hint": "songshudazuozhan (mei)"
+    }
+  }
+}

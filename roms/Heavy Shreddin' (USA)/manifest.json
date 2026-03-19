@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ヘビーシュレッディン （米）",
+      "ja-hint": "ヘビーシュレッディン （べい）",
+      "zh": "滑雪（美）",
+      "zh-hint": "huaxue (mei)"
+    }
+  }
+}

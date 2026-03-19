@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "重力装甲メタルストーム（日）",
+      "ja-hint": "じゅうりょくそうこうメタルストーム（にち）",
+      "zh": "重力装甲 - 金属风暴（日）",
+      "zh-hint": "zhonglizhuangjiajinshufengbao(ri)"
+    }
+  }
+}

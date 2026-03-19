@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サッカー（日、米）",
+      "ja-hint": "サッカー（にち、べい）",
+      "zh": "足球（日，美）",
+      "zh-hint": "zuqiu (ri，mei)"
+    }
+  }
+}

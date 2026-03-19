@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Guevara (Japan)": {
+      "height": 267,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Guevara (Japan)": {
+      "ja": "ゲバラ（日）",
+      "zh": "古巴战士（日）",
+      "zh-hint": "gubazhanshi(ri)"
+    },
+    "default": {
+      "ja": "ゲバラ（米）",
+      "zh": "古巴战士（美）",
+      "zh-hint": "gubazhanshi(mei)"
+    }
+  }
+}

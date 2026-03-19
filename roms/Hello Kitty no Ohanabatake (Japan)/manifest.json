@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 356,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ハローキティのおはなばたけ（日）",
+      "ja-hint": "ハローキティのおはなばたけ（にち）",
+      "zh": "凯蒂猫的花园（日）",
+      "zh-hint": "kaidimaodehuayuan (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "じゃじゃ丸の大冒険（日）",
+      "ja-hint": "じゃじゃまるのだいぼうけん（にち）",
+      "zh": "茶茶丸大冒险（日）",
+      "zh-hint": "chachawandamaoxian(ri)"
+    }
+  }
+}

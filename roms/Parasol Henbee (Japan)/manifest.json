@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パラソルヘンべえ（日）",
+      "ja-hint": "パラソルヘンべえ（にち）",
+      "zh": "阳伞平平（日）",
+      "zh-hint": "yangsanpingping (ri)"
+    }
+  }
+}

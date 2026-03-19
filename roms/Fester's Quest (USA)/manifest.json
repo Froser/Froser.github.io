@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フェスターズ・クエスト（米）",
+      "zh": "爱登斯家族（美）",
+      "zh-hint": "aidengsijiazu(mei)"
+    }
+  }
+}

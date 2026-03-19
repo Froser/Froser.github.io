@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミコン囲碁入門（日）",
+      "ja-hint": "ファミコンいごにゅうもん（にち）",
+      "zh": "围棋入门（日）",
+      "zh-hint": "weiqirumen (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Nobunaga's Ambition (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 714,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Nobunaga's Ambition (USA)": {
+      "ja": "信長の野望　全国版（米）",
+      "ja-hint": "のぶながのやぼう　ぜんこくばん（べい）",
+      "zh": "信长的野望（美）",
+      "zh-hint": "xinchangdeyewang (mei)"
+    },
+    "default": {
+      "ja": "信長の野望　全国版（日）",
+      "ja-hint": "のぶながのやぼう　ぜんこくばん（にち）",
+      "zh": "信长的野望（日）",
+      "zh-hint": "xinchangdeyewang (ri)"
+    }
+  }
+}

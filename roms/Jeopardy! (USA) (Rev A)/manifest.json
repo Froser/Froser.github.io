@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジェパディ（米）",
+      "ja-hint": "ジェパディ（べい）",
+      "zh": "危险边缘（美）",
+      "zh-hint": "weixianbianyuan (mei)"
+    }
+  }
+}

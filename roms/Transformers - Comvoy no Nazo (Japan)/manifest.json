@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "トランスフォーマー コンボイの謎（日）",
+      "ja-hint": "トランスフォーマー コンボイのなぞ（にち）",
+      "zh": "变形金刚（日）",
+      "zh-hint": "bianxingjingang (ri)"
+    }
+  }
+}

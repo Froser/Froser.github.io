@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダンジョンズ&ドラゴンズ - ドラゴンストライキ（米）",
+      "ja-hint": "ダンジョンズ&ドラゴンズ - ドラゴンストライキ（べい）",
+      "zh": "龙与地下城 - 龙之击（美）",
+      "zh-hint": "longyudixiachenglongzhiji (mei)"
+    }
+  }
+}

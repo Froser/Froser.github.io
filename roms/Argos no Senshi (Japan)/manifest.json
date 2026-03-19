@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Rygar (USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Rygar (USA) (Rev A)": {
+      "ja": "アルゴスの戦士 はちゃめちゃ大進撃（米）",
+      "ja-hint": "アルゴスのせんし はちゃめちゃたいしんげき（べい）",
+      "zh": "阿格斯战士（美）",
+      "zh-hint": "agesizhanshi (mei)"
+    },
+    "default": {
+      "ja": "アルゴスの戦士 はちゃめちゃ大進撃（日）",
+      "ja-hint": "アルゴスのせんし はちゃめちゃたいしんげき（にち）",
+      "zh": "阿格斯战士（日）",
+      "zh-hint": "agesizhanshi (ri)"
+    }
+  }
+}

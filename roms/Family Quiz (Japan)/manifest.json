@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミリークイズ 4人はライバル（日）",
+      "ja-hint": "ファミリークイズ 4にんはライバル（にち）",
+      "zh": "趣味问答（日）",
+      "zh-hint": "quweiwenda (ri)"
+    }
+  }
+}

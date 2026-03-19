@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Shadowgate (Japan)": {
+      "height": 747,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Shadowgate (Japan)": {
+      "ja": "シャドウゲイト（日）",
+      "ja-hint": "シャドウゲイト（にち）",
+      "zh": "暗影之门（日）",
+      "zh-hint": "anyingzhimen (ri)"
+    },
+    "default": {
+      "ja": "シャドウゲイト（米）",
+      "ja-hint": "シャドウゲイト（べい）",
+      "zh": "暗影之门（美）",
+      "zh-hint": "anyingzhimen (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "新4人打ちマージャン 役満天国（日）",
+      "ja-hint": "しん4にんうちマージャン やくまんてんごく（にち）",
+      "zh": "役满天国（日）",
+      "zh-hint": "yimantianguo (ri)"
+    }
+  }
+}

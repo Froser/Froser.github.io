@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Goonies II - Fratelli Saigo no Chousen (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "The Goonies II - Fratelli Saigo no Chousen (Japan)": {
+      "ja": "フラッテリー最後の挑戦（日）",
+      "ja-hint": "フラッテリーさいごのちょうせん（にち）",
+      "zh": "七宝奇谋2 - 弗雷泰利最后的挑战（日）",
+      "zh-hint": "qibaoqimou2fuleitailizuihoudetiaozhan(ri)"
+    },
+    "default": {
+      "ja": "フラッテリー最後の挑戦（米）",
+      "ja-hint": "フラッテリーさいごのちょうせん（べい）",
+      "zh": "七宝奇谋2 - 弗雷泰利最后的挑战（美）",
+      "zh-hint": "qibaoqimou2fuleitailizuihoudetiaozhan(mei)"
+    }
+  }
+}

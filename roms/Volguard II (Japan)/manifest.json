@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "高機動戦闘メカ ヴォルガード2（日）",
+      "ja-hint": "こうきどうせんとうメカ ヴォルガード2（にち）",
+      "zh": "高机动战斗2（日）",
+      "zh-hint": "gaojidongzhandou2 (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スタートレック5（米）",
+      "ja-hint": "スタートレック5（べい）",
+      "zh": "星际迷航5（美）",
+      "zh-hint": "xingjimihang5 (mei)"
+    }
+  }
+}

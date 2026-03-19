@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スパイ ハンター（米）",
+      "ja-hint": "スパイ ハンター（べい）",
+      "zh": "超级间谍猎人（美）",
+      "zh-hint": "chaojijiandielieren (mei)"
+    }
+  }
+}

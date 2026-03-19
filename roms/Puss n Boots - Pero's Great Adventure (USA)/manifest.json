@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "長靴をはいた猫：偉い冒険（米）",
+      "ja-hint": "ながぐつをはいたねこ：えらいぼうけん（べい）",
+      "zh": "长靴猫：伟大的冒险（美）",
+      "zh-hint": "changxuemao：weidademaoxian (mei)"
+    }
+  }
+}

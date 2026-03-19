@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スパイＶＳスパイ（米）",
+      "ja-hint": "スパイＶＳスパイ（べい）",
+      "zh": "谍对谍（美）",
+      "zh-hint": "dieduidie (mei)"
+    }
+  }
+}

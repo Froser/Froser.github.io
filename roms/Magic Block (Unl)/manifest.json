@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マジックブロック（全）",
+      "ja-hint": "マジックブロック（全）",
+      "zh": "魔法方块（全）",
+      "zh-hint": "mofafangkuai (quan)"
+    }
+  }
+}

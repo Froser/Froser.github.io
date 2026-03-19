@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "爆笑！！人生劇場3（日）",
+      "ja-hint": "ばくしょう！！じんせいげきじょう3（にち）",
+      "zh": "爆笑人生剧场3",
+      "zh-hint": "baoxiaorenshengjuchang3"
+    }
+  }
+}

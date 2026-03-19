@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 737,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エキサイティング・ラリー（日）",
+      "ja-hint": "エキサイティング・ラリー（にち）",
+      "zh": "刺激赛车（日）",
+      "zh-hint": "cijisaiche (ri)"
+    }
+  }
+}

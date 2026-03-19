@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キングスリクエスト（米）",
+      "ja-hint": "キングスリクエスト（べい）",
+      "zh": "国王密使V：失城记（美）",
+      "zh-hint": "guowangmishivshichengji(mei)"
+    }
+  }
+}

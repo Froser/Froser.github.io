@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 384,
+      "width": 260
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "探偵 神宮寺三郎 横浜港連続殺人事件（日）",
+      "ja-hint": "たんてい じんぐうじさぶろう よこはまこうれんぞくさつじんじけん（にち）",
+      "zh": "神宫寺三郎侦探-横滨港连续杀人事件（日）",
+      "zh-hint": "shengongsisanlangzhentan-hengbinganglianxusharenshijian (ri)"
+    }
+  }
+}

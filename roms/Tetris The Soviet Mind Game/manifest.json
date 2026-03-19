@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 564,
+      "width": 399
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テトリス（Tengen）",
+      "zh": "俄罗斯方块（Tengen）",
+      "zh-hint": "eluosifangkuai(tengen)"
+    }
+  }
+}

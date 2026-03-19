@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マリオブラザーズ（米）",
+      "ja-hint": "マリオブラザーズ（べい）",
+      "zh": "水管马力欧（美）",
+      "zh-hint": "shuiguanmaliou (mei)"
+    }
+  }
+}

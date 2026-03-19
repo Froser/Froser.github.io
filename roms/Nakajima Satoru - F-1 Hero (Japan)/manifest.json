@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Michael Andretti's World GP (USA)": {
+      "height": 358,
+      "width": 256
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Michael Andretti's World GP (USA)": {
+      "ja": "中島悟F1ヒーロー（米）",
+      "ja-hint": "なかじまさとしF1ヒーロー（べい）",
+      "zh": "中岛悟F1英雄（美）",
+      "zh-hint": "zhongdaowuF1yingxiong (mei)"
+    },
+    "default": {
+      "ja": "中島悟F1ヒーロー（日）",
+      "ja-hint": "なかじまさとしF1ヒーロー（にち）",
+      "zh": "中岛悟F1英雄（日）",
+      "zh-hint": "zhongdaowuF1yingxiong (ri)"
+    }
+  }
+}

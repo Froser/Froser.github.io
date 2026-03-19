@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "川のぬし釣り（日）",
+      "ja-hint": "かわのぬしつり（にち）",
+      "zh": "钓鱼太郎（日）",
+      "zh-hint": "diaoyutailang (ri)"
+    }
+  }
+}

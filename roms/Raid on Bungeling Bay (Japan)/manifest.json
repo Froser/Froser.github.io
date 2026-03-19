@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Raid on Bungeling Bay (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 344,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Raid on Bungeling Bay (USA)": {
+      "ja": "バンゲリングベイ（米）",
+      "ja-hint": "バンゲリングベイ（べい）",
+      "zh": "救难直升机（美）",
+      "zh-hint": "jiunanzhishengji (mei)"
+    },
+    "default": {
+      "ja": "バンゲリングベイ（日）",
+      "ja-hint": "バンゲリングベイ（にち）",
+      "zh": "救难直升机（日）",
+      "zh-hint": "jiunanzhishengji (ri)"
+    }
+  }
+}

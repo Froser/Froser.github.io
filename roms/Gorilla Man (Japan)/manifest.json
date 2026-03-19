@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゴリラーマン（日）",
+      "zh": "古里亚人（日）",
+      "zh-hint": "guliyaren(ri)"
+    }
+  }
+}

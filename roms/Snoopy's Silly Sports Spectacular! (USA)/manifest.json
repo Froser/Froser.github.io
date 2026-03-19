@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スヌーピー（米）",
+      "ja-hint": "スヌーピー（べい）",
+      "zh": "史努比的趣味运动会（美）",
+      "zh-hint": "shinubidequweiyundonghui (mei)"
+    }
+  }
+}

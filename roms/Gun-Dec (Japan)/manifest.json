@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Vice - Project Doom (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 350,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Vice - Project Doom (USA)": {
+      "ja": "ガンデック（米）",
+      "ja-hint": "ガンナック（べい）",
+      "zh": "火炮（美）",
+      "zh-hint": "huopao (mei)"
+    },
+    "default": {
+      "ja": "ガンデック（日）",
+      "ja-hint": "ガンナック（にち）",
+      "zh": "火炮（日）",
+      "zh-hint": "huopao (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 342,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "仮面ライダーSD グランショッカーの野望（日）",
+      "ja-hint": "かめんライダーSD グランショッカーのやぼう（にち）",
+      "zh": "SD假面骑士（日）",
+      "zh-hint": "SDjiamianqishi (ri)"
+    }
+  }
+}

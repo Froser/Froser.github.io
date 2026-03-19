@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ultima - Quest of the Avatar (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ultima - Quest of the Avatar (USA)": {
+      "ja": "ウルティマ　聖者への道（米）",
+      "ja-hint": "ウルティマ　せいじゃへのみち（べい）",
+      "zh": "创世纪IV：圣者传奇（美）",
+      "zh-hint": "chuangshijiIV：shengzhechuanqi (mei)"
+    },
+    "default": {
+      "ja": "ウルティマ　聖者への道（日）",
+      "ja-hint": "ウルティマ　せいじゃへのみち（にち）",
+      "zh": "创世纪4：圣者传奇（日）",
+      "zh-hint": "chuangshiji4：shengzhechuanqi (ri)"
+    }
+  }
+}

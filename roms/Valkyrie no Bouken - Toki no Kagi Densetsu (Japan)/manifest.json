@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ワルキューレの冒険 時の鍵伝説（日）",
+      "ja-hint": "ワルキューレのぼうけん ときのかぎでんせつ（にち）",
+      "zh": "女武士大冒险 时之钥传说（日）",
+      "zh-hint": "nvwushidamaoxian shizhiyaochuanshuo (ri)"
+    }
+  }
+}

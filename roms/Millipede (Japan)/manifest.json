@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Millipede (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Millipede (USA)": {
+      "ja": "ミリピード（米）",
+      "ja-hint": "ミリピード（べい）",
+      "zh": "杀虫大战（美）",
+      "zh-hint": "shachongdazhan (mei)"
+    },
+    "default": {
+      "ja": "ミリピード（日）",
+      "ja-hint": "ミリピード（にち）",
+      "zh": "杀虫大战（日）",
+      "zh-hint": "shachongdazhan (ri)"
+    }
+  }
+}

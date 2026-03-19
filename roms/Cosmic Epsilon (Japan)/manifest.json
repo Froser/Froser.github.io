@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 356,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "コズミックイプシロン（日）",
+      "ja-hint": "コズミックイプシロン（にち）",
+      "zh": "宇宙战机（日）",
+      "zh-hint": "yuzhouzhanji (ri)"
+    }
+  }
+}

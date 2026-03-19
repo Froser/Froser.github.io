@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "名門!多古西応援団（日）",
+      "ja-hint": "めいもん!たこにしおうえんだん（にち）",
+      "zh": "多古西应援团（日）",
+      "zh-hint": "duoguxiyingyuantuan (ri)"
+    }
+  }
+}

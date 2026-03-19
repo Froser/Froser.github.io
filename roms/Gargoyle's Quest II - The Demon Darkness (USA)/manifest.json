@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Red Arremar 2 (Japan)": {
+      "height": 400,
+      "width": 279
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Red Arremar 2 (Japan)": {
+      "ja": "魔界村外伝 - レッドアリーマー2（日）",
+      "ja-hint": "まかいむらがいでんレッドアリーマー2（にち）",
+      "zh": "魔界村外传 - 兽人任务2暗黑恶魔（日）",
+      "zh-hint": "mojiecunwaizhuanshourenrenwu2anheiemo (ri)"
+    },
+    "default": {
+      "ja": "魔界村外伝 - レッドアリーマー2（米）",
+      "ja-hint": "まかいむらがいでんレッドアリーマー2（べい）",
+      "zh": "魔界村外传 - 兽人任务2暗黑恶魔（美）",
+      "zh-hint": "mojiecunwaizhuanshourenrenwu2anheiemo (mei)"
+    }
+  }
+}

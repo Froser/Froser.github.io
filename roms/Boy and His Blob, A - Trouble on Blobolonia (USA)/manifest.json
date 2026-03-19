@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Fushigi na Blobby - Blobania no Kiki (Japan)": {
+      "height": 748,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Fushigi na Blobby - Blobania no Kiki (Japan)": {
+      "ja": "ふしぎなブロビー ブロバニアの危機（日）",
+      "ja-hint": "ふしぎなブロビー ブロバニアのきき（にち）",
+      "zh": "男孩与泡泡怪（日）",
+      "zh-hint": "nanhaiyupaopaoguai (ri)"
+    },
+    "default": {
+      "ja": "ふしぎなブロビー ブロバニアの危機（米）",
+      "ja-hint": "ふしぎなブロビー ブロバニアのきき（べい）",
+      "zh": "男孩与泡泡怪（美）",
+      "zh-hint": "nanhaiyupaopaoguai (mei)"
+    }
+  }
+}

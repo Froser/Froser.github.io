@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ベースボールスターズ 2（米）",
+      "ja-hint": "ベースボールスターズ 2（べい）",
+      "zh": "棒球之星2（美）",
+      "zh-hint": "bangqiuzhixing2 (mei)"
+    }
+  }
+}

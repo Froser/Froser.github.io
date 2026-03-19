@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "シルクワーム（米）",
+      "ja-hint": "シルクワーム（べい）",
+      "zh": "联合大作战 中东战争（美）",
+      "zh-hint": "lianhedazuozhan zhongdongzhanzheng (mei)"
+    }
+  }
+}

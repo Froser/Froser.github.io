@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "WCW World Championship Wrestling (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "WCW World Championship Wrestling (USA)": {
+      "ja": "スーパースタープロレスリング（米）",
+      "ja-hint": "スーパースタープロレスリング（べい）",
+      "zh": "超级职业摔角（美）",
+      "zh-hint": "chaojizhiyeshuaijiao (mei)"
+    },
+    "default": {
+      "ja": "スーパースタープロレスリング（日）",
+      "ja-hint": "スーパースタープロレスリング（にち）",
+      "zh": "超级职业摔角（日）",
+      "zh-hint": "chaojizhiyeshuaijiao (ri)"
+    }
+  }
+}

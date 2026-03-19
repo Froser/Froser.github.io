@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Astyanax (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 351,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Astyanax (USA)": {
+      "ja": "ザ・ロードオブキング（米）",
+      "zh": "斧王（美）"
+    },
+    "default": {
+      "ja": "ザ・ロードオブキング（日）",
+      "zh": "斧王（日）",
+      "zh-hint": "fuwang(ri)"
+    }
+  }
+}

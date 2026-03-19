@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ikari Warriors III - The Rescue (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Ikari Warriors III - The Rescue (USA)": {
+      "ja": "怒3（米）",
+      "ja-hint": "いかり3（べい）",
+      "zh": "怒3 - 救援（美）",
+      "zh-hint": "nu3 - jiuyuan (mei)"
+    },
+    "default": {
+      "ja": "怒3（日）",
+      "ja-hint": "いかり3（にち）",
+      "zh": "怒3 - 救援（日）",
+      "zh-hint": "nu3 - jiuyuan (ri)"
+    }
+  }
+}

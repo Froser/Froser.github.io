@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "新里見八犬伝 光と闇の戦い（日）",
+      "ja-hint": "しんさとみはっけんでん ひかとやみのたたかい（にち）",
+      "zh": "新里见八犬传：光明与黑暗的战争（日）",
+      "zh-hint": "xinlijianbaquanchuan：guangmingyuheiandezhanzheng (ri)"
+    }
+  }
+}

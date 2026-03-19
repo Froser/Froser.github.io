@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "日本一の名監督（日）",
+      "ja-hint": "にっぽんいちのめいかんとく（にち）",
+      "zh": "日本第一名监督（日）",
+      "zh-hint": "ribendiyimingjiandu (ri)"
+    }
+  }
+}

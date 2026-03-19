@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ハリウッドスクエア（米）",
+      "ja-hint": "ハリウッドスクエア（べい）",
+      "zh": "好莱坞广场（美）",
+      "zh-hint": "haolaiwuguangchang (mei)"
+    }
+  }
+}

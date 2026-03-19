@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Blue Marlin (Japan)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "The Blue Marlin (Japan)": {
+      "ja": "ザブルーマリーン（日）",
+      "ja-hint": "ザブルーマリーン（にち）",
+      "zh": "钓鱼模拟游戏：海钓王（日）",
+      "zh-hint": "diaoyumoniyouxi：haidiaowang (ri)"
+    },
+    "default": {
+      "ja": "ザブルーマリーン（米）",
+      "ja-hint": "ザブルーマリーン（べい）",
+      "zh": "钓鱼模拟游戏：海钓王（美）",
+      "zh-hint": "diaoyumoniyouxi：haidiaowang (mei)"
+    }
+  }
+}

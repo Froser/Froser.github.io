@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Wanpaku Duck Yume Bouken (Japan)": {
+      "height": 745,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Wanpaku Duck Yume Bouken (Japan)": {
+      "ja": "わんぱくダック夢冒険（日）",
+      "ja-hint": "わんぱくダックゆめぼうけん（にち）",
+      "zh": "唐老鸭俱乐部（日）",
+      "zh-hint": "tanglaoyajulebu(mei) (ri)"
+    },
+    "default": {
+      "ja": "わんぱくダック夢冒険（米）",
+      "ja-hint": "わんぱくダックゆめぼうけん（べい）",
+      "zh": "唐老鸭俱乐部（美）",
+      "zh-hint": "tanglaoyajulebu(mei)"
+    }
+  }
+}

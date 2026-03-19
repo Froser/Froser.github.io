@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ひらけ！ポンキッキ（日）",
+      "ja-hint": "ひらけ！ポンキッキ（にち）",
+      "zh": "打开吧！朋基基（日）",
+      "zh-hint": "dakaiba！pengjiji (ri)"
+    }
+  }
+}

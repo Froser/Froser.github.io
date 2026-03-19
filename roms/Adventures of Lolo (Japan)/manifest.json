@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 276,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アドベンチャーズ オブ ロロ（日）",
+      "zh": "洛洛历险记（日）",
+      "zh-hint": "luoluolixianji(ri)"
+    }
+  }
+}

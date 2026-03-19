@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ワイルドガンマン（米）",
+      "ja-hint": "ワイルドガンマン（べい）",
+      "zh": "荒野枪手（美）",
+      "zh-hint": "huangyeqiangshou (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サンリオカーニバル2（日）",
+      "ja-hint": "サンリオカーニバル2（にち）",
+      "zh": "动物方块2（日）",
+      "zh-hint": "dongwufangkuai2 (ri)"
+    }
+  }
+}

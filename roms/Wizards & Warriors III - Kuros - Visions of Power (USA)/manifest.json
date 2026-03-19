@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "伝説の騎士エルロンド3（米）",
+      "ja-hint": "でんせつのきしエルロンド3（べい）",
+      "zh": "巫师与勇士3（美）",
+      "zh-hint": "wushiyuyongshi3 (mei)"
+    }
+  }
+}

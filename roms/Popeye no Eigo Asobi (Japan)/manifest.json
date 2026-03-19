@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 318,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ポパイの英語遊び（日）",
+      "ja-hint": "ポパイのえいごあそび（にち）",
+      "zh": "大力水手学英语（日）",
+      "zh-hint": "dalishuishouxueyingyu (ri)"
+    }
+  }
+}

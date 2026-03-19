@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 273,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "デビルワールド（日）",
+      "zh": "恶魔世界（日）",
+      "zh-hint": "emoshijie(ri)"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Castelian (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Castelian (USA)": {
+      "ja": "キョロちゃんランド（米）",
+      "zh": "大嘴鸟乐园（美）"
+    },
+    "default": {
+      "ja": "キョロちゃんランド（日）",
+      "zh": "大嘴鸟乐园（日）",
+      "zh-hint": "dazuiniaoleyuan(ri)"
+    }
+  }
+}

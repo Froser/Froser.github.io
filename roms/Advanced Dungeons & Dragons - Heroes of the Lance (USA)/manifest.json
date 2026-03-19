@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Advanced Dungeons & Dragons - Heroes of the Lance (Japan)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Advanced Dungeons & Dragons - Heroes of the Lance (Japan)": {
+      "ja": "Advanced Dungeons & Dragons ヒーローオブランス（日）",
+      "ja-hint": "Advanced Dungeons & Dragons ヒーローオブランス（にち）",
+      "zh": "龙与地下城：长枪英雄（日）",
+      "zh-hint": "longyudixiacheng：changqiangyingxiong (ri)"
+    },
+    "default": {
+      "ja": "Advanced Dungeons & Dragons ヒーローオブランス（米）",
+      "ja-hint": "Advanced Dungeons & Dragons ヒーローオブランス（べい）",
+      "zh": "龙与地下城：长枪英雄（美）",
+      "zh-hint": "longyudixiacheng：changqiangyingxiong (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "たけしの挑戦状（日）",
+      "ja-hint": "たけしのちょうせんじょう（にち）",
+      "zh": "北野武的挑战状（日）",
+      "zh-hint": "beiyewudetiaozhanzhuang (ri)"
+    }
+  }
+}

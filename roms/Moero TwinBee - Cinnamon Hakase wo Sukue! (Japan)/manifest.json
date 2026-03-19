@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Stinger (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 727,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Stinger (USA)": {
+      "ja": "もえろツインビー シナモン博士を救え（米）",
+      "ja-hint": "もえろツインビー シナモンはかせをすくえ（べい）",
+      "zh": "兵蜂2（美）",
+      "zh-hint": "bingfeng2 (mei)"
+    },
+    "default": {
+      "ja": "もえろツインビー シナモン博士を救え（日）",
+      "ja-hint": "もえろツインビー シナモンはかせをすくえ（にち）",
+      "zh": "兵蜂2（日）",
+      "zh-hint": "bingfeng2 (ri)"
+    }
+  }
+}

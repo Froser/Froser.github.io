@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "レンとスティンピー（米）",
+      "ja-hint": "レンとスティンピー（べい）",
+      "zh": "莱恩和史丁比（美）",
+      "zh-hint": "laienheshidingbi (mei)"
+    }
+  }
+}

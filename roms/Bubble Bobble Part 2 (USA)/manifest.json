@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Bubble Bobble 2 (Japan)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Bubble Bobble 2 (Japan)": {
+      "ja": "バブルボブル2（日）",
+      "ja-hint": "バブルボブル2（にち）",
+      "zh": "泡泡龙2（日）",
+      "zh-hint": "paopaolong2 (ri)"
+    },
+    "default": {
+      "ja": "バブルボブル2（米）",
+      "ja-hint": "バブルボブル2（べい）",
+      "zh": "泡泡龙2（美）",
+      "zh-hint": "paopaolong2 (mei)"
+    }
+  }
+}

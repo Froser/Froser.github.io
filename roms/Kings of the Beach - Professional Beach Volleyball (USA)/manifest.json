@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Kings of the Beach - Professional Beach Volleyball（米）",
+      "ja-hint": "Kings of the Beach - Professional Beach Volleyball（べい）",
+      "zh": "沙滩排球之王（美）",
+      "zh-hint": "shatanpaiqiuzhiwang(mei)"
+    }
+  }
+}

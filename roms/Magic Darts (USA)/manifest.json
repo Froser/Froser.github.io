@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Magic Darts (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Magic Darts (Japan)": {
+      "ja": "マジック ダーツ（日）",
+      "ja-hint": "マジック ダーツ（にち）",
+      "zh": "魔法飞镖（日）",
+      "zh-hint": "mofafeibiao (ri)"
+    },
+    "default": {
+      "ja": "マジック ダーツ（米）",
+      "ja-hint": "マジック ダーツ（べい）",
+      "zh": "魔法飞镖（美）",
+      "zh-hint": "mofafeibiao (mei)"
+    }
+  }
+}

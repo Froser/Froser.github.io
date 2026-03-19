@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "爆笑！愛の劇場（日）",
+      "ja-hint": "ばくしょう！あいのげきじょう（にち）",
+      "zh": "爆笑爱剧场（日）",
+      "zh-hint": "baoxiaoaijuchang (ri)"
+    }
+  }
+}

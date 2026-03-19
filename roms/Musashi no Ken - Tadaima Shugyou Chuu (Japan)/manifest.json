@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "六三四の剣ただいま修行中（日）",
+      "ja-hint": "ろくさんしのつるぎただいましゅぎょうちゅう（にち）",
+      "zh": "六三四之剑（日）",
+      "zh-hint": "liusansizhijian (ri)"
+    }
+  }
+}

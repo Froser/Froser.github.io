@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パニッシャー（米）",
+      "ja-hint": "パニッシャー（べい）",
+      "zh": "制裁者（美）",
+      "zh-hint": "zhicaizhe (mei)"
+    }
+  }
+}

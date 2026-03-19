@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Samurai Zombie Nation (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Samurai Zombie Nation (USA)": {
+      "ja": "暴れん坊天狗（米）",
+      "ja-hint": "あばれんぼうてんぐ（べい）",
+      "zh": "暴坊天狗（美）",
+      "zh-hint": "baofangtiangou (mei)"
+    },
+    "default": {
+      "ja": "暴れん坊天狗（日）",
+      "ja-hint": "あばれんぼうてんぐ（にち）",
+      "zh": "暴坊天狗（日）",
+      "zh-hint": "baofangtiangou (ri)"
+    }
+  }
+}

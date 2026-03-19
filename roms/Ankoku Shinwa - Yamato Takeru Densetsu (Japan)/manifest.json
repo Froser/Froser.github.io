@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "暗黒神話ヤマトタケル伝説（日）",
+      "ja-hint": "あんこくしんわヤマトタケルでんせつ（にち）",
+      "zh": "黑暗神话：日本武尊传说（日）",
+      "zh-hint": "heianshenhua：ribenwuzunchuanshuo (ri)"
+    }
+  }
+}

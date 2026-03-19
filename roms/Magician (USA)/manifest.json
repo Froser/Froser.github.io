@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マジシャン（米）",
+      "ja-hint": "マジシャン（べい）",
+      "zh": "魔法师（美）",
+      "zh-hint": "mofashi (mei)"
+    }
+  }
+}

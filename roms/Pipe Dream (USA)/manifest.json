@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パイプドリーム（米）",
+      "ja-hint": "パイプドリーム（べい）",
+      "zh": "水管狂想记（美）",
+      "zh-hint": "shuiguankuangxiangji (mei)"
+    }
+  }
+}

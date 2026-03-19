@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tokkyuu Shirei - Solbrain (Japan)": {
+      "height": 750,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Tokkyuu Shirei - Solbrain (Japan)": {
+      "ja": "特救指令ソルブレイン（日）",
+      "ja-hint": "特救指令ソルブレイン（にち）",
+      "zh": "特救指令（日）",
+      "zh-hint": "tejiuzhiling (ri)"
+    },
+    "default": {
+      "ja": "特救指令ソルブレイン（米）",
+      "ja-hint": "特救指令ソルブレイン（べい）",
+      "zh": "特救指令（美）",
+      "zh-hint": "tejiuzhiling (mei)"
+    }
+  }
+}

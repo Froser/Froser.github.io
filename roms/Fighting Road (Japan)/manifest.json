@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 356,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファイティングロード（日）",
+      "ja-hint": "ファイティングロード（にち）",
+      "zh": "战斗之路（日）",
+      "zh-hint": "zhandouzhilu (ri)"
+    }
+  }
+}

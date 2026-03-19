@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Boulder Dash (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 274,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Boulder Dash (USA)": {
+      "ja": "バルダーダッシュ（米）",
+      "zh": "新地底探险（美）"
+    },
+    "default": {
+      "ja": "バルダーダッシュ（日）",
+      "zh": "新地底探险（日）",
+      "zh-hint": "xindiditanxian(ri)"
+    }
+  }
+}

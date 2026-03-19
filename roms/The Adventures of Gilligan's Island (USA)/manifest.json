@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ギリガンの島の冒険（米）",
+      "ja-hint": "ギリガンのしまのぼうけん（べい）",
+      "zh": "吉利根岛大冒险（美）",
+      "zh-hint": "jiligendaodamaoxian (mei)"
+    }
+  }
+}

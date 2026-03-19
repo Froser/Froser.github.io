@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "百鬼夜行（日）",
+      "ja-hint": "ひゃっきやぎょう（にち）",
+      "zh": "百鬼夜行（日）",
+      "zh-hint": "baiguiyexing (ri)"
+    }
+  }
+}

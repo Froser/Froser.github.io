@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 732,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Dr.フランケン（米）",
+      "ja-hint": "Dr.フランケン（べい）",
+      "zh": "科学怪人的冒险（美）",
+      "zh-hint": "kexueguairendemaoxian (mei)"
+    }
+  }
+}

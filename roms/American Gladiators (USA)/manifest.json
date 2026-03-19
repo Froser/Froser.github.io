@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "激突!アメリカン筋肉バトル（米）",
+      "ja-hint": "げきとつ!アメリカンきんにくバトル（べい）",
+      "zh": "美国角斗士（美）",
+      "zh-hint": "meiguojiaodoushi (mei)"
+    }
+  }
+}

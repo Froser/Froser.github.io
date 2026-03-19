@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 732,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パチンコ大作戦（日）",
+      "ja-hint": "パチンコだいさくせん（にち）",
+      "zh": "柏青哥大作战（日）",
+      "zh-hint": "baiqinggedazuozhan (ri)"
+    }
+  }
+}

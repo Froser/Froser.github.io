@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドラゴンスピリット 新たなる伝説（米）",
+      "ja-hint": "ドラゴンスピリット あらたなるでんせつ（べい）",
+      "zh": "龙魂：新的传说（美）",
+      "zh-hint": "longhun：xindechuanshuo (mei)"
+    }
+  }
+}

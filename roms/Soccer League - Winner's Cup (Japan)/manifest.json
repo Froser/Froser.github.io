@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サッカーリーグウィナーズカップ（日）",
+      "ja-hint": "サッカーリーグウィナーズカップ（にち）",
+      "zh": "维纳斯足球赛（日）",
+      "zh-hint": "weinasizuqiusai (ri)"
+    }
+  }
+}

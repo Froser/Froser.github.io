@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダウンタウン熱血行進曲 それいけ大運動会（日）",
+      "ja-hint": "ダウンタウンねっけつこうしんきょく それいけだいうんどうかい（にち）",
+      "zh": "热血行进曲（日）",
+      "zh-hint": "rexiexingjinqu (ri)"
+    }
+  }
+}

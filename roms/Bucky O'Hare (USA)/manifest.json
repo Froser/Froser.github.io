@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Bucky O'Hare (Japan)": {
+      "height": 400,
+      "width": 279
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Bucky O'Hare (Japan)": {
+      "ja": "バッキー・オヘア（日）",
+      "zh": "宇宙野兔（日）"
+    },
+    "default": {
+      "ja": "バッキー・オヘア（米）",
+      "zh": "宇宙野兔（美）",
+      "zh-hint": "yuzhouyetu(mei)"
+    }
+  }
+}

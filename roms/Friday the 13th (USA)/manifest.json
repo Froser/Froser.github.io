@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "13日の金曜日（米）",
+      "ja-hint": "じゅうさんにちのきんようび（べい）",
+      "zh": "十三号星期五（美）",
+      "zh-hint": "shisanhaoxingqiwu(mei)"
+    }
+  }
+}

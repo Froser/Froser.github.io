@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "イメージファイト（米）",
+      "zh": "梦幻战机（美）",
+      "zh-hint": "menghuanzhanji(mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Princess Tomato in Salad Kingdom (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Princess Tomato in Salad Kingdom (USA)": {
+      "ja": "サラダの国のトマト姫（米）",
+      "ja-hint": "サラダのくにのトマトひめ（べい）",
+      "zh": "番茄公主（美）",
+      "zh-hint": "fanqiegongzhu (mei)"
+    },
+    "default": {
+      "ja": "サラダの国のトマト姫（日）",
+      "ja-hint": "サラダのくにのトマトひめ（にち）",
+      "zh": "番茄公主（日）",
+      "zh-hint": "fanqiegongzhu (ri)"
+    }
+  }
+}

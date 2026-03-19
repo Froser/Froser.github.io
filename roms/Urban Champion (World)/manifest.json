@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 730,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アーバンチャンピオン（米）",
+      "ja-hint": "アーバンチャンピオン（べい）",
+      "zh": "街头小子（美）",
+      "zh-hint": "jietouxiaozi (mei)"
+    }
+  }
+}

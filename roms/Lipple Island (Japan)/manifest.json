@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "リップルアイランド（日）",
+      "ja-hint": "リップルアイランド（にち）",
+      "zh": "梦幻岛物语（日）",
+      "zh-hint": "menghuandaowuyu (ri)"
+    }
+  }
+}

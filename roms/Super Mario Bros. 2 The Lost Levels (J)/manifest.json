@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 315,
+      "width": 314
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーマリオブラザーズ2（日）",
+      "zh": "超级马里奥兄弟2（日）",
+      "zh-hint": "chaojimaliaoxiongdi2(ri)"
+    }
+  }
+}

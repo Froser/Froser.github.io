@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Popeye (World) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 331,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Popeye (World) (Rev A)": {
+      "ja": "ポパイ（米）",
+      "ja-hint": "ポパイ（べい）",
+      "zh": "大力水手（美）",
+      "zh-hint": "dalishuishou (mei)"
+    },
+    "default": {
+      "ja": "ポパイ（日）",
+      "ja-hint": "ポパイ（にち）",
+      "zh": "大力水手（日）",
+      "zh-hint": "dalishuishou (ri)"
+    }
+  }
+}

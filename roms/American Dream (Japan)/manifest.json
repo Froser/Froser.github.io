@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アメリカンドリーム（日）",
+      "ja-hint": "アメリカンドリーム（にち）",
+      "zh": "美国之梦（日）",
+      "zh-hint": "meiguozhimeng (ri)"
+    }
+  }
+}

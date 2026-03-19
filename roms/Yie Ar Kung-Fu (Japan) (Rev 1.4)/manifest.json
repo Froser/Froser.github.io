@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 203,
+      "width": 300
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "イー・アル・カンフー（日）",
+      "zh": "功夫（日）",
+      "zh-hint": "gongfu(ri)"
+    }
+  }
+}

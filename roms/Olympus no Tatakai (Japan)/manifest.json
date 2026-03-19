@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Battle of Olympus (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "The Battle of Olympus (USA)": {
+      "ja": "オリュンポスの戦い 愛の伝説（米）",
+      "ja-hint": "オリュンポスのたたかい あいのでんせつ（べい）",
+      "zh": "爱的传说：奥林帕斯的传说（美）",
+      "zh-hint": "aidechuanshuo：aolinpasidechuanshuo (mei)"
+    },
+    "default": {
+      "ja": "オリュンポスの戦い 愛の伝説",
+      "ja-hint": "オリュンポスのたたかい あいのでんせつ",
+      "zh": "爱的传说：奥林帕斯的传说",
+      "zh-hint": "aidechuanshuo：aolinpasidechuanshuo"
+    }
+  }
+}

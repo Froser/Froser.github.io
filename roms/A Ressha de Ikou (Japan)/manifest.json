@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "A列車で行こう（日）",
+      "ja-hint": "Aれっしゃでいこう（にち）",
+      "zh": "A列车（日）",
+      "zh-hint": "Alieche (ri)"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Mega Man 2 (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 277,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Mega Man 2 (USA)": {
+      "ja": "ロックマン2 - Dr.ワイリーの謎（米）",
+      "zh": "洛克人2 - 威利博士之谜（美）"
+    },
+    "default": {
+      "ja": "ロックマン2 - Dr.ワイリーの謎（日）",
+      "ja-hint": "ロックマン2 - Dr.ワイリーのなぞ（にち）",
+      "zh": "洛克人2 - 威利博士之谜（日）",
+      "zh-hint": "luokeren2 - weiliboshizhimi(ri)"
+    }
+  }
+}

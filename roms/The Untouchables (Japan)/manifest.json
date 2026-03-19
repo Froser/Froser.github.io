@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Untouchables (USA) (Rev B)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "The Untouchables (USA) (Rev B)": {
+      "ja": "アンタッチャブル（米）",
+      "ja-hint": "アンタッチャブル（べい）",
+      "zh": "铁面无私（美）",
+      "zh-hint": "tiemianwusi (mei)"
+    },
+    "default": {
+      "ja": "アンタッチャブル（日）",
+      "ja-hint": "アンタッチャブル（にち）",
+      "zh": "铁面无私（日）",
+      "zh-hint": "tiemianwusi (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "いきなりミュージシャン（日）",
+      "ja-hint": "いきなりミュージシャン（にち）",
+      "zh": "热门音乐（日）",
+      "zh-hint": "remenyinle (ri)"
+    }
+  }
+}

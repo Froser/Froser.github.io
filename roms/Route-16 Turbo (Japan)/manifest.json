@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ルート16ターボ（日）",
+      "ja-hint": "ルート16ターボ（にち）",
+      "zh": "公路追击16（日）",
+      "zh-hint": "gongluzhuiji16 (ri)"
+    }
+  }
+}

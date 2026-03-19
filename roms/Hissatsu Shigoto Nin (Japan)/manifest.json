@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "必殺仕事人（日）",
+      "ja-hint": "ひっさつしごとにん（にち）",
+      "zh": "必杀仕事（日）",
+      "zh-hint": "bishashishi (ri)"
+    }
+  }
+}

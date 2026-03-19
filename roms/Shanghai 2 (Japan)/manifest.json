@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 737,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "上海2（日）",
+      "ja-hint": "しゃんはい2（にち）",
+      "zh": "上海2（日）",
+      "zh-hint": "shanghai2 (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ストライダー飛龍（米）",
+      "ja-hint": "ストライダーひりゅう（べい）",
+      "zh": "出击飞龙（美）",
+      "zh-hint": "chujifeilong (mei)"
+    }
+  }
+}

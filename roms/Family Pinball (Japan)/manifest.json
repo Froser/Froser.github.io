@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Rock 'n' Ball (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 276
+    }
+  },
+  "titles": {
+    "Rock 'n' Ball (USA)": {
+      "ja": "ファミリーピンボール（米）",
+      "zh": "家庭弹珠台（美）",
+      "zh-hint": "jiatingdanzhutai(mei)"
+    },
+    "default": {
+      "ja": "ファミリーピンボール（日）",
+      "zh": "家庭弹珠台（日）",
+      "zh-hint": "jiatingdanzhutai(ri)"
+    }
+  }
+}

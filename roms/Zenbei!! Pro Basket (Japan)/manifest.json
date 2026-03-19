@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "All-Pro Basketball (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 739,
+      "width": 512
+    }
+  },
+  "titles": {
+    "All-Pro Basketball (USA)": {
+      "ja": "全米プロバスケット（米）",
+      "ja-hint": "ぜんべいプロバスケット（べい）",
+      "zh": "全美职业篮球（美）",
+      "zh-hint": "quanmeizhiyelanqiu (mei)"
+    },
+    "default": {
+      "ja": "全米プロバスケット（日）",
+      "ja-hint": "ぜんべいプロバスケット（にち）",
+      "zh": "全美职业篮球（日）",
+      "zh-hint": "quanmeizhiyelanqiu (ri)"
+    }
+  }
+}

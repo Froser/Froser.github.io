@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "うる星やつら　ラムのウェディングベル（日）",
+      "ja-hint": "うるほしやつら　ラムのウェディングベル（にち）",
+      "zh": "福星小子（日）",
+      "zh-hint": "fuxingxiaozi (ri)"
+    }
+  }
+}

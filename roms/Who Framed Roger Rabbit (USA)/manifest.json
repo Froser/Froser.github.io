@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロジャー　ラビット（米）",
+      "ja-hint": "ロジャー　ラビット（べい）",
+      "zh": "谁害了兔子罗杰（美）",
+      "zh-hint": "shuihailetuziluojie (mei)"
+    }
+  }
+}

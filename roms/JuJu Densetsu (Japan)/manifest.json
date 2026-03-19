@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Toki (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Toki (USA)": {
+      "ja": "JuJu伝説（米）",
+      "ja-hint": "JuJuでんせつ（べい）",
+      "zh": "JuJu传说（美）",
+      "zh-hint": "jujuchuanshuo(ri) (mei)"
+    },
+    "default": {
+      "ja": "JuJu伝説（日）",
+      "ja-hint": "JuJuでんせつ（にち）",
+      "zh": "JuJu传说（日）",
+      "zh-hint": "jujuchuanshuo(ri)"
+    }
+  }
+}

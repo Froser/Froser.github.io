@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "百の世界の物語（日）",
+      "ja-hint": "ひゃくのせかいのものがたり（にち）",
+      "zh": "百世界的故事（日）",
+      "zh-hint": "baishijiedegushi (ri)"
+    }
+  }
+}

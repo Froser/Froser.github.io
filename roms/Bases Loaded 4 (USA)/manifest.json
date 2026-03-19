@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "燃えろ!!プロ野球4（米）",
+      "ja-hint": "もえろ!!プロやきゅう4（べい）",
+      "zh": "燃烧棒球4（美）",
+      "zh-hint": "ranshaobangqiu4 (mei)"
+    }
+  }
+}

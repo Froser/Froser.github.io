@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Robo Warrior (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 276,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Robo Warrior (USA)": {
+      "ja": "ボンバーキング（米）",
+      "zh": "炸弹之王（美）"
+    },
+    "default": {
+      "ja": "ボンバーキング（日）",
+      "zh": "炸弹之王（日）",
+      "zh-hint": "zhadanzhiwang(ri)"
+    }
+  }
+}

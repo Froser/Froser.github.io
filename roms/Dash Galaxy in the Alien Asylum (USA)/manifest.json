@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エイリアンアサイラムのダッシュギャラクシー（米）",
+      "ja-hint": "エイリアンアサイラムのダッシュギャラクシー（べい）",
+      "zh": "银河避难所（美）",
+      "zh-hint": "yinhebinansuo (mei)"
+    }
+  }
+}

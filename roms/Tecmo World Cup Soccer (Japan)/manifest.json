@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 767,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テクモワールドカップサッカー（日）",
+      "ja-hint": "テクモワールドカップサッカー（にち）",
+      "zh": "特库摩足球世界杯（日）",
+      "zh-hint": "tekumozuqiushijiebei (ri)"
+    }
+  }
+}

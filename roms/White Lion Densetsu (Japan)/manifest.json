@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Legend of the Ghost Lion (USA)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 756,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Legend of the Ghost Lion (USA)": {
+      "ja": "ホワイトライオン伝説 ピラミッドの彼方に（米）",
+      "ja-hint": "ホワイトライオンでんせつ ピラミッドのかなたに（べい）",
+      "zh": "白狮子传说（美）",
+      "zh-hint": "baishizichuanshuo (mei)"
+    },
+    "default": {
+      "ja": "ホワイトライオン伝説 ピラミッドの彼方に（日）",
+      "ja-hint": "ホワイトライオンでんせつ ピラミッドのかなたに（にち）",
+      "zh": "白狮子传说（日）",
+      "zh-hint": "baishizichuanshuo (ri)"
+    }
+  }
+}

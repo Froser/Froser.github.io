@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Star Force (Japan)": {
+      "height": 350,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Star Force (Japan)": {
+      "ja": "スターフォース（日）",
+      "ja-hint": "スターフォース（にち）",
+      "zh": "星际力量（日）",
+      "zh-hint": "xingjililiang (ri)"
+    },
+    "default": {
+      "ja": "スターフォース（米）",
+      "ja-hint": "スターフォース（べい）",
+      "zh": "星际力量（美）",
+      "zh-hint": "xingjililiang (mei)"
+    }
+  }
+}

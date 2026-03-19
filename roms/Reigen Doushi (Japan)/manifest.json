@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Phantom Fighter (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Phantom Fighter (USA)": {
+      "ja": "霊幻道士（米）",
+      "ja-hint": "れいげんどうし（べい）",
+      "zh": "灵幻道士（美）",
+      "zh-hint": "linghuandaoshi (mei)"
+    },
+    "default": {
+      "ja": "霊幻道士（日）",
+      "ja-hint": "れいげんどうし（にち）",
+      "zh": "灵幻道士（日）",
+      "zh-hint": "linghuandaoshi (ri)"
+    }
+  }
+}

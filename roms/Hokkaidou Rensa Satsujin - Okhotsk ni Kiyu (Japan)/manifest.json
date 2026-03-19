@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "北海道連鎖殺人 オホーツクに消ゆ（日）",
+      "ja-hint": "ほっかいどうれんささつじん オホーツクにきゆ（にち）",
+      "zh": "北海道连续杀人事件（日）",
+      "zh-hint": "beihaidaolianxusharenshijian (ri)"
+    }
+  }
+}

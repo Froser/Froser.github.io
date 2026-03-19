@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 741,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ディープダンジョン3 勇士への旅（日）",
+      "ja-hint": "ディープダンジョン3 ゆうしへのたび（にち）",
+      "zh": "深入地下城3：成为勇士的旅行（日）",
+      "zh-hint": "shenrudixiacheng3：chengweiyongshidelvxing (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dragon Fighter (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 734,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Dragon Fighter (USA)": {
+      "ja": "ドラゴンファイター（米）",
+      "ja-hint": "ドラゴンファイター（べい）",
+      "zh": "龙之斗士（美）",
+      "zh-hint": "longzhidoushi (mei)"
+    },
+    "default": {
+      "ja": "ドラゴンファイター（日）",
+      "ja-hint": "ドラゴンファイター（にち）",
+      "zh": "龙之斗士（日）",
+      "zh-hint": "longzhidoushi (ri)"
+    }
+  }
+}

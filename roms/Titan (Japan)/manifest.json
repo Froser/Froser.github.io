@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タイタン（日）",
+      "ja-hint": "タイタン（にち）",
+      "zh": "泰坦（日）",
+      "zh-hint": "taitan (ri)"
+    }
+  }
+}

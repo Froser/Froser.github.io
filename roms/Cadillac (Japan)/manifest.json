@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャデラック（日）",
+      "ja-hint": "キャデラック（にち）",
+      "zh": "凯迪拉克（日）",
+      "zh-hint": "kaidilake (ri)"
+    }
+  }
+}

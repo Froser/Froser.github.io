@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 729,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ＮＥＷゴーストバスターズ2（日）",
+      "ja-hint": "ＮＥＷゴーストバスターズ2（にち）",
+      "zh": "捉鬼敢死队2（日）",
+      "zh-hint": "zhuoguigansidui2 (ri)"
+    }
+  }
+}

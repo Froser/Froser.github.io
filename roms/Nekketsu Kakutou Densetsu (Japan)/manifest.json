@@ -1,0 +1,36 @@
+{
+  "boxarts": {
+    "Nekketsu Kakutou Densetsu (CN)": {
+      "height": 292,
+      "width": 400
+    },
+    "Nekketsu Kakutou Densetsu (Riki Kunio) (J) [T-Eng0.95]": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Nekketsu Kakutou Densetsu (CN)": {
+      "ja": "熱血格闘伝説（中）",
+      "ja-hint": "ねっけつかくとうでんせつ",
+      "zh": "热血格斗传说（中）",
+      "zh-hint": "rexiegedouchuanshuo (zhong)"
+    },
+    "Nekketsu Kakutou Densetsu (Riki Kunio) (J) [T-Eng0.95]": {
+      "ja": "熱血格闘伝説（英）",
+      "ja-hint": "ねっけつかくとうでんせつ（えい）",
+      "zh": "热血格斗传说（英）",
+      "zh-hint": "rexiegedouchuanshuo (ying)"
+    },
+    "default": {
+      "ja": "熱血格闘伝説（日）",
+      "ja-hint": "ねっけつかくとうでんせつ（にち）",
+      "zh": "热血格斗传说（日）",
+      "zh-hint": "rexuegedouchuanshuo(ri)"
+    }
+  }
+}

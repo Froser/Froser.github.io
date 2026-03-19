@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エイリアンシンドローム（日）",
+      "ja-hint": "エイリアンシンドローム（にち）",
+      "zh": "异形风暴（日）",
+      "zh-hint": "yixingfengbao (ri)"
+    }
+  }
+}

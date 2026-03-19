@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Buggy Popper (Japan)": {
+      "height": 340,
+      "width": 512
+    },
+    "default": {
+      "height": 700,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Buggy Popper (Japan)": {
+      "ja": "バーニン'ラバー（日）",
+      "ja-hint": "バーニン'ラバー（にち）",
+      "zh": "金龟跳车（日）",
+      "zh-hint": "jinguitiaoche (ri)"
+    },
+    "default": {
+      "ja": "バーニン'ラバー（米）",
+      "ja-hint": "バーニン'ラバー（べい）",
+      "zh": "金龟跳车（美）",
+      "zh-hint": "jinguitiaoche (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Sweet Home (Japan)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Sweet Home (Japan)": {
+      "ja": "スウィートホーム（日）",
+      "ja-hint": "スウィートホーム（にち）",
+      "zh": "甜蜜之家（日）",
+      "zh-hint": "tianmizhijia (ri)"
+    },
+    "default": {
+      "ja": "スウィートホーム（米）",
+      "ja-hint": "スウィートホーム（べい）",
+      "zh": "甜蜜之家（美）",
+      "zh-hint": "tianmizhijia (mei)"
+    }
+  }
+}

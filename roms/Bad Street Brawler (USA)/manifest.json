@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バッドストリートブロウラー（米）",
+      "ja-hint": "バッドストリートブロウラー（べい）",
+      "zh": "黑街争霸（美）",
+      "zh-hint": "heijiezhengba (mei)"
+    }
+  }
+}

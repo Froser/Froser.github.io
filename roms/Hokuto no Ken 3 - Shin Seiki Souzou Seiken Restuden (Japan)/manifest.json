@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 733,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "北斗の拳3 新世紀創造 凄拳烈伝（日）",
+      "ja-hint": "ほくとのけん3 しんせいきそうぞう せいこぶしれつでん（にち）",
+      "zh": "北斗神拳3：新世纪创造-凄拳列传（日）",
+      "zh-hint": "beidoushenquan3：xinshijichuangzao-qiquanliechuan (ri)"
+    }
+  }
+}

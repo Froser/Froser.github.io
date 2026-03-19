@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "鉄道王（日）",
+      "ja-hint": "てつどうおう（にち）",
+      "zh": "铁道王（日）",
+      "zh-hint": "tiedaowang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 279,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エフワン サーカス（日）",
+      "ja-hint": "エフワン サーカス（にち）",
+      "zh": "F1巡回赛（日）",
+      "zh-hint": "F1xunhuisai (ri)"
+    }
+  }
+}

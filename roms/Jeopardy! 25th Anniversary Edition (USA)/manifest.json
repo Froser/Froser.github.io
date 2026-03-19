@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジェパディ25周年記念版（米）",
+      "ja-hint": "ジェパディ25しゅうねんきねんばん（べい）",
+      "zh": "危险边缘25周年纪念版（美）",
+      "zh-hint": "weixianbianyuan25zhounianjinianban (mei)"
+    }
+  }
+}

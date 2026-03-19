@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Clash at Demonhead (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 732,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Clash at Demonhead (USA)": {
+      "ja": "電撃ビッグバン!（米）",
+      "ja-hint": "でんげきビッグバン!（べい）",
+      "zh": "电击超人（美）",
+      "zh-hint": "dianjichaoren (mei)"
+    },
+    "default": {
+      "ja": "電撃ビッグバン!（日）",
+      "ja-hint": "でんげきビッグバン!（にち）",
+      "zh": "电击超人（日）",
+      "zh-hint": "dianjichaoren (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Mickey Mouse (Japan)": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Mickey Mouse (Japan)": {
+      "ja": "ミッキーマウス不思議の国の大冒険（日）",
+      "ja-hint": "ミッキーマウスふしぎのくにのだいぼうけん（にち）",
+      "zh": "米奇：不可思议王国大冒险（日）",
+      "zh-hint": "miqi：bukesiyiwangguodamaoxian (ri)"
+    },
+    "default": {
+      "ja": "ミッキーマウス不思議の国の大冒険（米）",
+      "ja-hint": "ミッキーマウスふしぎのくにのだいぼうけん（べい）",
+      "zh": "米奇：不可思议王国大冒险（美）",
+      "zh-hint": "miqi：bukesiyiwangguodamaoxian (mei)"
+    }
+  }
+}

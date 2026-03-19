@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Romance of the Three Kingdoms (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 728,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Romance of the Three Kingdoms (USA)": {
+      "ja": "三國志（米）",
+      "ja-hint": "さんごくし（べい）",
+      "zh": "三国志（美）",
+      "zh-hint": "sanguozhi  (mei)"
+    },
+    "default": {
+      "ja": "三國志（日）",
+      "ja-hint": "さんごくし（にち）",
+      "zh": "三国志（日）",
+      "zh-hint": "sanguozhi (ri)"
+    }
+  }
+}

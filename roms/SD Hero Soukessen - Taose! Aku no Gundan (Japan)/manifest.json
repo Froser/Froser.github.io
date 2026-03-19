@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "SDヒーロー総決戦 倒せ!悪の軍団（日）",
+      "ja-hint": "SDヒーローそうけっせん たおせ!あくのぐんだん（にち）",
+      "zh": "SD英雄总决战-打倒邪恶的军团（日）",
+      "zh-hint": "SDyingxiongzongjuezhan-dadaoxieedejuntuan (ri)"
+    }
+  }
+}

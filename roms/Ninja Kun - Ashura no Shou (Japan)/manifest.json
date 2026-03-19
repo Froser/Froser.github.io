@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "忍者くん 阿修羅ノ章（日）",
+      "ja-hint": "にんじゃくん あしゅらノしょう（にち）",
+      "zh": "忍者君阿修罗之章（日）",
+      "zh-hint": "renzhejunaxiuluozhizhang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エキサイティング バスケット（米）",
+      "ja-hint": "エキサイティング バスケット（べい）",
+      "zh": "科乐篮球（美）",
+      "zh-hint": "kelelanqiu (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 569,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ベストプレープロ野球スペシャル（日）",
+      "ja-hint": "ベストプレープロやきゅうスペシャル（にち）",
+      "zh": "亚斯基职业棒球特别版（日）",
+      "zh-hint": "yasijizhiyebangqiutebieban (ri)"
+    }
+  }
+}

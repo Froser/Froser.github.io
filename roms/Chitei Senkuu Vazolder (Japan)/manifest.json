@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Wurm - Journey to the Center of the Earth! (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Wurm - Journey to the Center of the Earth! (USA)": {
+      "ja": "地底戦空バゾルダー（米）",
+      "ja-hint": "ちていせんくうバゾルダー（べい）",
+      "zh": "地底战空（美）",
+      "zh-hint": "didizhankong(ri) (mei)"
+    },
+    "default": {
+      "ja": "地底戦空バゾルダー（日）",
+      "ja-hint": "ちていせんくうバゾルダー（にち）",
+      "zh": "地底战空（日）",
+      "zh-hint": "didizhankong(ri)"
+    }
+  }
+}

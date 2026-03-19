@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダックにおまかせ ダークウィング・ダック（米）",
+      "zh": "狡猾飞天德（美）",
+      "zh-hint": "jiaohuafeitiande(mei)"
+    }
+  }
+}

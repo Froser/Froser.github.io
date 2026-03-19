@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "メタル ファイター（米）",
+      "ja-hint": "メタル ファイター（べい）",
+      "zh": "合金战士（美）",
+      "zh-hint": "hejinzhanshi (mei)"
+    }
+  }
+}

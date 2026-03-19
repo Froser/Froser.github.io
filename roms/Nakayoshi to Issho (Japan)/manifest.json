@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 374,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "なかよしといっしょ（日）",
+      "ja-hint": "なかよしといっしょ（にち）",
+      "zh": "与好友一起（日）",
+      "zh-hint": "yuhaoyouyiqi (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ディズニーランド　マジック　キングダム（米）",
+      "ja-hint": "ディズニーランド　マジック　キングダム（べい）",
+      "zh": "迪士尼神奇王国大冒险（美）",
+      "zh-hint": "dishinishenqiwangguodamaoxian (mei)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 264,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロードファイター（日）",
+      "zh": "火箭车（日）",
+      "zh-hint": "huojianche(ri)"
+    }
+  }
+}

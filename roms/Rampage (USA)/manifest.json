@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ランページ（米）",
+      "ja-hint": "ランページ（べい）",
+      "zh": "猩猩拆楼（美）",
+      "zh-hint": "xingxingchailou (mei)"
+    }
+  }
+}

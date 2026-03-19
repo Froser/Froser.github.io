@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "必殺道場破り（日）",
+      "ja-hint": "ひっさつどうじょうやぶり（にち）",
+      "zh": "必杀道场（日）",
+      "zh-hint": "bishadaochang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 370,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ディープダンジョン4 黒の妖術師（日）",
+      "ja-hint": "ディープダンジョン4 くろのようじゅつし（にち）",
+      "zh": "深入地下城4：黑色妖术师（日）",
+      "zh-hint": "shenrudixiacheng4：heiseyaozhushi (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tombs & Treasure (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "Tombs & Treasure (USA)": {
+      "ja": "太陽の神殿（米）",
+      "ja-hint": "たいようのしんでん（べい）",
+      "zh": "太阳神殿（美）",
+      "zh-hint": "taiyangshendian (mei)"
+    },
+    "default": {
+      "ja": "太陽の神殿（日）",
+      "ja-hint": "たいようのしんでん（にち）",
+      "zh": "太阳神殿（日）",
+      "zh-hint": "taiyangshendian (ri)"
+    }
+  }
+}

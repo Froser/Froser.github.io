@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Alpha Mission (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Alpha Mission (USA)": {
+      "ja": "エーエスオー（米）",
+      "ja-hint": "エーエスオー（べい）",
+      "zh": "ASO战机（美）",
+      "zh-hint": "ASOzhanji (mei)"
+    },
+    "default": {
+      "ja": "エーエスオー（日）",
+      "ja-hint": "エーエスオー（にち）",
+      "zh": "ASO战机（日）",
+      "zh-hint": "ASOzhanji (ri)"
+    }
+  }
+}

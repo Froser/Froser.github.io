@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Castle Excellent (Japan)": {
+      "height": 352,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Castle Excellent (Japan)": {
+      "ja": "キャッスルエクセレント（日）",
+      "ja-hint": "キャッスルエクセレント（にち）",
+      "zh": "勇者之城（日）",
+      "zh-hint": "yongzhezhicheng (ri)"
+    },
+    "default": {
+      "ja": "キャッスルエクセレント（米）",
+      "ja-hint": "キャッスルエクセレント（べい）",
+      "zh": "勇者之城（美）",
+      "zh-hint": "yongzhezhicheng (mei)"
+    }
+  }
+}

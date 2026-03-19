@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "神仙伝（日）",
+      "ja-hint": "しんせんでん（にち）",
+      "zh": "神仙传（日）",
+      "zh-hint": "shenxianchuan (ri)"
+    }
+  }
+}

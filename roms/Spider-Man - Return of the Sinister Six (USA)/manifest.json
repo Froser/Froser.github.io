@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スパイダーマン: リターン オブ ザ シニスター シックス（米）",
+      "ja-hint": "スパイダーマン: リターン オブ ザ シニスター シックス（べい）",
+      "zh": "蜘蛛侠六邪回归（美）",
+      "zh-hint": "zhizhuxialiuxiehuigui (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フリーダム　フォース（米）",
+      "ja-hint": "フリーダム　フォース（べい）",
+      "zh": "自由武装（美）",
+      "zh-hint": "ziyouwuzhuang (mei)"
+    }
+  }
+}

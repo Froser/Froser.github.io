@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "五目ならべ（日）",
+      "ja-hint": "ごもくならべ（にち）",
+      "zh": "五子棋（日）",
+      "zh-hint": "wuziqi(ri)"
+    }
+  }
+}

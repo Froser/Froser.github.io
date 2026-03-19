@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ローン・レンジャー（美）",
+      "ja-hint": "ローン・レンジャー（べい）",
+      "zh": "独行侠（美）",
+      "zh-hint": "duxingxia (mei)"
+    }
+  }
+}

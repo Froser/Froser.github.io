@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 350,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フロントライン（日）",
+      "ja-hint": "フロントライン（にち）",
+      "zh": "前线任务（日）",
+      "zh-hint": "qianxianrenwu (ri)"
+    }
+  }
+}

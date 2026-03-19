@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バットマン リターンズ（米）",
+      "zh": "蝙蝠侠归来（美）",
+      "zh-hint": "bianfuxiaguilai(mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Superman (Japan)": {
+      "height": 349,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Superman (Japan)": {
+      "ja": "スーパーマン（米）",
+      "ja-hint": "スーパーマン（べい）",
+      "zh": "超人（美）",
+      "zh-hint": "chaoren (mei)"
+    },
+    "default": {
+      "ja": "スーパーマン（米）",
+      "ja-hint": "スーパーマン（べい）",
+      "zh": "超人（美）",
+      "zh-hint": "chaoren (mei)"
+    }
+  }
+}

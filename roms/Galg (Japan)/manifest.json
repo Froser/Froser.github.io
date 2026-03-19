@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "頭脳戦艦ガル（日）",
+      "ja-hint": "ずのうせんかんガル（にち）",
+      "zh": "头脑战舰（日）",
+      "zh-hint": "tounaozhanjian(ri)"
+    }
+  }
+}

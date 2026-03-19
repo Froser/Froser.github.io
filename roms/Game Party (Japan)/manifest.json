@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゲームパーティー（日）",
+      "zh": "游戏派对（日）",
+      "zh-hint": "youxipaidui(ri)"
+    }
+  }
+}

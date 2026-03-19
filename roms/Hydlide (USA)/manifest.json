@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ハイドライド（米）",
+      "ja-hint": "ハイドライド（べい）",
+      "zh": "梦幻仙境（美）",
+      "zh-hint": "menghuanxianjing(mei)"
+    }
+  }
+}

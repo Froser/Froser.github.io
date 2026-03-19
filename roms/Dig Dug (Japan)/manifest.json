@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 255,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ディグダグ（日）",
+      "zh": "打空气（日）",
+      "zh-hint": "dakongqi(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クォーターバックスクランブル（日）",
+      "ja-hint": "クォーターバックスクランブル（にち）",
+      "zh": "美式橄榄球四分位（日）",
+      "zh-hint": "meishiganlanqiusifenwei (ri)"
+    }
+  }
+}

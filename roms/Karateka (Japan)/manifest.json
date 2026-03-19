@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "カラテカ（日）",
+      "ja-hint": "カラテカ（にち）",
+      "zh": "空手道（日）",
+      "zh-hint": "kongshoudao(ri)"
+    }
+  }
+}

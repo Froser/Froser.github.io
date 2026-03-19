@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 417,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドラキュラのナイトアウト（米）",
+      "ja-hint": "ドラキュラのナイトアウト（べい）",
+      "zh": "德拉克的夜出（美）",
+      "zh-hint": "delakedeyechu (mei)"
+    }
+  }
+}

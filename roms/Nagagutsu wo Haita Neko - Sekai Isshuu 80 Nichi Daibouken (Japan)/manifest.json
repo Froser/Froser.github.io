@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 344,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "長靴をはいた猫 世界一周80日大冒険（日）",
+      "ja-hint": "ながぐつをはいたねこ せかいいっしゅう80にちだいぼうけん（にち）",
+      "zh": "长靴猫环游世界80天（日）",
+      "zh-hint": "changxuemaohuanyoushijie80tian (ri)"
+    }
+  }
+}

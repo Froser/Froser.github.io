@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Bomberman II (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 280
+    }
+  },
+  "titles": {
+    "Bomberman II (USA)": {
+      "ja": "ボンバーマン2（米）",
+      "ja-hint": "ボンバーマン2（べい）",
+      "zh": "炸弹人2（美）",
+      "zh-hint": "zhadanren2 (mei)"
+    },
+    "default": {
+      "ja": "ボンバーマン2（日）",
+      "ja-hint": "ボンバーマン2（にち）",
+      "zh": "炸弹人2（日）",
+      "zh-hint": "zhadanren2 (ri)"
+    }
+  }
+}

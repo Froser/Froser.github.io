@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゾンビハンター（日）",
+      "ja-hint": "ゾンビハンター（にち）",
+      "zh": "僵尸猎人（日）",
+      "zh-hint": "jiangshilieren (ri)"
+    }
+  }
+}

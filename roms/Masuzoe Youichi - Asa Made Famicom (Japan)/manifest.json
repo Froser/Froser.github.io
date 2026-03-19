@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "舛添要一 朝までファミコン（日）",
+      "ja-hint": "ますぞえよういち あさまでファミコン（にち）",
+      "zh": "舛添要一之红白机玩通宵（日）",
+      "zh-hint": "chuantianyaoyizhihongbaijiwantongxiao (ri)"
+    }
+  }
+}

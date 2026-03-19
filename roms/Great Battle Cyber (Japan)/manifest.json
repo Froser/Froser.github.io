@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "グレイトバトルサイバー（日）",
+      "zh": "英雄挑战（日）",
+      "zh-hint": "yingxiongtiaozhan(ri)"
+    }
+  }
+}

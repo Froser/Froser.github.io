@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "1943 - The Battle of Midway (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 270,
+      "width": 400
+    }
+  },
+  "titles": {
+    "1943 - The Battle of Midway (USA)": {
+      "ja": "1943 ミッドウェイ海戦（米）",
+      "zh": "1943 中途岛海战（美）"
+    },
+    "default": {
+      "ja": "1943 ミッドウェイ海戦（日）",
+      "ja-hint": "1943 ミッドウェイかいせん（にち）",
+      "zh": "1943 中途岛海战（日）",
+      "zh-hint": "1943 zhongtudaohaizhan (ri)"
+    }
+  }
+}

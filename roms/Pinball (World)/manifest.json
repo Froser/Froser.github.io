@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 350,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ピンボール",
+      "zh": "弹珠台",
+      "zh-hint": "danzhutai"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゾイド黙示録（日）",
+      "ja-hint": "ゾイドもくじろく（にち）",
+      "zh": "洛依德默示录（日）",
+      "zh-hint": "luoyidemoshilu (ri)"
+    }
+  }
+}

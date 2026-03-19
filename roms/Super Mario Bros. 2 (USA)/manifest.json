@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Super Mario USA (Japan)": {
+      "height": 512,
+      "width": 352
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Super Mario USA (Japan)": {
+      "ja": "スーパーマリオブラザーズ2（日）",
+      "ja-hint": "スーパーマリオブラザーズ2（にち）",
+      "zh": "超级马里奥兄弟2（日）",
+      "zh-hint": "chaojimaliaoxiongdi2  (ri)"
+    },
+    "default": {
+      "ja": "スーパーマリオブラザーズ2（米）",
+      "ja-hint": "スーパーマリオブラザーズ2（べい）",
+      "zh": "超级马里奥兄弟2（美）",
+      "zh-hint": "chaojimaliaoxiongdi2 (mei)"
+    }
+  }
+}

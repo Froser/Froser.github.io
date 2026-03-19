@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Double Dragon III - The Sacred Stones (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 560,
+      "width": 800
+    }
+  },
+  "titles": {
+    "Double Dragon III - The Sacred Stones (USA)": {
+      "ja": "双截龍3（米）",
+      "zh": "双截龙3（美）"
+    },
+    "default": {
+      "ja": "双截龍3（日）",
+      "ja-hint": "そうせつりゅう3（にち）",
+      "zh": "双截龙3（日）",
+      "zh-hint": "shuangjielong3(ri)"
+    }
+  }
+}

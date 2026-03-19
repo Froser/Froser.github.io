@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウルトラマン倶楽部怪獣大決戦！！（日）",
+      "ja-hint": "ウルトラマンくらぶかいじゅうだいけつせん！！（にち）",
+      "zh": "奥特曼怪兽超人俱乐部（日）",
+      "zh-hint": "aotemanguaishouchaorenjulebu (ri)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Teenage Mutant Ninja Turtles - Tournament Fighters（米）",
+      "zh": "激龟快打（美）",
+      "zh-hint": "jiguikuaida(mei)"
+    }
+  }
+}

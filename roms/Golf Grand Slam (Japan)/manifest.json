@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Golf Grand Slam (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 823,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Golf Grand Slam (USA)": {
+      "ja": "ゴルフグランドスラム（米）",
+      "ja-hint": "ゴルフグランドスラム（べい）",
+      "zh": "高尔夫锦标赛（美）",
+      "zh-hint": "gaoerfujinbiaosai (mei)"
+    },
+    "default": {
+      "ja": "ゴルフグランドスラム（日）",
+      "ja-hint": "ゴルフグランドスラム（にち）",
+      "zh": "高尔夫锦标赛（日）",
+      "zh-hint": "gaoerfujinbiaosai (ri)"
+    }
+  }
+}

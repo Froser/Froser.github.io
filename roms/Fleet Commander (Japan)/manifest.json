@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 688,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フリートコマンダー（日）",
+      "ja-hint": "フリートコマンダー（にち）",
+      "zh": "海战指挥官（日）",
+      "zh-hint": "haizhanzhihuiguan (ri)"
+    }
+  }
+}

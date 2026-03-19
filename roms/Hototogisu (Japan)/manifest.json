@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 738,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "不如帰（日）",
+      "ja-hint": "ほととぎす（にち）",
+      "zh": "不如归（日）",
+      "zh-hint": "burugui (ri)"
+    }
+  }
+}

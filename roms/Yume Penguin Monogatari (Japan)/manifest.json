@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "夢ペンギン物語（日）",
+      "ja-hint": "ゆめペンギンものがたり（にち）",
+      "zh": "企鹅梦物语（日）",
+      "zh-hint": "qiemengwuyu (ri)"
+    }
+  }
+}

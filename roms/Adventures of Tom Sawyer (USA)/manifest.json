@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "トム　ソーヤーの冒険（米）",
+      "ja-hint": "トム　ソーヤーのぼうけん（べい）",
+      "zh": "汤姆索亚历险记（美）",
+      "zh-hint": "tangmusuoyalixianji (mei)"
+    }
+  }
+}

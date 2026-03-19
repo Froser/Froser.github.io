@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Golgo 13 - Top Secret Episode (USA)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 738,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Golgo 13 - Top Secret Episode (USA)": {
+      "ja": "ゴルゴ13 第一章神々の黄昏（米）",
+      "ja-hint": "ゴルゴ13 だいいっしょうかみがみのたそがれ（べい）",
+      "zh": "狙击13：第一章-诸神的黄昏（美）",
+      "zh-hint": "juji13：diyizhang-zhushendehuanghun (mei)"
+    },
+    "default": {
+      "ja": "ゴルゴ13 第一章神々の黄昏（日）",
+      "ja-hint": "ゴルゴ13 だいいっしょうかみがみのたそがれ（にち）",
+      "zh": "狙击13：第一章-诸神的黄昏（日）",
+      "zh-hint": "juji13：diyizhang-zhushendehuanghun (ri)"
+    }
+  }
+}

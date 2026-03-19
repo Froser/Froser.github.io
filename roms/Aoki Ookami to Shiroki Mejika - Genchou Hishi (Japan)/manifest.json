@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 727,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "蒼き狼と白き牝鹿　元朝秘史（日）",
+      "ja-hint": "あおきおおかみとしろきめじか　がんちょうひし（にち）",
+      "zh": "苍狼与白鹿　元朝秘史（日）",
+      "zh-hint": "canglangyubailu　yuanzhaomishi (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウルヴァリン（米）",
+      "ja-hint": "ウルヴァリン（べい）",
+      "zh": "金刚狼（美）",
+      "zh-hint": "jinganglang (mei)"
+    }
+  }
+}

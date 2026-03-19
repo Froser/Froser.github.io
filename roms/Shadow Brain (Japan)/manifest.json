@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "シャドウゲイト（日）",
+      "ja-hint": "シャドウゲイト（にち）",
+      "zh": "魅影智慧（日）",
+      "zh-hint": "meiyingzhihui (ri)"
+    }
+  }
+}

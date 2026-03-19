@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "シーザーズ　パレス（米）",
+      "ja-hint": "シーザーズ　パレス（べい）",
+      "zh": "拉斯维加斯凯撒皇宫（美）",
+      "zh-hint": "lasiweijiasikaisahuanggong (mei)"
+    }
+  }
+}

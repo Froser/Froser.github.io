@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Star Wars (Japan) (Victor)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Star Wars (Japan) (Victor)": {
+      "ja": "スターウォーズ（日）",
+      "ja-hint": "スターウォーズ（にち）",
+      "zh": "星球大战（日）",
+      "zh-hint": "xingqiudazhan (ri)"
+    },
+    "default": {
+      "ja": "スターウォーズ（米）",
+      "ja-hint": "スターウォーズ（べい）",
+      "zh": "星球大战（美）",
+      "zh-hint": "xingqiudazhan (mei)"
+    }
+  }
+}

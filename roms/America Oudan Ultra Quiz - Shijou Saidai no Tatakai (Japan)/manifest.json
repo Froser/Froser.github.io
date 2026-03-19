@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アメリカ横断ウルトラクイズ（日）",
+      "ja-hint": "アメリカおうだんウルトラクイズ（にち）",
+      "zh": "横贯美国大猜谜（日）",
+      "zh-hint": "hengguanmeiguodacaimi (ri)"
+    }
+  }
+}

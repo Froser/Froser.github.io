@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ハイドライドスペシャル（日）",
+      "ja-hint": "ハイドライドスペシャル（にち）",
+      "zh": "梦幻仙境特别版（日）",
+      "zh-hint": "menghuanxianjingtebieban (ri)"
+    }
+  }
+}

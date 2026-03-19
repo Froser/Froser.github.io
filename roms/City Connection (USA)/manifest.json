@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "シティコネクション（米）",
+      "ja-hint": "シティコネクション（べい）",
+      "zh": "碰碰车（美）",
+      "zh-hint": "pengpengche (mei)"
+    }
+  }
+}

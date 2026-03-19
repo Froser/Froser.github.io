@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 240,
+      "width": 346
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "熱血ホッケー部 - すべってころんで大乱闘（日）",
+      "ja-hint": "ねっけつホッケーぶすべってころんでだいらんとう（にち）",
+      "zh": "热血曲棍球（日）",
+      "zh-hint": "rexuequgunqiu(ri)"
+    }
+  }
+}

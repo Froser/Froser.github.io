@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパースターフォース（日）",
+      "ja-hint": "スーパースターフォース（にち）",
+      "zh": "超级星际力量 时空历的秘密（日）",
+      "zh-hint": "chaojixingjililiang shikonglidemimi (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドルアーガの塔（日）",
+      "ja-hint": "ドルアーガのとう（にち）",
+      "zh": "迷宫塔（日）",
+      "zh-hint": "migongta (ri)"
+    }
+  }
+}

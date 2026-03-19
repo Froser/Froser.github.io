@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スマッシュT.V.（米）",
+      "ja-hint": "スマッシュT.V.（べい）",
+      "zh": "电视斗士（美）",
+      "zh-hint": "dianshidoushi (mei)"
+    }
+  }
+}

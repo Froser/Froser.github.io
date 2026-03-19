@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アンテシペイション（米）",
+      "ja-hint": "アンテシペイション（べい）",
+      "zh": "预测（美）",
+      "zh-hint": "yuce (mei)"
+    }
+  }
+}

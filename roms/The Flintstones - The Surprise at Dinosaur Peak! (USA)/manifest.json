@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フリントストーン2（米）",
+      "ja-hint": "フリントストーン2（べい）",
+      "zh": "摩登原始人2（美）",
+      "zh-hint": "modengyuanshiren2 (mei)"
+    }
+  }
+}

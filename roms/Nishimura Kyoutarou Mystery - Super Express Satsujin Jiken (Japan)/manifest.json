@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "西村京太郎ミステリー スーパーエクスプレス殺人事件（日）",
+      "ja-hint": "にしむらきょうたろうミステリー スーパーエクスプレスさつじんじけん（にち）",
+      "zh": "西村京太郎神秘系列：超级特快车杀人事件（日）",
+      "zh-hint": "xicunjingtailangshenmixilie：chaojitekuaichesharenshijian (ri)"
+    }
+  }
+}

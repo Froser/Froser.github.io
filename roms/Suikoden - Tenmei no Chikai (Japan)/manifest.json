@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Bandit Kings of Ancient China (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 712,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Bandit Kings of Ancient China (USA)": {
+      "ja": "水滸伝　天命の誓い（米）",
+      "ja-hint": "すいこでん　てんめいのちかい（べい）",
+      "zh": "水浒传　天命之誓（美）",
+      "zh-hint": "shuihuchuan　tianmingzhishi (mei)"
+    },
+    "default": {
+      "ja": "水滸伝　天命の誓い（日）",
+      "ja-hint": "すいこでん　てんめいのちかい（にち）",
+      "zh": "水浒传　天命之誓（日）",
+      "zh-hint": "shuihuchuan　tianmingzhishi (ri)"
+    }
+  }
+}

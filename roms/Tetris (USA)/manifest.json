@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tetris (Japan)": {
+      "height": 353,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Tetris (Japan)": {
+      "ja": "テトリス（日）",
+      "ja-hint": "テトリス（にち）",
+      "zh": "俄罗斯方块（日）",
+      "zh-hint": "eluosifangkuai(mei) (ri)"
+    },
+    "default": {
+      "ja": "テトリス（米）",
+      "ja-hint": "テトリス（べい）",
+      "zh": "俄罗斯方块（美）",
+      "zh-hint": "eluosifangkuai(mei)"
+    }
+  }
+}

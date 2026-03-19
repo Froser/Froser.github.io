@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ぎゅわんぶらあ自己中心派（日）",
+      "ja-hint": "ぎゅわんぶらあじこちゅうしんは（にち）",
+      "zh": "自我中心派（日）",
+      "zh-hint": "ziwozhongxinpai (ri)"
+    }
+  }
+}

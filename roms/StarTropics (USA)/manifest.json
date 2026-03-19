@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スタートロピックス（米）",
+      "ja-hint": "スタートロピックス（べい）",
+      "zh": "热带之星（美）",
+      "zh-hint": "redaizhixing (mei)"
+    }
+  }
+}

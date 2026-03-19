@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Monopoly (Japan)": {
+      "height": 708,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Monopoly (Japan)": {
+      "ja": "モノポリー（日）",
+      "ja-hint": "モノポリー（にち）",
+      "zh": "地产大亨大富翁（日）",
+      "zh-hint": "dichandahengdafuweng (ri)"
+    },
+    "default": {
+      "ja": "モノポリー（米）",
+      "ja-hint": "モノポリー（べい）",
+      "zh": "地产大亨大富翁（美）",
+      "zh-hint": "dichandahengdafuweng (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Empereur, L' (USA)": {
+      "height": 352,
+      "width": 256
+    },
+    "default": {
+      "height": 715,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Empereur, L' (USA)": {
+      "ja": "ランペルール（米）",
+      "ja-hint": "ランペルール（べい）",
+      "zh": "拿破仑（美）",
+      "zh-hint": "napolun (mei)"
+    },
+    "default": {
+      "ja": "ランペルール（日）",
+      "ja-hint": "ランペルール（にち）",
+      "zh": "拿破仑（日）",
+      "zh-hint": "napolun (ri)"
+    }
+  }
+}

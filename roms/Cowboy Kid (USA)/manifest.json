@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Western Kids (Japan)": {
+      "height": 723,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Western Kids (Japan)": {
+      "ja": "ウエスタンキッズ（日）",
+      "ja-hint": "ウエスタンキッズ（にち）",
+      "zh": "西部小子（日）",
+      "zh-hint": "xibuxiaozi (ri)"
+    },
+    "default": {
+      "ja": "ウエスタンキッズ（米）",
+      "ja-hint": "ウエスタンキッズ（べい）",
+      "zh": "西部小子（美）",
+      "zh-hint": "xibuxiaozi (mei)"
+    }
+  }
+}

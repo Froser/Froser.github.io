@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フリップル（日）",
+      "ja-hint": "フリップル（にち）",
+      "zh": "趣味方块（日）",
+      "zh-hint": "quweifangkuai (ri)"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Crash 'n the Boys - Street Challenge (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Crash 'n the Boys - Street Challenge (USA)": {
+      "ja": "びっくり熱血新記録！はるかなる金メダル（米）",
+      "zh": "热血新纪录（美）"
+    },
+    "default": {
+      "ja": "びっくり熱血新記録！はるかなる金メダル（日）",
+      "ja-hint": "びっくりねっけつしんきろく！はるかなるキンメダル（にち）",
+      "zh": "热血新纪录（日）",
+      "zh-hint": "rixuexinjilu(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 368,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "源平討魔伝（日）",
+      "ja-hint": "げんぺいとうまでん（にち）",
+      "zh": "源平讨魔传（日）",
+      "zh-hint": "yuanpingtaomochuan (ri)"
+    }
+  }
+}

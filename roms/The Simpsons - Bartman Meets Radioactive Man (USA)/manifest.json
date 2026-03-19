@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザシンプソンズバートマン（米）",
+      "ja-hint": "ザシンプソンズバートマン（べい）",
+      "zh": "辛普森一家:巴特曼遇见放射性人（美）",
+      "zh-hint": "xinpusenyijia:batemanyujianfangshexingren (mei)"
+    }
+  }
+}

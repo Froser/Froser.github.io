@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Burai Fighter (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 728,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Burai Fighter (USA)": {
+      "ja": "ブライファイター（米）",
+      "ja-hint": "ブライファイター（べい）",
+      "zh": "无赖战士（美）",
+      "zh-hint": "wulaizhanshi (mei)"
+    },
+    "default": {
+      "ja": "ブライファイター（日）",
+      "ja-hint": "ブライファイター（にち）",
+      "zh": "无赖战士（日）",
+      "zh-hint": "wulaizhanshi (ri)"
+    }
+  }
+}

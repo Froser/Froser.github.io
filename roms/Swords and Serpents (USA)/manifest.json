@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ソードとサーペント（米）",
+      "ja-hint": "ソードとサーペント（べい）",
+      "zh": "剑与蛇（美）",
+      "zh-hint": "jianyushe (mei)"
+    }
+  }
+}

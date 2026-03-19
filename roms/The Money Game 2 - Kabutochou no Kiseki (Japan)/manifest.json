@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Wall Street Kid (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 745,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Wall Street Kid (USA)": {
+      "ja": "ザ マネーゲームII 兜町の奇跡（米）",
+      "ja-hint": "ザ マネーゲームII かぶとちょうのきせき（べい）",
+      "zh": "金钱游戏2（美）",
+      "zh-hint": "jinqianyouxi2 (mei)"
+    },
+    "default": {
+      "ja": "ザ マネーゲームII 兜町の奇跡（日）",
+      "ja-hint": "ザ マネーゲームII かぶとちょうのきせき（にち）",
+      "zh": "金钱游戏2（日）",
+      "zh-hint": "jinqianyouxi2 (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 360
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ヨッシーのたまご（日）",
+      "ja-hint": "ヨッシーのたまご（にち）",
+      "zh": "耀西的蛋（日）",
+      "zh-hint": "yaoxidedan (ri)"
+    }
+  }
+}

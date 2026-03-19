@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Laser Invasion (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 551,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Laser Invasion (USA)": {
+      "ja": "ガンサイト（米）",
+      "ja-hint": "ガンサイト（べい）",
+      "zh": "救援任务（美）",
+      "zh-hint": "jiuyuanrenwu (mei)"
+    },
+    "default": {
+      "ja": "ガンサイト（日）",
+      "ja-hint": "ガンサイト（にち）",
+      "zh": "救援任务",
+      "zh-hint": "jiuyuanrenwu"
+    }
+  }
+}

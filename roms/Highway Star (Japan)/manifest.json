@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Rad Racer (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 465,
+      "width": 320
+    }
+  },
+  "titles": {
+    "Rad Racer (USA)": {
+      "ja": "ハイウェイスター（米）",
+      "ja-hint": "ハイウェイスター（べい）",
+      "zh": "公路之星（美）",
+      "zh-hint": "gongluzhixing (mei)"
+    },
+    "default": {
+      "ja": "ハイウェイスター（日）",
+      "ja-hint": "ハイウェイスター（にち）",
+      "zh": "公路之星（日）",
+      "zh-hint": "gongluzhixing"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 730,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "コブラ トライアングル（米）",
+      "ja-hint": "コブラ トライアングル（べい）",
+      "zh": "眼镜蛇快艇（美）",
+      "zh-hint": "yanjingshekuaiting (mei)"
+    }
+  }
+}

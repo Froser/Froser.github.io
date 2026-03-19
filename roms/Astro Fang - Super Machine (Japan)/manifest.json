@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アストロファング（日）",
+      "ja-hint": "アストロファング（にち）",
+      "zh": "冲锋飞车（日）",
+      "zh-hint": "chongfengfeiche (ri)"
+    }
+  }
+}

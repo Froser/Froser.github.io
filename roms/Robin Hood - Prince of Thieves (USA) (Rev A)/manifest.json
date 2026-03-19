@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロビンフッド（米）",
+      "ja-hint": "ロビンフッド（べい）",
+      "zh": "罗宾汉（美）",
+      "zh-hint": "luobinhan (mei)"
+    }
+  }
+}

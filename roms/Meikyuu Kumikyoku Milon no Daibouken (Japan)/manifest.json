@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Milon's Secret Castle (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 340,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Milon's Secret Castle (USA)": {
+      "ja": "迷宮組曲 - ミロンの大冒険（米）",
+      "ja-hint": "めいきゅうくみきょく - ミロンのだいぼうけん（べい）",
+      "zh": "迷宫组曲（美）",
+      "zh-hint": "migongzuqu(mei)"
+    },
+    "default": {
+      "ja": "迷宮組曲　ミロンの大冒険（日）",
+      "ja-hint": "めいきゅうくみきょく　ミロンのだいぼうけん（にち）",
+      "zh": "迷宫组曲（日）",
+      "zh-hint": "migongzuqu (ri)"
+    }
+  }
+}

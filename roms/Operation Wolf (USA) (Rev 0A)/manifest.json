@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Operation Wolf (Japan)": {
+      "height": 664,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Operation Wolf (Japan)": {
+      "ja": "オペレーションウルフ（日）",
+      "ja-hint": "オペレーションウルフ（にち）",
+      "zh": "野狼计划（日）",
+      "zh-hint": "yelangjihua (ri)"
+    },
+    "default": {
+      "ja": "オペレーションウルフ（米）",
+      "ja-hint": "オペレーションウルフ（べい）",
+      "zh": "野狼计划（美）",
+      "zh-hint": "yelangjihua (mei)"
+    }
+  }
+}

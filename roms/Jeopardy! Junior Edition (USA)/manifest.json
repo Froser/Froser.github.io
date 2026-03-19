@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジェパディ少年版（米）",
+      "ja-hint": "ジェパディしょうねんばん（べい）",
+      "zh": "危险边缘少年版（美）",
+      "zh-hint": "weixianbianyuanshaonianban (mei)"
+    }
+  }
+}

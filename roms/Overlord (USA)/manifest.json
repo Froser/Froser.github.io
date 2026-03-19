@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "オーバーロード（米）",
+      "ja-hint": "オーバーロード（べい）",
+      "zh": "领主（美）",
+      "zh-hint": "lingzhu (mei)"
+    }
+  }
+}

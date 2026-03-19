@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Kirby's Adventure (USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 280,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Kirby's Adventure (USA) (Rev A)": {
+      "ja": "星のカービィ - 夢の泉の物語（米）",
+      "ja-hint": "ほしのカービィ - ゆめのいずみのものがたり（べい）",
+      "zh": "星之卡比 - 梦之泉物语（美）",
+      "zh-hint": "xingzhikabi - mengzhiquanwuyu(ri) (mei)"
+    },
+    "default": {
+      "ja": "星のカービィ - 夢の泉の物語（日）",
+      "ja-hint": "ほしのカービィ - ゆめのいずみのものがたり（にち）",
+      "zh": "星之卡比 - 梦之泉物语（日）",
+      "zh-hint": "xingzhikabi - mengzhiquanwuyu(ri)"
+    }
+  }
+}

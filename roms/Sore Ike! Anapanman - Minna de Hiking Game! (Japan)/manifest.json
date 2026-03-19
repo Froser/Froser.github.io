@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "それいけ!アンパンマン（日）",
+      "ja-hint": "それいけ!アンパンマン（にち）",
+      "zh": "面包超人 全体徒步旅行（日）",
+      "zh-hint": "mianbaochaoren quantitubulvxing (ri)"
+    }
+  }
+}

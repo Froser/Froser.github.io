@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テクモNBAバスケットボール（米）",
+      "ja-hint": "テクモNBAバスケットボール（べい）",
+      "zh": "特库摩NBA篮球（美）",
+      "zh-hint": "tekumoNBAlanqiu (mei)"
+    }
+  }
+}

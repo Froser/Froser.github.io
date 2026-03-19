@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 736,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "グレートディール（日）",
+      "ja-hint": "グレートディール（にち）",
+      "zh": "纸牌游戏（日）",
+      "zh-hint": "zhipaiyouxi (ri)"
+    }
+  }
+}

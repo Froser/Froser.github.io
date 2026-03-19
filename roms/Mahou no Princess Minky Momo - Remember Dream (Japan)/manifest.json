@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 356,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "魔法のプリンセス ミンキーモモ（日）",
+      "ja-hint": "まほうのプリンセス ミンキーモモ（にち）",
+      "zh": "魔法小仙女（日）",
+      "zh-hint": "mofaxiaoxiannv (ri)"
+    }
+  }
+}

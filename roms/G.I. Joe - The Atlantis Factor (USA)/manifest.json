@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "GIジョー：ジ・アトランティス・ファクター（米）",
+      "zh": "特种部队2：亚特兰蒂斯因子（美）",
+      "zh-hint": "tezhongbudui2:yatelandisiyinzi(mei)"
+    }
+  }
+}

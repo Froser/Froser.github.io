@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ghosts'n Goblins (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ghosts'n Goblins (USA)": {
+      "ja": "魔界村（米）",
+      "ja-hint": "まかいむら（べい）",
+      "zh": "魔界村（美）",
+      "zh-hint": "mojiecun(mei)"
+    },
+    "default": {
+      "ja": "魔界村（日）",
+      "ja-hint": "まかいむら（にち）",
+      "zh": "魔界村（日）",
+      "zh-hint": "mojiecun (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "花のスター街道（日）",
+      "ja-hint": "はなのスターかいどう(にち)",
+      "zh": "花之星街道（日）",
+      "zh-hint": "huazhixingjiedao(ri)"
+    }
+  }
+}

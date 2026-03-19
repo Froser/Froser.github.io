@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ステークオアダイ（米）",
+      "ja-hint": "ステークオアダイ（べい）",
+      "zh": "滑板生死斗（美）",
+      "zh-hint": "huabanshengsidou (mei)"
+    }
+  }
+}

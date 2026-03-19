@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファン ハウス（米）",
+      "zh": "欢乐屋（美）",
+      "zh-hint": "huanlewu(mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 735,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "名探偵ホームズ Mからの挑戦状（日）",
+      "ja-hint": "めいたんていホームズ Mからのちょうせんじょう（にち）",
+      "zh": "名侦探福尔摩斯 - 来自M的挑战书（日）",
+      "zh-hint": "mingzhentanfuermosi - laiziMdetiaozhanshu (ri)"
+    }
+  }
+}

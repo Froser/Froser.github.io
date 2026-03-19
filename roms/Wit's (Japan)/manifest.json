@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウイッツ（日）",
+      "ja-hint": "ウイッツ（にち）",
+      "zh": "维兹超人（日）",
+      "zh-hint": "weizichaoren (ri)"
+    }
+  }
+}

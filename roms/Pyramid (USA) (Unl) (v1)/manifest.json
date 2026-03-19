@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ピラミッド（米）",
+      "ja-hint": "ピラミッド（べい）",
+      "zh": "金字塔（美）",
+      "zh-hint": "jinzita (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Double Dragon (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Double Dragon (USA)": {
+      "ja": "双截龍（米）",
+      "ja-hint": "そうせつりゅう（べい）",
+      "zh": "双截龙（美）",
+      "zh-hint": "shuangjielong (mei)"
+    },
+    "default": {
+      "ja": "双截龍（日）",
+      "ja-hint": "そうせつりゅう1（にち）",
+      "zh": "双截龙（日）",
+      "zh-hint": "shuangjielong1(ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Balloon Fight (Japan)": {
+      "height": 342,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Balloon Fight (Japan)": {
+      "ja": "バルーンファイト（日）",
+      "ja-hint": "バルーンファイト（にち）",
+      "zh": "气球大战（日）",
+      "zh-hint": "qiqiudazhan (ri)"
+    },
+    "default": {
+      "ja": "バルーンファイト（米）",
+      "ja-hint": "バルーンファイト（べい）",
+      "zh": "气球大战（美）",
+      "zh-hint": "qiqiudazhan (mei)"
+    }
+  }
+}

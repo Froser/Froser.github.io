@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 674,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "囲碁指南 '91（日）",
+      "ja-hint": "いごしなん '91（にち）",
+      "zh": "围棋指南91（日）",
+      "zh-hint": "weiqizhinan91 (ri)"
+    }
+  }
+}

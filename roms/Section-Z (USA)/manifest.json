@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "セクションZ（米）",
+      "ja-hint": "セクションZ（べい）",
+      "zh": "Z基地（美）",
+      "zh-hint": "Zjidi (mei)"
+    }
+  }
+}

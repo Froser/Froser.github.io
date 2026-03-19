@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザ ブラックバス（日）",
+      "ja-hint": "ザ ブラックバス（にち）",
+      "zh": "钓鱼模拟游戏：黑巴斯（日）",
+      "zh-hint": "diaoyumoniyouxi：heibasi (ri)"
+    }
+  }
+}

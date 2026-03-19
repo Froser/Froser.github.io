@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 360,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スパルタンＸ（日）",
+      "ja-hint": "スパルタンＸ（にち）",
+      "zh": "成龙踢馆（日）",
+      "zh-hint": "chenglongtiguan (ri)"
+    }
+  }
+}

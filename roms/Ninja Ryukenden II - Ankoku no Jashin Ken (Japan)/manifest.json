@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ninja Gaiden II - The Dark Sword of Chaos (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Ninja Gaiden II - The Dark Sword of Chaos (USA)": {
+      "ja": "忍者龍剣伝2 - 暗黒の邪神剣（米）",
+      "ja-hint": "にんじゃりゅうけんでん2 - あんこくのじゃしんつるぎ（べい）",
+      "zh": "忍者龙剑传2 - 暗黑的邪神剑（美）",
+      "zh-hint": "renzhelongjianchuan2 - anheidexieshenjian (mei)"
+    },
+    "default": {
+      "ja": "忍者龍剣伝2 - 暗黒の邪神剣（日）",
+      "ja-hint": "にんじゃりゅうけんでん2 - あんこくのじゃしんけん（にち）",
+      "zh": "忍者龙剑传2 - 暗黑的邪神剑（日）",
+      "zh-hint": "renzhelongjianzhuan2 - anheidexieshenjian(ri)"
+    }
+  }
+}

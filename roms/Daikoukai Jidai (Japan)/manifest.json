@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Uncharted Waters (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 1097,
+      "width": 787
+    }
+  },
+  "titles": {
+    "Uncharted Waters (USA)": {
+      "ja": "大航海時代（米）",
+      "ja-hint": "だいこうかいじだい（べい）",
+      "zh": "大航海时代（美）",
+      "zh-hint": "dahanghaishidai (mei)"
+    },
+    "default": {
+      "ja": "大航海時代（日）",
+      "ja-hint": "だいこうかいじだい（にち）",
+      "zh": "大航海时代（日）",
+      "zh-hint": "dahanghaishidai (ri)"
+    }
+  }
+}

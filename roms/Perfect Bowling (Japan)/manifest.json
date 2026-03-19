@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パーフェクトボーリング（日）",
+      "ja-hint": "パーフェクトボーリング（にち）",
+      "zh": "完美保龄球（日）",
+      "zh-hint": "wanmeibaolingqiu (ri)"
+    }
+  }
+}

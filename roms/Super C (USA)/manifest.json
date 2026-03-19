@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Super Contra (Japan)": {
+      "height": 736,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Super Contra (Japan)": {
+      "ja": "スーパー魂斗羅 エイリアンの逆襲（日）",
+      "ja-hint": "スーパーコントラ エイリアンのぎゃくしゅう（にち）",
+      "zh": "超级魂斗罗（日）",
+      "zh-hint": "chaojihundouluo(mei) (ri)"
+    },
+    "default": {
+      "ja": "スーパー魂斗羅 エイリアンの逆襲（米）",
+      "ja-hint": "スーパーコントラ エイリアンのぎゃくしゅう（べい）",
+      "zh": "超级魂斗罗（美）",
+      "zh-hint": "chaojihundouluo(mei)"
+    }
+  }
+}

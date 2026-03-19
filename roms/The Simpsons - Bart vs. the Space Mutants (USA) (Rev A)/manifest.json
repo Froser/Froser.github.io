@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザシンプソンズ: バート vs. スペースミュータント（米）",
+      "ja-hint": "ザシンプソンズ: バート vs. スペースミュータント（べい）",
+      "zh": "辛普森一家 - 巴特对战太空变种（美）",
+      "zh-hint": "xinpusenyijia - bateduizhantaikongbianzhong (mei)"
+    }
+  }
+}

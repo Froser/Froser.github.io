@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "AD&Dドラゴンオブフレイム（日）",
+      "ja-hint": "AD&Dドラゴンオブフレイム（にち）",
+      "zh": "龙与地下城：神龙之谜（日）",
+      "zh-hint": "longyudixiacheng：shenlongzhimi (ri)"
+    }
+  }
+}

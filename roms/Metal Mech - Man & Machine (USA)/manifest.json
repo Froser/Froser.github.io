@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Metal Flame Psybuster (Japan)": {
+      "height": 736,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Metal Flame Psybuster (Japan)": {
+      "ja": "メタルフレームサイバスター（日）",
+      "ja-hint": "メタルフレームサイバスター（にち）",
+      "zh": "金属装甲（日）",
+      "zh-hint": "jinshuzhuangjia (ri)"
+    },
+    "default": {
+      "ja": "メタルフレームサイバスター（米）",
+      "ja-hint": "メタルフレームサイバスター（べい）",
+      "zh": "金属装甲（美）",
+      "zh-hint": "jinshuzhuangjia (mei)"
+    }
+  }
+}

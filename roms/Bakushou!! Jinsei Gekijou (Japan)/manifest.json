@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 694,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "爆笑！！人生劇場（日）",
+      "ja-hint": "ばくしょう！！じんせいげきじょう（にち）",
+      "zh": "爆笑人生剧场（日）",
+      "zh-hint": "baoxiaorenshengjuchang (ri)"
+    }
+  }
+}

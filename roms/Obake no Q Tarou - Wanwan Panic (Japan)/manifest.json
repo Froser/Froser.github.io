@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Chubby Cherub (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 348,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Chubby Cherub (USA)": {
+      "ja": "オバケのＱ太郎ワンワンパニック（米）",
+      "ja-hint": "オバケのＱたろうワンワンパニック（べい）",
+      "zh": "小鬼Q太郎（美）",
+      "zh-hint": "xiaoguiQtailang (mei)"
+    },
+    "default": {
+      "ja": "オバケのＱ太郎ワンワンパニック（日）",
+      "ja-hint": "オバケのＱたろうワンワンパニック（にち）",
+      "zh": "小鬼Q太郎（日）",
+      "zh-hint": "xiaoguiQtailang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウェイン　グレツキー　ホッケー（米）",
+      "ja-hint": "ウェイン　グレツキー　ホッケー（べい）",
+      "zh": "冰上曲棍球",
+      "zh-hint": "bingshangqugunqiu"
+    }
+  }
+}

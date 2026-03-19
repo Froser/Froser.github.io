@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Capcom Barcelona '92 (Japan)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Capcom Barcelona '92 (Japan)": {
+      "ja": "CAPCOMバルセロナ'92（日）",
+      "ja-hint": "CAPCOMバルセロナ'92（にち）",
+      "zh": "卡普空 '92年巴塞罗那奥运会（日）",
+      "zh-hint": "qiapukong '92nianbasailuonaaoyunhui (ri)"
+    },
+    "default": {
+      "ja": "CAPCOMバルセロナ'92（米）",
+      "ja-hint": "CAPCOMバルセロナ'92（べい）",
+      "zh": "卡普空 '92年巴塞罗那奥运会（美）",
+      "zh-hint": "kapukong '92nianbasailuonaaoyunhui(mei)"
+    }
+  }
+}

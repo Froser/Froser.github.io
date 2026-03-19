@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャッスルクエスト（日）",
+      "ja-hint": "キャッスルクエスト（にち）",
+      "zh": "奇幻大冒险（日）",
+      "zh-hint": "qihuandamaoxian (ri)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スノーブラザーズ（米）",
+      "zh": "雪人兄弟（美）",
+      "zh-hint": "xuerenxiongdi(mei)"
+    }
+  }
+}

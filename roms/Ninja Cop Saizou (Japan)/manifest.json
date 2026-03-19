@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Wrath of the Black Manta (USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 730,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Wrath of the Black Manta (USA) (Rev A)": {
+      "ja": "忍者ＣＯＰサイゾウ（米）",
+      "ja-hint": "にんじゃＣＯＰサイゾウ（べい）",
+      "zh": "忍者警察（美）",
+      "zh-hint": "renzhejingcha (mei)"
+    },
+    "default": {
+      "ja": "忍者ＣＯＰサイゾウ（日）",
+      "ja-hint": "にんじゃＣＯＰサイゾウ（にち）",
+      "zh": "忍者警察（日）",
+      "zh-hint": "renzhejingcha (ri)"
+    }
+  }
+}

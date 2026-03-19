@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アイギーナの予言（日）",
+      "ja-hint": "アイギーナのよげん（にち）",
+      "zh": "古代预言（日）",
+      "zh-hint": "gudaiyuyan (ri)"
+    }
+  }
+}

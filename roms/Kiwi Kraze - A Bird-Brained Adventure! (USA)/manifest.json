@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ニュージーランドストーリー（米）",
+      "ja-hint": "ニュージーランドストーリー（べい）",
+      "zh": "新西兰故事（美）",
+      "zh-hint": "xinxilangushi(mei)"
+    }
+  }
+}

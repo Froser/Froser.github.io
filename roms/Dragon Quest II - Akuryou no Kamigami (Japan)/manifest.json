@@ -1,0 +1,36 @@
+{
+  "boxarts": {
+    "Dragon Quest II (CN)": {
+      "height": 267,
+      "width": 400
+    },
+    "Dragon Warrior II (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Dragon Quest II (CN)": {
+      "ja": "ドラゴンクエスト2 - 悪霊の神々（中）",
+      "ja-hint": "ドラゴンクエスト2 - あくりょうのかみがみ（なか）",
+      "zh": "勇者斗恶龙2 - 恶灵之神（中）",
+      "zh-hint": "yongzhedouelong2 - elingzhishen (zhong)"
+    },
+    "Dragon Warrior II (USA)": {
+      "ja": "ドラゴンクエスト2 - 悪霊の神々（米）",
+      "ja-hint": "ドラゴンクエスト2 - あくりょうのかみがみ（べい）",
+      "zh": "勇者斗恶龙2 - 恶灵之神（美）",
+      "zh-hint": "yongzhedouelong2 - elingzhishen (mei)"
+    },
+    "default": {
+      "ja": "ドラゴンクエスト2 - 悪霊の神々（日）",
+      "ja-hint": "ドラゴンクエスト2 - あくりょうのかみがみ（にち）",
+      "zh": "勇者斗恶龙2 - 恶灵之神（日）",
+      "zh-hint": "yongzhedouelong2 - elingzhishen(ri)"
+    }
+  }
+}

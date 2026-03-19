@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジャイロダイン（日）",
+      "zh": "战斗直升机（日）",
+      "zh-hint": "zhandouzhishengji(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "飛ingヒーロー（日）",
+      "ja-hint": "ふらイングヒーロー（にち）",
+      "zh": "救火英雄（日）",
+      "zh-hint": "jiuhuoyingxiong(ri)"
+    }
+  }
+}

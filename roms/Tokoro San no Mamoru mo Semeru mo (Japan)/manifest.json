@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "所さんのまもるもせめるも（日）",
+      "ja-hint": "ところさんのまもるもせめるも（にち）",
+      "zh": "百战大出击（日）",
+      "zh-hint": "baizhandachuji (ri)"
+    }
+  }
+}

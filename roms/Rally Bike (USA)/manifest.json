@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Dash Yarou (Japan)": {
+      "height": 400,
+      "width": 289
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Dash Yarou (Japan)": {
+      "ja": "ダッシュ野郎（日）",
+      "zh": "冲刺野朗（日）"
+    },
+    "default": {
+      "ja": "ラリーバイク（米）",
+      "zh": "拉力摩托（美）",
+      "zh-hint": "lalimotuo(mei)"
+    }
+  }
+}

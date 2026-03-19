@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "レゴ バットマン（米）",
+      "zh": "蝙蝠侠 - 电子游戏（美）",
+      "zh-hint": "bianfuxia - dianziyouxi(mei)"
+    }
+  }
+}

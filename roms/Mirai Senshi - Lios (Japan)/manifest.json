@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "未来戦史ライオス（日）",
+      "ja-hint": "みらいせんしライオス（にち）",
+      "zh": "未来战史（日）",
+      "zh-hint": "weilaizhanshi (ri)"
+    }
+  }
+}

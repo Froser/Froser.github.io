@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "鳥人戦隊ジェットマン（日）",
+      "ja-hint": "ちょうじんせんたいジェットマン（にち）",
+      "zh": "鸟人战队（日）",
+      "zh-hint": "niaorenzhandui (ri)"
+    }
+  }
+}

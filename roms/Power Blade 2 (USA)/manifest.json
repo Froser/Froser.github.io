@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Captain Saver (Japan)": {
+      "height": 837,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Captain Saver (Japan)": {
+      "ja": "パワーブレイザー2（日）",
+      "ja-hint": "パワーブレイザー2（にち）",
+      "zh": "能源战士2（日）",
+      "zh-hint": "nengyuanzhanshi2 (ri)"
+    },
+    "default": {
+      "ja": "パワーブレイザー2（米）",
+      "ja-hint": "パワーブレイザー2（べい）",
+      "zh": "能源战士2（美）",
+      "zh-hint": "nengyuanzhanshi2 (mei)"
+    }
+  }
+}

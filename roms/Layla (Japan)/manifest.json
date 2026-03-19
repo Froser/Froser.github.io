@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "レイラ（日）",
+      "ja-hint": "レイラ（にち）",
+      "zh": "女超人蕾拉（日）",
+      "zh-hint": "nvchaorenleila(ri)"
+    }
+  }
+}

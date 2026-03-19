@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サンリオカップポンポンバレー（日）",
+      "ja-hint": "サンリオカップポンポンバレー（にち）",
+      "zh": "动物排球赛（日）",
+      "zh-hint": "dongwupaiqiusai (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウォーウルフ（米）",
+      "ja-hint": "ウォーウルフ（べい）",
+      "zh": "狼人 最后的战士（美）",
+      "zh-hint": "langren zuihoudezhanshi (mei)"
+    }
+  }
+}

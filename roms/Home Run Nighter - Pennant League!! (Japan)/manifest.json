@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホームランナイターペナントリーグ（日）",
+      "ja-hint": "ホームランナイターペナントリーグ（にち）",
+      "zh": "全垒打王（日）",
+      "zh-hint": "quanleidawang (ri)"
+    }
+  }
+}

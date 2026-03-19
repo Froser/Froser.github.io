@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ultima - Exodus (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 348,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ultima - Exodus (USA)": {
+      "ja": "ウルティマ3 エクソダス（米）",
+      "ja-hint": "ウルティマ3 エクソダス（べい）",
+      "zh": "创世纪3：出埃及记（美）",
+      "zh-hint": "chuangshiji3：chuaijiji (mei)"
+    },
+    "default": {
+      "ja": "ウルティマ3 エクソダス（日）",
+      "ja-hint": "ウルティマ3 エクソダス（にち）",
+      "zh": "创世纪3：出埃及记（日）",
+      "zh-hint": "chuangshiji3：chuaijiji (ri)"
+    }
+  }
+}

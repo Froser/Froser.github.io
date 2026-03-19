@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "JOE ＆ MAC 戦え原始人（米）",
+      "ja-hint": "JOE ＆ MAC たたかえげんしじん（べい）",
+      "zh": "战斗原始人（美）",
+      "zh-hint": "zhandouyuanshiren (mei)"
+    }
+  }
+}

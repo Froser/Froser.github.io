@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Metal Max (CN)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Metal Max (CN)": {
+      "ja": "メタルマックス（中）",
+      "zh": "重装机兵（中）"
+    },
+    "default": {
+      "ja": "メタルマックス（日）",
+      "zh": "重装机兵（日）",
+      "zh-hint": "zhongzhuangjibing(ri)"
+    }
+  }
+}

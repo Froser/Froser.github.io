@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マイティボンジャック（米）",
+      "ja-hint": "マイティボンジャック（べい）",
+      "zh": "炸弹人杰克（美）",
+      "zh-hint": "zhadanrenjieke (mei)"
+    }
+  }
+}

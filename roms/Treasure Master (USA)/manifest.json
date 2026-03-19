@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "トレジャーマスター（米）",
+      "ja-hint": "トレジャーマスター（べい）",
+      "zh": "寻宝大师（美）",
+      "zh-hint": "xunbaodashi (mei)"
+    }
+  }
+}

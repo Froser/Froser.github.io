@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クラスティーズ・ファンハウス（米）",
+      "ja-hint": "クラスティーズ・ファンハウス（べい）",
+      "zh": "辛普森一家（美）",
+      "zh-hint": "xinpusenyijia(mei)"
+    }
+  }
+}

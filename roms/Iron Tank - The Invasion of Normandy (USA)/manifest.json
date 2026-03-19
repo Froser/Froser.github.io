@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Great Tank (Japan)": {
+      "height": 267,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Great Tank (Japan)": {
+      "ja": "グレートタンク（日）",
+      "zh": "钢铁坦克（日）",
+      "zh-hint": "gangtietanke(ri)"
+    },
+    "default": {
+      "ja": "グレートタンク（米）",
+      "zh": "钢铁坦克（美）",
+      "zh-hint": "gangtietanke(mei)"
+    }
+  }
+}

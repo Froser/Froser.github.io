@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "三つ目がとおる（日）",
+      "ja-hint": "みつめがとおる（にち）",
+      "zh": "三目童子（日）",
+      "zh-hint": "sanmutongzi(ri)"
+    }
+  }
+}

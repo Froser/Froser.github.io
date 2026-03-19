@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャプテンＥＤえど（日）",
+      "ja-hint": "キャプテンＥＤえど（にち）",
+      "zh": "ED队长（日）",
+      "zh-hint": "EDduichang (ri)"
+    }
+  }
+}

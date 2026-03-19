@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)": {
+      "ja": "ゼルダの伝説（日）",
+      "ja-hint": "ゼルダのでんせつ（にち）",
+      "zh": "塞尔达传说 - 海拉鲁幻想（日）",
+      "zh-hint": "saierdachuanshuo - hailaluhuanxiang (ri)"
+    },
+    "default": {
+      "ja": "ゼルダの伝説（米）",
+      "ja-hint": "ゼルダのでんせつ（べい）",
+      "zh": "塞尔达传说 - 海拉鲁幻想（美）",
+      "zh-hint": "saierdachuanshuo - hailaluhuanxiang(mei)"
+    }
+  }
+}

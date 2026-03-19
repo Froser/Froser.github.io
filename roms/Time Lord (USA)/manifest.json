@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タイム ロード（米）",
+      "zh": "时间领主（美）",
+      "zh-hint": "shijianlingzhu(mei)"
+    }
+  }
+}

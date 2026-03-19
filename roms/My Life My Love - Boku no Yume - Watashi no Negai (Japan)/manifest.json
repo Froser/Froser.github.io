@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 342,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マイライフ マイラブ ぼくの夢わたしの願い（日）",
+      "ja-hint": "マイライフ マイラブ ぼくのゆめわたしのねがい（にち）",
+      "zh": "我的志愿（日）",
+      "zh-hint": "wodezhiyuan (ri)"
+    }
+  }
+}

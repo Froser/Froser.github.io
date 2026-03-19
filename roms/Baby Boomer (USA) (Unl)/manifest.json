@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 733,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ベイビーブーマー（米）",
+      "ja-hint": "ベイビーブーマー（べい）",
+      "zh": "婴儿潮一代（美）",
+      "zh-hint": "yingerchaoyidai (mei)"
+    }
+  }
+}

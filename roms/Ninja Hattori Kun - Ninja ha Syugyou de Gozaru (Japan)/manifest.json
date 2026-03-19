@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "忍者ハットリくん（日）",
+      "ja-hint": "にんじゃハットリくん（にち）",
+      "zh": "忍者服部君（日）",
+      "zh-hint": "renzhefubujun (ri)"
+    }
+  }
+}

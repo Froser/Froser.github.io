@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プラトーン（米）",
+      "ja-hint": "プラトーン（べい）",
+      "zh": "野战排（美）",
+      "zh-hint": "yezhanpai (mei)"
+    }
+  }
+}

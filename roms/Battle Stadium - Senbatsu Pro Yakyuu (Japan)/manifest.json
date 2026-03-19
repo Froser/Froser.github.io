@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バトルスタジアム　選抜プロ野球（日）",
+      "ja-hint": "バトルスタジアム　せんばつプロやきゅう（にち）",
+      "zh": "战斗野球（日）",
+      "zh-hint": "zhandouyeqiu (ri)"
+    }
+  }
+}

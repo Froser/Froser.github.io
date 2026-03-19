@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ikari Warriors (USA) (Rev A)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Ikari Warriors (USA) (Rev A)": {
+      "ja": "怒（米）",
+      "ja-hint": "いかり（べい）",
+      "zh": "怒（美）",
+      "zh-hint": "nu (mei)"
+    },
+    "default": {
+      "ja": "怒（日）",
+      "ja-hint": "いかり（にち）",
+      "zh": "怒（日）",
+      "zh-hint": "nu (ri)"
+    }
+  }
+}

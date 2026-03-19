@@ -1,0 +1,36 @@
+{
+  "boxarts": {
+    "Mike Tyson's Punch-Out!! (Japan, USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "Punch-Out!! (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 484,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Mike Tyson's Punch-Out!! (Japan, USA) (Rev A)": {
+      "ja": "マイクタイソン　パンチアウト!!（米）",
+      "ja-hint": "マイクタイソン　パンチアウト!!（べい）",
+      "zh": "拳王泰森的拳无虚发（美）",
+      "zh-hint": "quanwangtaisendequanwuxufa (mei)"
+    },
+    "Punch-Out!! (USA)": {
+      "ja": "パンチアウト!!（米）",
+      "ja-hint": "パンチアウト!!（べい）",
+      "zh": "拳无虚发（美）",
+      "zh-hint": "quanwuxufa (mei)"
+    },
+    "default": {
+      "ja": "パンチアウト!!（日）",
+      "ja-hint": "パンチアウト!!（にち）",
+      "zh": "拳无虚发（日）",
+      "zh-hint": "quanwuxufa (ri)"
+    }
+  }
+}

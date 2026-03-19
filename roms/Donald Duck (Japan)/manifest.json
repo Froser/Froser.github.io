@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドナルドダック（日）",
+      "ja-hint": "ドナルドダック（にち）",
+      "zh": "唐老鸭（日）",
+      "zh-hint": "tanglaoya (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゼン インターギャラクティック ニンジャ（米）",
+      "ja-hint": "ゼン インターギャラクティック ニンジャ（べい）",
+      "zh": "星际忍者禅（美）",
+      "zh-hint": "xingjirenzheshan (mei)"
+    }
+  }
+}

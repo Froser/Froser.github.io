@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Golf (Japan)": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 730,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Golf (Japan)": {
+      "ja": "ゴルフ（日）",
+      "ja-hint": "ゴルフ（にち）",
+      "zh": "高尔夫（日）",
+      "zh-hint": "gaoerfu (ri)"
+    },
+    "default": {
+      "ja": "ゴルフ（米）",
+      "ja-hint": "ゴルフ（べい）",
+      "zh": "高尔夫（美）",
+      "zh-hint": "gaoerfu (mei)"
+    }
+  }
+}

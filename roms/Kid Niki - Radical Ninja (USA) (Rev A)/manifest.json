@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "快傑ヤンチャ丸（米）",
+      "ja-hint": "かいけつヤンチャまる（べい）",
+      "zh": "快杰洋枪（美）",
+      "zh-hint": "kuaijieyangqiang (mei)"
+    }
+  }
+}

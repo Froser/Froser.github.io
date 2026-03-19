@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 555,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "宇宙警備隊SDF（日）",
+      "ja-hint": "うちゅうけいびたいSDF（にち）",
+      "zh": "宇宙警备队SDF（日）",
+      "zh-hint": "yuzhoujingbeiduiSDF (ri)"
+    }
+  }
+}

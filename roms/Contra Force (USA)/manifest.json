@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "魂斗羅フォース（米）",
+      "ja-hint": "たましいとらフォース（べい）",
+      "zh": "魂斗罗力量（美）",
+      "zh-hint": "hundouluoliliang (mei)"
+    }
+  }
+}

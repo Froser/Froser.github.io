@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 377,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "チャレンジャー（日）",
+      "ja-hint": "チャレンジャー（にち）",
+      "zh": "挑战者（日）",
+      "zh-hint": "tiaozhanzhe (ri)"
+    }
+  }
+}

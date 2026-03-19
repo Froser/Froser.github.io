@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ワールド　チャンプ（米）",
+      "ja-hint": "ワールド　チャンプ（べい）",
+      "zh": "世界冠军（美）",
+      "zh-hint": "shijieguanjun (mei)"
+    }
+  }
+}

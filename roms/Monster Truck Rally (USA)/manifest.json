@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "モンスタートランクラリー（米）",
+      "ja-hint": "モンスタートランクラリー（べい）",
+      "zh": "大脚卡车拉力赛（美）",
+      "zh-hint": "dajiaoqiachelalisai (mei)"
+    }
+  }
+}

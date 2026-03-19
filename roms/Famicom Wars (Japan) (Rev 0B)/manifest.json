@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 360
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミコンウォーズ（日）",
+      "ja-hint": "ファミコンウォーズ（にち）",
+      "zh": "任天堂战争（日）",
+      "zh-hint": "rentiantangzhanzheng (ri)"
+    }
+  }
+}

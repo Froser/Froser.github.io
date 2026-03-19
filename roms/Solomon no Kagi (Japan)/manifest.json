@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Solomon's Key (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Solomon's Key (USA)": {
+      "ja": "ソロモンの鍵（米）",
+      "ja-hint": "ソロモンのかぎ（べい）",
+      "zh": "所罗门之匙（美）",
+      "zh-hint": "suoluomenzhichi (mei)"
+    },
+    "default": {
+      "ja": "ソロモンの鍵（日）",
+      "ja-hint": "ソロモンのかぎ（にち）",
+      "zh": "所罗门之匙（日）",
+      "zh-hint": "suoluomenzhichi (ri)"
+    }
+  }
+}

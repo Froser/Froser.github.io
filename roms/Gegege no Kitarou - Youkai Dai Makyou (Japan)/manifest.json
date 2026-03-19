@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Ninja Kid (USA)": {
+      "height": 351,
+      "width": 256
+    },
+    "default": {
+      "height": 350,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Ninja Kid (USA)": {
+      "ja": "ゲゲゲの鬼太郎 妖怪大魔境（米）",
+      "ja-hint": "ゲゲゲのきたろう ようかいだいまきょう（べい）",
+      "zh": "鬼太郎 妖怪大魔境（美）",
+      "zh-hint": "guitailang yaoguaidamojing (mei)"
+    },
+    "default": {
+      "ja": "ゲゲゲの鬼太郎 妖怪大魔境（日）",
+      "ja-hint": "ゲゲゲのきたろう ようかいだいまきょう（にち）",
+      "zh": "鬼太郎 妖怪大魔境（日）",
+      "zh-hint": "guitailang yaoguaidamojing (ri)"
+    }
+  }
+}

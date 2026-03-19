@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 730,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ソーラージェットマン（米）",
+      "ja-hint": "ソーラージェットマン（べい）",
+      "zh": "太阳能杰盟：寻找黄金飞船（美）",
+      "zh-hint": "taiyangnengjiemeng：xunzhaohuangjinfeichuan (mei)"
+    }
+  }
+}

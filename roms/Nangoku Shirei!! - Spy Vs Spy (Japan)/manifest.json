@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "南国指令！！スパイＶＳスパイ（日）",
+      "ja-hint": "なんごくしれい！！スパイＶＳスパイ（にち）",
+      "zh": "南国指令（日）",
+      "zh-hint": "nanguozhiling (ri)"
+    }
+  }
+}

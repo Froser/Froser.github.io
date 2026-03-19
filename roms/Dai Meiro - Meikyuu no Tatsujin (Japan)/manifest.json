@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "大迷路迷宮の達人（日）",
+      "ja-hint": "だいめいろめいきゅうのたつじん（にち）",
+      "zh": "大迷路（日）",
+      "zh-hint": "damilu (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "虹のシルクロード（日）",
+      "ja-hint": "にじのシルクロード（にち）",
+      "zh": "彩虹丝路（日）",
+      "zh-hint": "caihongsilu (ri)"
+    }
+  }
+}

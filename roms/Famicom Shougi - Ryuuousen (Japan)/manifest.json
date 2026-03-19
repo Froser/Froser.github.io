@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミコン将棋竜王戦（日）",
+      "ja-hint": "ファミコンしょうぎりゅうおうせん（にち）",
+      "zh": "将棋龙王赛（日）",
+      "zh-hint": "jiangqilongwangsai (ri)"
+    }
+  }
+}

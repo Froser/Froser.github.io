@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "怪盗シュガー（米）",
+      "ja-hint": "かいとうシュガー（べい）",
+      "zh": "神秘之结（美）",
+      "zh-hint": "shenmizhijie (mei)"
+    }
+  }
+}

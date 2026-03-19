@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャッ党忍伝てやんでえ（日）",
+      "ja-hint": "キャッどうにんでんてやんでえ（にち）",
+      "zh": "功夫猫党忍者猫（日）",
+      "zh-hint": "gongfumaodangrenzhemao(ri)"
+    }
+  }
+}

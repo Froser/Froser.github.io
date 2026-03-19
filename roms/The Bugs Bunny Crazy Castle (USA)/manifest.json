@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロジャー　ラビット　クレイジーキャッスル（米）",
+      "ja-hint": "ロジャー　ラビット　クレイジーキャッスル（べい）",
+      "zh": "兔八哥疯狂城堡（美）",
+      "zh-hint": "tubagefengkuangchengbao (mei)"
+    }
+  }
+}

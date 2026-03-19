@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Thunder & Lightning (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Thunder & Lightning (USA)": {
+      "ja": "ファミリーブロック（米）",
+      "zh": "家庭打砖块（美）",
+      "zh-hint": "jiatingdazhuankuai(mei)"
+    },
+    "default": {
+      "ja": "ファミリーブロック（日）",
+      "zh": "家庭打砖块（日）",
+      "zh-hint": "jiatingdazhuankuai(ri)"
+    }
+  }
+}

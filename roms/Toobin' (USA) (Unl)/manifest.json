@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "トゥービン（米）",
+      "ja-hint": "トゥービン（べい）",
+      "zh": "救生圈滑水赛（美）",
+      "zh-hint": "jiushengquanhuashuisai (mei)"
+    }
+  }
+}

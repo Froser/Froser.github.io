@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Makai Island (USA) (Proto)": {
+      "height": 267,
+      "width": 400
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Makai Island (USA) (Proto)": {
+      "ja": "魔界島（美）",
+      "ja-hint": "まかいじま（べい）",
+      "zh": "魔界岛（美）",
+      "zh-hint": "mojiedao(mei)"
+    },
+    "default": {
+      "ja": "魔界島 - 七つの島大冒険（日）",
+      "ja-hint": "まかいじまななつのしまだいぼうけん（にち）",
+      "zh": "魔界岛 - 七岛大冒险（日）",
+      "zh-hint": "mojiedaoqidaodamaoxian(ri)"
+    }
+  }
+}

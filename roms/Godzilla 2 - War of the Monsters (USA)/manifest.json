@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゴジラ2（米）",
+      "ja-hint": "ゴジラ2（べい）",
+      "zh": "哥斯拉2（美）",
+      "zh-hint": "gesila2 (mei)"
+    }
+  }
+}

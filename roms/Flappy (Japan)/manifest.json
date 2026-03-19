@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "フラッピー（日）",
+      "zh": "顽皮精灵（日）",
+      "zh-hint": "wanpijinglin(ri)"
+    }
+  }
+}

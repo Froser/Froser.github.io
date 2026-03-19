@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ギミアぶれいく 史上最強のクイズ王決定戦2（日）",
+      "ja-hint": "ギミアぶれいく しじょうさいきょうのクイズおうけっていせん2（にち）",
+      "zh": "史上最强问题王2（日）",
+      "zh-hint": "shishangzuiqiangwentiwang2 (ri)"
+    }
+  }
+}

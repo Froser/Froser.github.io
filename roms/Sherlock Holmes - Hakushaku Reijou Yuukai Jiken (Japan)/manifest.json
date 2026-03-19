@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "シャーロックホームズ伯爵令嬢誘拐事件（日）",
+      "ja-hint": "シャーロックホームズはくしゃくれいじょうゆうかいじけん（にち）",
+      "zh": "福尔摩斯 伯爵令媛诱拐事件（日）",
+      "zh-hint": "fuermosi bojuelingyuanyouguaishijian (ri)"
+    }
+  }
+}

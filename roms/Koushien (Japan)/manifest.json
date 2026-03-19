@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Little League Baseball - Championship Series (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Little League Baseball - Championship Series (USA)": {
+      "ja": "甲子園（米）",
+      "ja-hint": "こうしえん（べい）",
+      "zh": "甲子园（美）",
+      "zh-hint": "jiaziyuan (mei)"
+    },
+    "default": {
+      "ja": "甲子園（日）",
+      "ja-hint": "こうしえん（にち）",
+      "zh": "甲子园（日）",
+      "zh-hint": "jiaziyuan (ri)"
+    }
+  }
+}

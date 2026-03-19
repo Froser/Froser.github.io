@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サイバースタジアムシリーズ：ベースウォーズ（米）",
+      "ja-hint": "サイバースタジアムシリーズ：ベースウォーズ（べい）",
+      "zh": "赛博体育场系列：基地战争（美）",
+      "zh-hint": "saibotiyuchangxilie：jidizhanzheng (mei)"
+    }
+  }
+}

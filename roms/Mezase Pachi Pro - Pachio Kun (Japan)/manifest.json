@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 342,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "目指せパチプロパチ夫くん（日）",
+      "ja-hint": "めざせパチプロパチおっとくん（にち）",
+      "zh": "帕青夫君（日）",
+      "zh-hint": "paqingfujun (ri)"
+    }
+  }
+}

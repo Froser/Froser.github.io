@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ソンソン（日）",
+      "ja-hint": "ソンソン（にち）",
+      "zh": "西游记（日）",
+      "zh-hint": "xiyouji (ri)"
+    }
+  }
+}

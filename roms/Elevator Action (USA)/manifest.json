@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Elevator Action (Japan)": {
+      "height": 349,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Elevator Action (Japan)": {
+      "ja": "エレベーターアクション（日）",
+      "ja-hint": "エレベーターアクション（にち）",
+      "zh": "电梯迷宫（日）",
+      "zh-hint": "diantimigong (ri)"
+    },
+    "default": {
+      "ja": "エレベーターアクション（米）",
+      "ja-hint": "エレベーターアクション（べい）",
+      "zh": "电梯迷宫（美）",
+      "zh-hint": "diantimigong (mei)"
+    }
+  }
+}

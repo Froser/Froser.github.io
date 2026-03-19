@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dragon Quest III - Soshite Densetsu e... (CN)": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Dragon Quest III - Soshite Densetsu e... (CN)": {
+      "ja": "ドラゴンクエスト3 そして伝説へ（中）",
+      "ja-hint": "ドラゴンクエスト3 そしてでんせつへ（なか）",
+      "zh": "勇者斗恶龙3 - 走向传说（中）",
+      "zh-hint": "yongzhedouelong3 - zouxiangchuanshuo (zhong)"
+    },
+    "default": {
+      "ja": "ドラゴンクエスト3 そして伝説へ（日）",
+      "ja-hint": "ドラゴンクエスト3 そしてでんせつへ（にち）",
+      "zh": "勇者斗恶龙3 - 走向传说（日）",
+      "zh-hint": "yongzhedouelong3 - zouxiangchuanshuo(ri)"
+    }
+  }
+}

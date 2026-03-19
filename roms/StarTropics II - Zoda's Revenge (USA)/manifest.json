@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スタートロピックス2（米）",
+      "ja-hint": "スタートロピックス2（べい）",
+      "zh": "热带之星2（美）",
+      "zh-hint": "redaizhixing2 (mei)"
+    }
+  }
+}

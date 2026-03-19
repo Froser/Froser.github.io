@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Trojan (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 349,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Trojan (USA)": {
+      "ja": "闘いの挽歌（米）",
+      "ja-hint": "たたかいのばんか（べい）",
+      "zh": "斗者的挽歌（美）",
+      "zh-hint": "douzhedewange (mei)"
+    },
+    "default": {
+      "ja": "闘いの挽歌（日）",
+      "ja-hint": "たたかいのばんか（にち）",
+      "zh": "斗者的挽歌（日）",
+      "zh-hint": "douzhedewange (ri)"
+    }
+  }
+}

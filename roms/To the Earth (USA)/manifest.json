@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "地球へ（米）",
+      "ja-hint": "ちきゅうへ（べい）",
+      "zh": "前往地球（美）",
+      "zh-hint": "qianwangdiqiu (mei)"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "boxarts": {
+    "Final Fantasy (CN)": {
+      "height": 292,
+      "width": 400
+    },
+    "Final Fantasy (Japan) (Rev B)": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Final Fantasy (CN)": {
+      "ja": "ファイナルファンタジー（中）",
+      "zh": "最终幻想（中）"
+    },
+    "Final Fantasy (Japan) (Rev B)": {
+      "ja": "ファイナルファンタジー（日）",
+      "zh": "最终幻想（日）"
+    },
+    "default": {
+      "ja": "ファイナルファンタジー1（米）",
+      "zh": "最终幻想1（美）",
+      "zh-hint": "zuizhonghuanxiang1(mei)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 666,
+      "width": 460
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ディガー ティ ロック（米）",
+      "zh": "矿工 - 失落之城的传奇（美）",
+      "zh-hint": "kuanggong - shiluozhichengdechuanqi(mei)"
+    }
+  }
+}

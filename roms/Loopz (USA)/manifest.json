@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーループス（美）",
+      "ja-hint": "スーパーループス（べい）",
+      "zh": "接管子（美）",
+      "zh-hint": "jieguanzi (mei)"
+    }
+  }
+}

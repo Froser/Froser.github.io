@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミリージョッキー（日）",
+      "ja-hint": "ファミリージョッキー（にち）",
+      "zh": "家庭竞马（日）",
+      "zh-hint": "jiatingjingma (ri)"
+    }
+  }
+}

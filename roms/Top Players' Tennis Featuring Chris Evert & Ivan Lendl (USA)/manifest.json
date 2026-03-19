@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "トッププレーヤズ　エバート＆レンドルのテニス（米）",
+      "ja-hint": "トッププレーヤズ　エバート＆レンドルのテニス（べい）",
+      "zh": "顶级网球：埃弗特和伦德尔（美）",
+      "zh-hint": "dingjiwangqiu：aifutehelundeer (mei)"
+    }
+  }
+}

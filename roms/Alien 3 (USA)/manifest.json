@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エイリアン3（米）",
+      "ja-hint": "エイリアン3（べい）",
+      "zh": "异形3（美）",
+      "zh-hint": "yixing3 (mei)"
+    }
+  }
+}

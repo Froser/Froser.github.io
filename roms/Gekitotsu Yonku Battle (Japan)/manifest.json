@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "激突四駆バトル（日）",
+      "ja-hint": "げきとつよんくバトル（にち）",
+      "zh": "激凸四驱车（日）",
+      "zh-hint": "jitusiquche(ri)"
+    }
+  }
+}

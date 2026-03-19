@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スタートレック（米）",
+      "ja-hint": "スタートレック（べい）",
+      "zh": "星际迷航（美）",
+      "zh-hint": "xingjimihang (mei)"
+    }
+  }
+}

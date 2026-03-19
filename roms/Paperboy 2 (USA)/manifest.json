@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ペーパーボーイ2（米）",
+      "ja-hint": "ペーパーボーイ2（べい）",
+      "zh": "送报男孩2（美）",
+      "zh-hint": "songbaonanhai2 (mei)"
+    }
+  }
+}

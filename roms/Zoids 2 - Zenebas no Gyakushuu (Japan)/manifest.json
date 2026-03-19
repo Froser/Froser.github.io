@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゾイド2　ゼネバスの逆襲（日）",
+      "ja-hint": "ゾイド2　ゼネバスのぎゃくしゅう（にち）",
+      "zh": "洛依德2：捷尼巴斯的反击（日）",
+      "zh-hint": "luoyide2：jienibasidefanji (ri)"
+    }
+  }
+}

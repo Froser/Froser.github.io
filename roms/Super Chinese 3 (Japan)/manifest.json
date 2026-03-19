@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 337,
+      "width": 505
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーチャイニーズ3（日）",
+      "ja-hint": "スーパーチャイニーズ3（にち）",
+      "zh": "超级中国人3（日）",
+      "zh-hint": "chaojizhongguoren3 (ri)"
+    }
+  }
+}

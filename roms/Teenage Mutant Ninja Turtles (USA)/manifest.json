@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Gekikame Ninja Den (Japan)": {
+      "height": 701,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 286
+    }
+  },
+  "titles": {
+    "Gekikame Ninja Den (Japan)": {
+      "ja": "激亀忍者伝（日）",
+      "ja-hint": "げきかめにんじゃでん（にち）",
+      "zh": "忍者神龟（日）",
+      "zh-hint": "renzheshengui (ri)"
+    },
+    "default": {
+      "ja": "激亀忍者伝（米）",
+      "ja-hint": "げきかめにんじゃでん（べい）",
+      "zh": "忍者神龟（美）",
+      "zh-hint": "renzheshengui (mei)"
+    }
+  }
+}

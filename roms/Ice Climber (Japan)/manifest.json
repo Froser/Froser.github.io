@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Ice Climber (USA, Europe)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Ice Climber (USA, Europe)": {
+      "ja": "アイスクライマー（欧、米）",
+      "zh": "敲冰块（欧，美）"
+    },
+    "default": {
+      "ja": "アイスクライマー（日）",
+      "zh": "敲冰块（日）",
+      "zh-hint": "qiaobingkuai(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ローラーゲーム（米）",
+      "ja-hint": "ローラーゲーム（べい）",
+      "zh": "暴力溜冰（美）",
+      "zh-hint": "baoliliubing (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "リーサル・ウェポン（米）",
+      "ja-hint": "リーサル・ウェポン（べい）",
+      "zh": "致命武器（美）",
+      "zh-hint": "zhimingwuqi(mei)"
+    }
+  }
+}

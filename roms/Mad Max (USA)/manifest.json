@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マッドマックス（米）",
+      "ja-hint": "マッドマックス（べい）",
+      "zh": "疯狂的麦克斯（美）",
+      "zh-hint": "fengkuangdemaikesi (mei)"
+    }
+  }
+}

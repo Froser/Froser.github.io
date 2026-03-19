@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "P.O.W. - Prisoners of War (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "P.O.W. - Prisoners of War (USA)": {
+      "ja": "脱獄（米）",
+      "ja-hint": "だつごく（べい）",
+      "zh": "越狱（美）",
+      "zh-hint": "yueyu (mei)"
+    },
+    "default": {
+      "ja": "脱獄（日）",
+      "ja-hint": "だつごく（にち）",
+      "zh": "越狱（日）",
+      "zh-hint": "yueyu (ri)"
+    }
+  }
+}

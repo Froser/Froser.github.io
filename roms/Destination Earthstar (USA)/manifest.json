@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "デスティネーション アーススター（米）",
+      "ja-hint": "デスティネーション アーススター（べい）",
+      "zh": "目标地球（美）",
+      "zh-hint": "mubiaodiqiu (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "魂斗羅（米）",
+      "ja-hint": "コントラ（べい）",
+      "zh": "魂斗罗（美）",
+      "zh-hint": "hundouluo(mei)"
+    }
+  }
+}

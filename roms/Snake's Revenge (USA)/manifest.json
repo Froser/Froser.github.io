@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スネークズリベンジ（米）",
+      "ja-hint": "スネークズリベンジ（べい）",
+      "zh": "合金装备2 斯内克的复仇（美）",
+      "zh-hint": "hejinzhuangbei2 - sineikedefuchou (mei)"
+    }
+  }
+}

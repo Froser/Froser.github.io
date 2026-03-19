@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "RBIベースボール2（米）",
+      "ja-hint": "RBIベースボール2（べい）",
+      "zh": "RBI棒球2（美）",
+      "zh-hint": "RBIbangqiu2 (mei)"
+    }
+  }
+}

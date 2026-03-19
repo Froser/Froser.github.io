@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Final Fantasy III (CN)": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Final Fantasy III (CN)": {
+      "ja": "ファイナルファンタジー3（中）",
+      "zh": "最终幻想3（中）"
+    },
+    "default": {
+      "ja": "ファイナルファンタジー3（日）",
+      "zh": "最终幻想3（日）",
+      "zh-hint": "zuizhonghuanxiang3(ri)"
+    }
+  }
+}

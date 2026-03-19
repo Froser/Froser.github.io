@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジミーコナーズテニス（米）",
+      "ja-hint": "ジミーコナーズテニス（べい）",
+      "zh": "吉米康纳斯网球（美）",
+      "zh-hint": "jimikangnasiwangqiu (mei)"
+    }
+  }
+}

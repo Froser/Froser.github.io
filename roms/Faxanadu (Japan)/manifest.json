@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Faxanadu (USA) (Rev A)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 678,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Faxanadu (USA) (Rev A)": {
+      "ja": "ファザナドゥ（米）",
+      "ja-hint": "ファザナドゥ（べい）",
+      "zh": "沙那多（美）",
+      "zh-hint": "shanaduo (mei)"
+    },
+    "default": {
+      "ja": "ファザナドゥ（日）",
+      "ja-hint": "ファザナドゥ（にち）",
+      "zh": "沙那多（日）",
+      "zh-hint": "shanaduo (ri)"
+    }
+  }
+}

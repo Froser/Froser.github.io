@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 520,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "燃えろ！！ジュニアバスケット（日）",
+      "ja-hint": "もえろ！！ジュニアバスケット（にち）",
+      "zh": "燃烧篮球（日）",
+      "zh-hint": "ranshaolanqiu (ri)"
+    }
+  }
+}

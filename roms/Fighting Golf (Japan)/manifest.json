@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファイティングゴルフ（日）",
+      "ja-hint": "ファイティングゴルフ（にち）",
+      "zh": "战斗高尔夫（日）",
+      "zh-hint": "zhandougaoerfu (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 747,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マグナム危機一髪 エンパイアシティ1931（日）",
+      "ja-hint": "マグナムききいっぱつ エンパイアシティ1931（にち）",
+      "zh": "危机一发（日）",
+      "zh-hint": "weijiyifa (ri)"
+    }
+  }
+}

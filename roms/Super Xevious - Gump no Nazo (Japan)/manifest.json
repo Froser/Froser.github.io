@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 735,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーゼビウスガンプの謎（日）",
+      "ja-hint": "スーパーゼビウスガンプのなぞ（にち）",
+      "zh": "超级铁板阵 加索布之谜（日）",
+      "zh-hint": "chaojitiebanzhen jiasuobuzhimi (ri)"
+    }
+  }
+}

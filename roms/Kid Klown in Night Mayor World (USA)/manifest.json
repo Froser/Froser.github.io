@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キッド　クラウン（米）",
+      "ja-hint": "キッド　クラウン（べい）",
+      "zh": "小丑王子大冒险（美）",
+      "zh-hint": "xiaochouwangzidamaoxian (mei)"
+    }
+  }
+}

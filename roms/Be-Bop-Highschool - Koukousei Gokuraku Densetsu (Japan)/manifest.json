@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ビー バップ ハイスクール高校生極楽伝説（日）",
+      "ja-hint": "ビー バップ ハイスクールこうこうせいごくらくでんせつ（にち）",
+      "zh": "高校生极乐传说（日）",
+      "zh-hint": "gaoxiaoshengjilechuanshuo (ri)"
+    }
+  }
+}

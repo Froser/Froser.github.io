@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "半熟ヒーロー（日）",
+      "ja-hint": "はんじゅくヒーロー（にち）",
+      "zh": "半熟英雄（日）",
+      "zh-hint": "banshuyingxiong(ri)"
+    }
+  }
+}

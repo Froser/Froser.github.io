@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 347,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "大戦略（日）",
+      "ja-hint": "だいせんりゃく（にち）",
+      "zh": "大战略（日）",
+      "zh-hint": "dazhanlue (ri)"
+    }
+  }
+}

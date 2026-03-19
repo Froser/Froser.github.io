@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Super Dodge Ball (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 360,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Super Dodge Ball (USA)": {
+      "ja": "熱血高校ドッジボール部（米）",
+      "ja-hint": "ねっけつこうこうドッジボールぶ（べい）",
+      "zh": "热血高校躲避球部（美）",
+      "zh-hint": "rexiegaoxiaoduobiqiubu (mei)"
+    },
+    "default": {
+      "ja": "熱血高校ドッジボール部（日）",
+      "ja-hint": "ねっけつこうこうドッジボールぶ（にち）",
+      "zh": "热血高校躲避球部（日）",
+      "zh-hint": "rexiegaoxiaoduobiqiubu (ri)"
+    }
+  }
+}

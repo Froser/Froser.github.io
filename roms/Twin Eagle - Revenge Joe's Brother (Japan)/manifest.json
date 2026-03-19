@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Twin Eagle - Revenge Joe's Brother (USA)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 755,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Twin Eagle - Revenge Joe's Brother (USA)": {
+      "ja": "ツインイーグル（米）",
+      "ja-hint": "ツインイーグル（べい）",
+      "zh": "双鹰（美）",
+      "zh-hint": "shuangying (mei)"
+    },
+    "default": {
+      "ja": "ツインイーグル（日）",
+      "ja-hint": "ツインイーグル（にち）",
+      "zh": "双鹰（日）",
+      "zh-hint": "shuangying (ri)"
+    }
+  }
+}

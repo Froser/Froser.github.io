@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 346,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミコン野球盤（日）",
+      "ja-hint": "ファミコンやきゅうばん（にち）",
+      "zh": "任天堂野球盘（日）",
+      "zh-hint": "rentiantangyeqiupan (ri)"
+    }
+  }
+}

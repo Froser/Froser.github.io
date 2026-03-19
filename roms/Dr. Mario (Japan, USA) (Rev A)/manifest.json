@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドクターマリオ（米）",
+      "ja-hint": "ドクターマリオ（べい）",
+      "zh": "玛丽医生（美）",
+      "zh-hint": "maliyisheng (mei)"
+    }
+  }
+}

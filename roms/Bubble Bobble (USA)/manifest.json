@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バブルボブル（米）",
+      "ja-hint": "バブルボブル（べい）",
+      "zh": "泡泡龙（美）",
+      "zh-hint": "paopaolong (mei)"
+    }
+  }
+}

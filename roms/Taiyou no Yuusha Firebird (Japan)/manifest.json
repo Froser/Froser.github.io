@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "太陽の勇者ファイバード（日）",
+      "ja-hint": "たいようのゆうしゃファイバード（にち）",
+      "zh": "太阳勇者（日）",
+      "zh-hint": "taiyangyongzhe (ri)"
+    }
+  }
+}

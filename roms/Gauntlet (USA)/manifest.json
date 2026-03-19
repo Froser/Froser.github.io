@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ガントレット（米）",
+      "zh": "圣铠传说（美）",
+      "zh-hint": "shengkaichuanshuo(mei)"
+    }
+  }
+}

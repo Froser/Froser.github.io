@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "武田信玄（日）",
+      "ja-hint": "たけだしんげん（にち）",
+      "zh": "武田信玄（日）",
+      "zh-hint": "wutianxinxuan (ri)"
+    }
+  }
+}

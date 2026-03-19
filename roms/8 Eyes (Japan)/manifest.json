@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "8 Eyes (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "8 Eyes (USA)": {
+      "ja": "エイトアイズ（米）",
+      "ja-hint": "エイトアイズ（べい）",
+      "zh": "八眼宝石（美）",
+      "zh-hint": "bayanbaoshi (mei)"
+    },
+    "default": {
+      "ja": "エイトアイズ（日）",
+      "ja-hint": "エイトアイズ（にち）",
+      "zh": "八眼宝石（日）",
+      "zh-hint": "bayanbaoshi (ri)"
+    }
+  }
+}

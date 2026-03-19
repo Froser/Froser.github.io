@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "モンスターパーティー（米）",
+      "ja-hint": "モンスターパーティー（べい）",
+      "zh": "怪物聚会（美）",
+      "zh-hint": "guaiwujuhui (mei)"
+    }
+  }
+}

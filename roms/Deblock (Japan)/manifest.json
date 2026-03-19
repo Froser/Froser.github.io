@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "デ・ブロック（日）",
+      "zh": "星际俄罗斯方块（日）",
+      "zh-hint": "xingjieluosifangkuai(ri)"
+    }
+  }
+}

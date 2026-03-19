@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "10-Yard Fight (USA, Europe)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 340,
+      "width": 512
+    }
+  },
+  "titles": {
+    "10-Yard Fight (USA, Europe)": {
+      "ja": "１０ヤードファイト（米）",
+      "ja-hint": "１０ヤードファイト（べい）",
+      "zh": "十码大战（美）",
+      "zh-hint": "shimadazhan (mei)"
+    },
+    "default": {
+      "ja": "１０ヤードファイト（日）",
+      "ja-hint": "１０ヤードファイト（にち）",
+      "zh": "十码大战（日）",
+      "zh-hint": "shimadazhan (ri)"
+    }
+  }
+}

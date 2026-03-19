@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スカイデストロイヤー（日）",
+      "zh": "红巾特工队（日）",
+      "zh-hint": "hongjintegongdui(ri)"
+    }
+  }
+}

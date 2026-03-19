@@ -1,0 +1,23 @@
+{
+  "boxarts": {
+    "Final Fantasy II (Japan)": {
+      "height": 278,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Final Fantasy II (Japan)": {
+      "ja": "ファイナルファンタジー2（日）",
+      "zh": "最终幻想2（日）"
+    },
+    "default": {
+      "ja": "ファイナルファンタジー2（米）",
+      "zh": "最终幻想2（美）",
+      "zh-hint": "zuizhonghuanxiang2(mei)"
+    }
+  }
+}

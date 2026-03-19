@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Mickey Mouse 3 - Yume Fuusen (Japan)": {
+      "height": 692,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Mickey Mouse 3 - Yume Fuusen (Japan)": {
+      "ja": "ミッキーマウス夢ふうせん（日）",
+      "ja-hint": "ミッキーマウスゆめふうせん（にち）",
+      "zh": "米奇3 梦之气球（日）",
+      "zh-hint": "miqi3 mengzhiqiqiu (ri)"
+    },
+    "default": {
+      "ja": "ミッキーマウス夢ふうせん（米）",
+      "ja-hint": "ミッキーマウスゆめふうせん（べい）",
+      "zh": "米奇3 梦之气球（美）",
+      "zh-hint": "miqi3 mengzhiqiqiu (mei)"
+    }
+  }
+}

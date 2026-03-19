@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 743,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "銀河の三人（日）",
+      "ja-hint": "ぎんがのさんにん（にち）",
+      "zh": "银河三人行（日）",
+      "zh-hint": "yinhesanrenxing (ri)"
+    }
+  }
+}

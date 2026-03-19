@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Track & Field (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Track & Field (USA)": {
+      "ja": "ハイパーオリンピック（米）",
+      "ja-hint": "ハイパーオリンピック（べい）",
+      "zh": "金牌奥运会（美）",
+      "zh-hint": "jinpaiaoyunhui (mei)"
+    },
+    "default": {
+      "ja": "ハイパーオリンピック（日）",
+      "ja-hint": "ハイパーオリンピック（にち）",
+      "zh": "金牌奥运会（日）",
+      "zh-hint": "jinpaiaoyunhui (ri)"
+    }
+  }
+}

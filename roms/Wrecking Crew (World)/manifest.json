@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "レッキングクルー（世界）",
+      "ja-hint": "レッキングクルー（せかい）",
+      "zh": "拆屋工（世界）",
+      "zh-hint": "chaiwugong (shijie)"
+    }
+  }
+}

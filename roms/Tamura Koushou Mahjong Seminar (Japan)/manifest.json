@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 337,
+      "width": 505
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "田村光昭の麻雀ゼミナール（日）",
+      "ja-hint": "たむらみつあきのまーじゃんゼミナール（にち）",
+      "zh": "田村光昭麻将研究会（日）",
+      "zh-hint": "tiancunguangzhaomajiangyanjiuhui (ri)"
+    }
+  }
+}

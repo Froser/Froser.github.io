@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Abadox (Japan)": {
+      "height": 363,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Abadox (Japan)": {
+      "ja": "アバドックス（日）",
+      "ja-hint": "アバドックス（にち）",
+      "zh": "绝对合体（日）",
+      "zh-hint": "jueduiheti (ri)"
+    },
+    "default": {
+      "ja": "アバドックス（米）",
+      "ja-hint": "アバドックス（べい）",
+      "zh": "绝对合体（美）",
+      "zh-hint": "jueduiheti (mei)"
+    }
+  }
+}

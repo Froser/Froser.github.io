@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 356,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テトリスフラッシュ（日）",
+      "ja-hint": "テトリスフラッシュ（にち）",
+      "zh": "俄罗斯方块Flash（日）",
+      "zh-hint": "eluosifangkuaiFlash (ri)"
+    }
+  }
+}

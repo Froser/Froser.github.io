@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ラストハルマゲドン（日）",
+      "ja-hint": "ラストハルマゲドン（にち）",
+      "zh": "最后的哈米吉多顿（日）",
+      "zh-hint": "zuihoudehamijiduodun (ri)"
+    }
+  }
+}

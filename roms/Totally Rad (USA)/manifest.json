@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マジックジョン（米）",
+      "ja-hint": "マジックジョン（べい）",
+      "zh": "神奇王子（美）",
+      "zh-hint": "shenqiwangzi (mei)"
+    }
+  }
+}

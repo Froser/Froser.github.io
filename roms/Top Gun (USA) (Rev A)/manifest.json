@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Top Gun (Japan)": {
+      "height": 738,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Top Gun (Japan)": {
+      "ja": "トップガン（日）",
+      "ja-hint": "トップガン（にち）",
+      "zh": "凌云壮志（日）",
+      "zh-hint": "lingyunzhuangzhi (ri)"
+    },
+    "default": {
+      "ja": "トップガン（米）",
+      "ja-hint": "トップガン（べい）",
+      "zh": "凌云壮志（美）",
+      "zh-hint": "lingyunzhuangzhi (mei)"
+    }
+  }
+}

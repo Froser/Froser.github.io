@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "聖闘士星矢 黄金伝説完結編（日）",
+      "ja-hint": "セイントセイヤ おうごんでんせつかんけつへん（にち）",
+      "zh": "圣斗士星矢：黄金传说完结篇（日）",
+      "zh-hint": "shengdoushixingshi：huangjinchuanshuowanjiepian (ri)"
+    }
+  }
+}

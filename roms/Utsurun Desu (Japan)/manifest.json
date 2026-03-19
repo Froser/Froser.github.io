@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "伝染るんです。 かわうそハワイへ行く（日）",
+      "ja-hint": "うつるんです。 かわうそハワイへいく（にち）",
+      "zh": "传染总动员（日）",
+      "zh-hint": "chuanranzongdongyuan (ri)"
+    }
+  }
+}

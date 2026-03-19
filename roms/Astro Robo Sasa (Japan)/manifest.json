@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 363,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アストロロボササ（日）",
+      "ja-hint": "アストロロボササ（にち）",
+      "zh": "莎莎机器人（日）",
+      "zh-hint": "shashajiqiren (ri)"
+    }
+  }
+}

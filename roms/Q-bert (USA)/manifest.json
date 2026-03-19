@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Qバート（米）",
+      "ja-hint": "Qバート（べい）",
+      "zh": "Q伯特（美）",
+      "zh-hint": "Qbote (mei)"
+    }
+  }
+}

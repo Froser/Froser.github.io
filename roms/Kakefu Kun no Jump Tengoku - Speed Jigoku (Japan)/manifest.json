@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Kid Kool and the Quest for the Seven Wonder Herbs (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 276,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Kid Kool and the Quest for the Seven Wonder Herbs (USA)": {
+      "ja": "カケフくんのジャンプ天国スピード地獄（米）",
+      "zh": "加其夫天国与地狱（美）"
+    },
+    "default": {
+      "ja": "カケフくんのジャンプ天国スピード地獄（日）",
+      "ja-hint": "カケフくんのジャンプてんごくスピードじごく（にち）",
+      "zh": "加其夫天国与地狱（日）",
+      "zh-hint": "jiaqifutianguoyudiyu(ri)"
+    }
+  }
+}

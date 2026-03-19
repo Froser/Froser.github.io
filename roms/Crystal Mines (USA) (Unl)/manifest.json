@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 725,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クリスタル マインズ（米）",
+      "ja-hint": "クリスタル マインズ（べい）",
+      "zh": "水晶矿井（美）",
+      "zh-hint": "shuijingkuangjing (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Xexyz (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Xexyz (USA)": {
+      "ja": "亀の恩返しウラシマ伝説（米）",
+      "ja-hint": "かめのおんがえしウラシマでんせつ（べい）",
+      "zh": "乌龟报恩（美）",
+      "zh-hint": "wuguibaoen(ri) (mei)"
+    },
+    "default": {
+      "ja": "亀の恩返しウラシマ伝説（日）",
+      "ja-hint": "かめのおんがえしウラシマでんせつ（にち）",
+      "zh": "乌龟报恩（日）",
+      "zh-hint": "wuguibaoen(ri)"
+    }
+  }
+}

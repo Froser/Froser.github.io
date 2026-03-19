@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ブラッディウォーリアーズ　シャンゴーの逆襲（日）",
+      "ja-hint": "ブラッディウォーリアーズ　シャンゴーのぎゃくしゅう（にち）",
+      "zh": "血魔的反击（日）",
+      "zh-hint": "xiemodefanji (ri)"
+    }
+  }
+}

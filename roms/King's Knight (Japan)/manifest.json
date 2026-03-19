@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "King's Knight (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "King's Knight (USA)": {
+      "ja": "キングスナイト（米）",
+      "zh": "国王骑士（美）"
+    },
+    "default": {
+      "ja": "キングスナイト（日）",
+      "ja-hint": "キングスナイト（にち）",
+      "zh": "国王骑士（日）",
+      "zh-hint": "guowangqishi(ri)"
+    }
+  }
+}

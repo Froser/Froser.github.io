@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Starship Hector (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Starship Hector (USA)": {
+      "ja": "ヘクター'87（米）",
+      "zh": "暴击战士87（美）",
+      "zh-hint": "baojizhanshi87(mei)"
+    },
+    "default": {
+      "ja": "ヘクター'87（日）",
+      "zh": "暴击战士87（日）",
+      "zh-hint": "baojizhanshi87(ri)"
+    }
+  }
+}

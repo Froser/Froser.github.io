@@ -1,0 +1,14 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "1942（日、米）",
+      "zh": "1942（日，美）"
+    }
+  }
+}

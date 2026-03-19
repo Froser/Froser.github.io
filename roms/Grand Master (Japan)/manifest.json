@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドリームマスターナムコプリズムゾーン（日）",
+      "ja-hint": "ドリームマスターナムコプリズムゾーン（にち）",
+      "zh": "守护剑士（日）",
+      "zh-hint": "shouhujianshi (ri)"
+    }
+  }
+}

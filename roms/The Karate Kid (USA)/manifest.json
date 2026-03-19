@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザ・カラテ・キッド（米）",
+      "ja-hint": "ザカラテキッド（べい）",
+      "zh": "空手道小子（美）",
+      "zh-hint": "kongshoudaoxiaozi(mei)"
+    }
+  }
+}

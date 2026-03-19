@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "嗚呼！野球人生一直線（日）",
+      "ja-hint": "ああ！やきゅうじんなまいっちょくせん（にち）",
+      "zh": "野球人生（日）",
+      "zh-hint": "yeqiurensheng (ri)"
+    }
+  }
+}

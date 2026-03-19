@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Gemfire (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 766,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Gemfire (USA)": {
+      "ja": "ロイヤルブラッド（米）",
+      "ja-hint": "ロイヤルブラッド（べい）",
+      "zh": "欧洲战记（美）",
+      "zh-hint": "ouzhouzhanji (mei)"
+    },
+    "default": {
+      "ja": "ロイヤルブラッド（日）",
+      "ja-hint": "ロイヤルブラッド（にち）",
+      "zh": "欧洲战记（日）",
+      "zh-hint": "ouzhouzhanji (ri)"
+    }
+  }
+}

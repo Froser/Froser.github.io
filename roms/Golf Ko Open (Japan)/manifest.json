@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 643,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゴルフッ子オープン（日）",
+      "ja-hint": "ゴルフッこオープン（にち）",
+      "zh": "高尔夫公开赛（日）",
+      "zh-hint": "gaoerfugongkaisai (ri)"
+    }
+  }
+}

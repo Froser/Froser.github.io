@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "チャンピオンシップロードランナー（日）",
+      "zh": "冠军淘金者（日）",
+      "zh-hint": "guanjuntaojinzhe(ri)"
+    }
+  }
+}

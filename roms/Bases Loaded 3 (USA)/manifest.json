@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "燃えろ!!プロ野球3（米）",
+      "ja-hint": "もえろ!!プロやきゅう3（べい）",
+      "zh": "燃烧棒球3（美）",
+      "zh-hint": "ranshaobangqiu3 (mei)"
+    }
+  }
+}

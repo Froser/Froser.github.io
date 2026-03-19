@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "インフィルトレーター（米）",
+      "ja-hint": "インフィルトレーター（べい）",
+      "zh": "渗透者飞机（美）",
+      "zh-hint": "shentouzhefeiji (mei)"
+    }
+  }
+}

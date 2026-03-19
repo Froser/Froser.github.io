@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Super Sprint (USA) (Unl)": {
+      "height": 353,
+      "width": 256
+    },
+    "default": {
+      "height": 359,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Super Sprint (USA) (Unl)": {
+      "ja": "スーパースプリント（日）",
+      "ja-hint": "スーパースプリント（にち）",
+      "zh": "超级冲刺赛（日）",
+      "zh-hint": "chaojichongcisai (ri)"
+    },
+    "default": {
+      "ja": "スーパースプリント（日）",
+      "ja-hint": "スーパースプリント（にち）",
+      "zh": "超级冲刺赛（日）",
+      "zh-hint": "chaojichongcisai (ri)"
+    }
+  }
+}

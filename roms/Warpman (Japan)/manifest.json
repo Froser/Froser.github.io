@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 327,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ワープマン（日）",
+      "ja-hint": "ワープマン（にち）",
+      "zh": "太空青蛙（日）",
+      "zh-hint": "taikongqingwa (ri)"
+    }
+  }
+}

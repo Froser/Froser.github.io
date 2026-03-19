@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドラゴンスレイヤーIV ドラスレファミリー（米）",
+      "ja-hint": "ドラゴンスレイヤーIV ドラスレファミリー（べい）",
+      "zh": "屠龙剑4 - 屠龙家族（美）",
+      "zh-hint": "tulongjian4tulongjiazu(mei)"
+    }
+  }
+}

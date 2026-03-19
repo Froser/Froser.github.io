@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ＴＭネットワークライブインパワーボール（日）",
+      "ja-hint": "ＴＭネットワークライブインパワーボール（にち）",
+      "zh": "TM Network现场演奏会（日）",
+      "zh-hint": "TM Networkxianchangyanzouhui (ri)"
+    }
+  }
+}

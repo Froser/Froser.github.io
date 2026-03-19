@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Mighty Final Fight (Japan)": {
+      "height": 745,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Mighty Final Fight (Japan)": {
+      "ja": "マイティファイナルファイト（日）",
+      "zh": "快打旋风（日）"
+    },
+    "default": {
+      "ja": "マイティファイナルファイト（米）",
+      "ja-hint": "マイティファイナルファイト（べい）",
+      "zh": "快打旋风（美）",
+      "zh-hint": "kuaidaxuanfeng(mei)"
+    }
+  }
+}

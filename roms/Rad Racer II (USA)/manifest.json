@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ハイウェイスター（米）",
+      "ja-hint": "ハイウェイスター（べい）",
+      "zh": "公路之星2（美）",
+      "zh-hint": "gongluzhixing2 (mei)"
+    }
+  }
+}

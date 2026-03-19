@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 700,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ブレイクタイム：ザ　ナショナルプールツアー（米）",
+      "ja-hint": "ブレイクタイム：ザ　ナショナルプールツアー（べい）",
+      "zh": "休息时间：全国泳池巡回赛（美）",
+      "zh-hint": "xiuxishijian：quanguoyongchixunhuisai (mei)"
+    }
+  }
+}

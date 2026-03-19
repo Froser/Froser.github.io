@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "モンスターインマイポケット（米）",
+      "ja-hint": "モンスターインマイポケット（べい）",
+      "zh": "口袋里的魔鬼（美）",
+      "zh-hint": "koudailidemogui (mei)"
+    }
+  }
+}

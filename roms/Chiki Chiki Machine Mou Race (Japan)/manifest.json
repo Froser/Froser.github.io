@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Wacky Races (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 746,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Wacky Races (USA)": {
+      "ja": "チキチキマシン猛レース（米）",
+      "ja-hint": "チキチキマシンたけしレース（べい）",
+      "zh": "顽皮狗（美）",
+      "zh-hint": "wanpigou (mei)"
+    },
+    "default": {
+      "ja": "チキチキマシン猛レース（日）",
+      "ja-hint": "チキチキマシンたけしレース（にち）",
+      "zh": "顽皮狗（日）",
+      "zh-hint": "wanpigou (ri)"
+    }
+  }
+}

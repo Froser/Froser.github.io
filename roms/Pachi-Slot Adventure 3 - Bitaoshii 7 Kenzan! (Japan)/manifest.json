@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 337,
+      "width": 505
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パチスロアドベンチャー3 ビタオシー7見参（日）",
+      "ja-hint": "パチスロアドベンチャー3 ビタオシー7けんざん（にち）",
+      "zh": "帕青哥冒险3（日）",
+      "zh-hint": "paqinggemaoxian3 (ri)"
+    }
+  }
+}

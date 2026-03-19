@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "高橋名人のBugってハニー（日）",
+      "ja-hint": "たかはしめいじんのBugってハニー（にち）",
+      "zh": "高桥名人冒险岛外传（日）",
+      "zh-hint": "gaoqiaomingrenmaoxiandaowaichuan (ri)"
+    }
+  }
+}

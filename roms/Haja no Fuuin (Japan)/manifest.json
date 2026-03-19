@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 686,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "覇邪の封印（日）",
+      "ja-hint": "はじゃのふういん（にち）",
+      "zh": "霸邪封印（日）",
+      "zh-hint": "baxiefengyin (ri)"
+    }
+  }
+}

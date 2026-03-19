@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Al Unser Jr. Turbo Racing (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 342,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Al Unser Jr. Turbo Racing (USA)": {
+      "ja": "ワールドグランプリポールトウフィニッシュ（米）",
+      "ja-hint": "ワールドグランプリポールトウフィニッシュ（べい）",
+      "zh": "F1世界冠军杯赛车（美）",
+      "zh-hint": "F1shijieguanjunbeisaiche (mei)"
+    },
+    "default": {
+      "ja": "ワールドグランプリポールトウフィニッシュ（日）",
+      "ja-hint": "ワールドグランプリポールトウフィニッシュ（にち）",
+      "zh": "F1世界冠军杯赛车（日）",
+      "zh-hint": "F1shijieguanjunbeisaiche (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "時空の旅人（日）",
+      "ja-hint": "じくうのたびびと（にち）",
+      "zh": "时空旅人（日）",
+      "zh-hint": "shikonglvren (ri)"
+    }
+  }
+}

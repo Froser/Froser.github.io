@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 355,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャプテンシルバー（日）",
+      "ja-hint": "キャプテンシルバー（にち）",
+      "zh": "锡鲁巴船长（日）",
+      "zh-hint": "xilubachuanchang (ri)"
+    }
+  }
+}

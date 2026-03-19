@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 350,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "甲竜伝説ヴィルガスト外伝（日）",
+      "ja-hint": "かぶとりゅうでんせつヴィルガストがいでん（にち）",
+      "zh": "甲龙传说外传（日）",
+      "zh-hint": "jialongchuanshuowaichuan (ri)"
+    }
+  }
+}

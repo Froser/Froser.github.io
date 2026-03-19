@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Arkanoid (Japan)": {
+      "height": 497,
+      "width": 680
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Arkanoid (Japan)": {
+      "ja": "アルカノイド（日）",
+      "ja-hint": "アルカノイド（にち）",
+      "zh": "打砖块（日）",
+      "zh-hint": "dazhuankuai (ri)"
+    },
+    "default": {
+      "ja": "アルカノイド（米）",
+      "ja-hint": "アルカノイド（べい）",
+      "zh": "打砖块（美）",
+      "zh-hint": "dazhuankuai (mei)"
+    }
+  }
+}

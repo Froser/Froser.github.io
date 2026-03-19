@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "クラッシュボール（米）",
+      "ja-hint": "クラッシュボール（べい）",
+      "zh": "机器人手球赛（美）",
+      "zh-hint": "jiqirenshouqiusai(mei)"
+    }
+  }
+}

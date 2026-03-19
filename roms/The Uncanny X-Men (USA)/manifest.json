@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アンキャニィX-MEN（米）",
+      "ja-hint": "アンキャニィX-MEN（べい）",
+      "zh": "X战警（美）",
+      "zh-hint": "Xzhanjing (mei)"
+    }
+  }
+}

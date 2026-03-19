@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Hudson Hawk (Japan)": {
+      "height": 400,
+      "width": 267
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Hudson Hawk (Japan)": {
+      "ja": "ハドソン・ホーク（日）",
+      "ja-hint": "ハドソンホーク（にち）",
+      "zh": "哈德森之鹰（日）",
+      "zh-hint": "hadesenzhiying(ri)"
+    },
+    "default": {
+      "ja": "ハドソン・ホーク（米）",
+      "ja-hint": "ハドソンホーク（べい）",
+      "zh": "哈德森之鹰（美）",
+      "zh-hint": "hadesenzhiying(mei)"
+    }
+  }
+}

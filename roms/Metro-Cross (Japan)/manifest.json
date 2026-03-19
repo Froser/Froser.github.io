@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 750,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "メトロクロス（日）",
+      "ja-hint": "メトロクロス（にち）",
+      "zh": "追赶跑跳蹦（日）",
+      "zh-hint": "zhuiganpaotiaobeng (ri)"
+    }
+  }
+}

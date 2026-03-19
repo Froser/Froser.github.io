@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スターラスター（日）",
+      "ja-hint": "スターラスター（にち）",
+      "zh": "星空战机（日）",
+      "zh-hint": "xingkongzhanji (ri)"
+    }
+  }
+}

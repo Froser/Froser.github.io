@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ベストプレープロ野球2（日）",
+      "ja-hint": "ベストプレープロやきゅう2（にち）",
+      "zh": "亚斯基职业棒球2（日）",
+      "zh-hint": "yasijizhiyebangqiu2 (ri)"
+    }
+  }
+}

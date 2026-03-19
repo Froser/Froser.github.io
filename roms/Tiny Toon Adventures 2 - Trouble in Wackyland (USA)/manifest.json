@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "タイニー・トゥーン アドベンチャーズ2（米）",
+      "zh": "兔宝宝2（美）",
+      "zh-hint": "tubaobao2(mei)"
+    }
+  }
+}

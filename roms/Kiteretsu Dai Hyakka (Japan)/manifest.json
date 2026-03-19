@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キテレツ大百科（日）",
+      "ja-hint": "キテレツだいひゃっか（にち）",
+      "zh": "奇天烈大百科（日）",
+      "zh-hint": "qitianliedabaike(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホイール　オブ　フォーチュン（米）",
+      "ja-hint": "ホイール　オブ　フォーチュン（べい）",
+      "zh": "命运之轮（美）",
+      "zh-hint": "mingyunzhilun (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーブラックオニキス（日）",
+      "ja-hint": "スーパーブラックオニキス（にち）",
+      "zh": "超级黑石传说（日）",
+      "zh-hint": "chaojiheishichuanshuo (ri)"
+    }
+  }
+}

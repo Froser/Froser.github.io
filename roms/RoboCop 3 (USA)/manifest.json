@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロボコップ3（米）",
+      "ja-hint": "ロボコップ3（べい）",
+      "zh": "机器战警3（美）",
+      "zh-hint": "jiqizhanjing3 (mei)"
+    }
+  }
+}

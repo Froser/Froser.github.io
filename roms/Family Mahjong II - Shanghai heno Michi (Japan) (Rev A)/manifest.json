@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミリーマージャン2上海への道（日）",
+      "ja-hint": "ファミリーマージャン2しゃんはいへのみち（にち）",
+      "zh": "家庭麻将2（日）",
+      "zh-hint": "jiatingmajiang2 (ri)"
+    }
+  }
+}

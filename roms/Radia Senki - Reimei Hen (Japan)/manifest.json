@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 736,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ラディア戦記黎明篇（日）",
+      "ja-hint": "ラディアせんきれいめいへん（にち）",
+      "zh": "拉迪亚战记：黎明篇（日）",
+      "zh-hint": "ladiyazhanji：limingpian (ri)"
+    }
+  }
+}

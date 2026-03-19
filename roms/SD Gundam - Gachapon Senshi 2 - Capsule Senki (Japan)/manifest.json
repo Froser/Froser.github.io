@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "SDガンダムワールド ガチャポン戦士2 カプセル戦記（日）",
+      "ja-hint": "SDガンダムワールド ガチャポンせんし2 カプセルせんき（にち）",
+      "zh": "SD高达扭蛋战士2（日）",
+      "zh-hint": "SDgaodaniudanzhanshi2 (ri)"
+    }
+  }
+}

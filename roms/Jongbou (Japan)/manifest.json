@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "雀棒（日）",
+      "ja-hint": "じゃんぼう（にち）",
+      "zh": "雀棒（日）",
+      "zh-hint": "quebang(ri)"
+    }
+  }
+}

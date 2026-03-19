@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "落っことしパズル とんじゃん（日）",
+      "ja-hint": "おっことしパズル とんじゃん（にち）",
+      "zh": "小猪仓库番（日）",
+      "zh-hint": "xiaozhucangkufan (ri)"
+    }
+  }
+}

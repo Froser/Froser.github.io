@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 271,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "けっきょく南極大冒険（日）",
+      "ja-hint": "けっきょくなんきょくだいぼうけん（にち）",
+      "zh": "南极大冒险（日）",
+      "zh-hint": "nanjidabaoxian(ri)"
+    }
+  }
+}

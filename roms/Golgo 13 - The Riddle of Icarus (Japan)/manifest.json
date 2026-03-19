@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Golgo 13 - The Mafat Conspiracy (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "Golgo 13 - The Mafat Conspiracy (USA)": {
+      "ja": "ゴルゴ13 第二章イカロスの謎（米）",
+      "ja-hint": "ゴルゴ13 だいにしょうイカロスのなぞ（べい）",
+      "zh": "狙击13：第二章-伊卡尔斯之谜（美）",
+      "zh-hint": "juji13：dierzhang-yiqiaersizhimi (mei)"
+    },
+    "default": {
+      "ja": "ゴルゴ13 第二章イカロスの謎（日）",
+      "ja-hint": "ゴルゴ13 だいにしょうイカロスのなぞ（にち）",
+      "zh": "狙击13：第二章-伊卡尔斯之谜（日）",
+      "zh-hint": "juji13：dierzhang-yiqiaersizhimi (ri)"
+    }
+  }
+}

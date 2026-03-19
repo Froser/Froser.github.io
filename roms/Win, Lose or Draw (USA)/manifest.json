@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウィン、ルーズ　オア　ドロウ （米）",
+      "ja-hint": "ウィン、ルーズ　オア　ドロウ （べい）",
+      "zh": "赢、输、或平局（美）",
+      "zh-hint": "ying、shu、huopingju (mei)"
+    }
+  }
+}

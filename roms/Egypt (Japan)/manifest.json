@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エジプ（日）",
+      "zh": "埃及（日）",
+      "zh-hint": "aiji(ri)"
+    }
+  }
+}

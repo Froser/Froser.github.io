@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 730,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャッスル オブ ディーセイト（米）",
+      "ja-hint": "キャッスル オブ ディーセイト（べい）",
+      "zh": "欺骗城堡（美）",
+      "zh-hint": "qipianchengbao (mei)"
+    }
+  }
+}

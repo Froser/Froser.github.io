@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Uninvited (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Uninvited (USA)": {
+      "ja": "悪魔の招待状（米）",
+      "ja-hint": "あくまのしょうたいじょう（べい）",
+      "zh": "恶魔招待状（美）",
+      "zh-hint": "emozhaodaizhuang (mei)"
+    },
+    "default": {
+      "ja": "悪魔の招待状（日）",
+      "ja-hint": "あくまのしょうたいじょう（にち）",
+      "zh": "恶魔招待状（日）",
+      "zh-hint": "emozhaodaizhuang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 730,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "かってにシロクマ もりをすくえのまき（日）",
+      "ja-hint": "かってにシロクマ もりをすくえのまき（にち）",
+      "zh": "白熊历险记（日）",
+      "zh-hint": "baixionglixianji (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 512,
+      "width": 359
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "RCプロAM（米）",
+      "ja-hint": "RCプロAM（べい）",
+      "zh": "RC遥控赛车（美）",
+      "zh-hint": "RCyaokongsaiche (mei)"
+    }
+  }
+}

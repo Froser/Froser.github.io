@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 705,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "カリフォルニア　レーズン（米）",
+      "ja-hint": "カリフォルニア　レーズン（べい）",
+      "zh": "加州葡萄干：葡萄脱逃记（美）",
+      "zh-hint": "jiazhouputaogan：putaotuotaoji (mei)"
+    }
+  }
+}

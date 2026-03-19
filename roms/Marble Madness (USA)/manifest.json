@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マーブルマッドネス（米）",
+      "ja-hint": "マーブルマッドネス（べい）",
+      "zh": "疯狂弹珠（美）",
+      "zh-hint": "fengkuangdanzhu (mei)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Tiger-Heli (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Tiger-Heli (USA)": {
+      "ja": "タイガーヘリ（米）",
+      "ja-hint": "タイガーヘリ（べい）",
+      "zh": "虎式直升机（美）",
+      "zh-hint": "hushizhishengji (mei)"
+    },
+    "default": {
+      "ja": "タイガーヘリ（日）",
+      "ja-hint": "タイガーヘリ（にち）",
+      "zh": "虎式直升机（日）",
+      "zh-hint": "hushizhishengji (ri)"
+    }
+  }
+}

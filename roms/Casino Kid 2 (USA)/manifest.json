@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "カジノキッド2（米）",
+      "zh": "赌城小子2（美）",
+      "zh-hint": "duchengxiaozi2(mei)"
+    }
+  }
+}

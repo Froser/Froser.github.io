@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Sword Master (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 346,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Sword Master (USA)": {
+      "ja": "ソードマスター（米）",
+      "ja-hint": "ソードマスター（べい）",
+      "zh": "剑之达人（美）",
+      "zh-hint": "jianzhidaren (mei)"
+    },
+    "default": {
+      "ja": "ソードマスター（日）",
+      "ja-hint": "ソードマスター（にち）",
+      "zh": "剑之达人（日）",
+      "zh-hint": "jianzhidaren (ri)"
+    }
+  }
+}

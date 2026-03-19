@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 751,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エリュシオン（日）",
+      "ja-hint": "エリュシオン（にち）",
+      "zh": "勇士屠龙（日）",
+      "zh-hint": "yongshitulong (ri)"
+    }
+  }
+}

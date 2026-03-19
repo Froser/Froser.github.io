@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "伝説の騎士エルロンド2（米）",
+      "ja-hint": "でんせつのきしエルロンド2（べい）",
+      "zh": "巫师与勇士2 - 铁剑（美）",
+      "zh-hint": "wushiyuyongshi2tiejian(mei)"
+    }
+  }
+}

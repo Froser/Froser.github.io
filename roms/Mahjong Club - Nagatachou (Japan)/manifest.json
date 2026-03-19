@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "麻雀倶楽部永田町（日）",
+      "ja-hint": "マージャンクラブながたちょう（にち）",
+      "zh": "永田町麻将俱乐部（日）",
+      "zh-hint": "yongtiandingmajiangjulebu (ri)"
+    }
+  }
+}

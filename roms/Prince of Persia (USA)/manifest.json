@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プリンスオブペルシャ（米）",
+      "ja-hint": "プリンスオブペルシャ（べい）",
+      "zh": "波斯王子（美）",
+      "zh-hint": "bosiwangzi (mei)"
+    }
+  }
+}

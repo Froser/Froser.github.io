@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ビバ！ラスベガス（日）",
+      "ja-hint": "ビバ！ラスベガス（にち）",
+      "zh": "赌城拉斯维加斯（日）",
+      "zh-hint": "duchenglasiweijiasi (ri)"
+    }
+  }
+}

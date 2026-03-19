@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Mega Man 3 (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Mega Man 3 (USA)": {
+      "ja": "ロックマン3 - Dr.ワイリーの最後!?（米）",
+      "zh": "洛克人3 - 威利博士的末期!?（美）"
+    },
+    "default": {
+      "ja": "ロックマン3 - Dr.ワイリーの最後!?（日）",
+      "ja-hint": "ロックマン3 - Dr.ワイリーのさいご!?（にち）",
+      "zh": "洛克人3 - 威利博士的末期!?（日）",
+      "zh-hint": "luokeren3 - weiliboshidemoqi!?(ri)"
+    }
+  }
+}

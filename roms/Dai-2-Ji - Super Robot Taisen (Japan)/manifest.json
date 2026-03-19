@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 350,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "第２次スーパーロボット大戦（日）",
+      "ja-hint": "だいにつぎスーパーロボットたいせん（にち）",
+      "zh": "第2次超级机器人大战（日）",
+      "zh-hint": "di2cichaojijiqirendazhan (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "釣りキチ三平 ブルーマーリン編（日）",
+      "ja-hint": "つりキチさんぺい ブルーマーリンへん（にち）",
+      "zh": "天才小钓手（日）",
+      "zh-hint": "tiancaixiaodiaoshou (ri)"
+    }
+  }
+}

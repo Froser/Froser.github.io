@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウィジェット（米）",
+      "ja-hint": "ウィジェット（べい）",
+      "zh": "威捷特（美）",
+      "zh-hint": "weijiete (mei)"
+    }
+  }
+}

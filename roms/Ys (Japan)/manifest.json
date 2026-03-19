@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 352,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "イース（日）",
+      "ja-hint": "イース（にち）",
+      "zh": "伊苏（日）",
+      "zh-hint": "yisu (ri)"
+    }
+  }
+}

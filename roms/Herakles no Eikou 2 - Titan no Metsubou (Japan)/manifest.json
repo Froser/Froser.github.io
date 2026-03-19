@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ヘラクレスの栄光II タイタンの滅亡（日）",
+      "ja-hint": "ヘラクレスのえいこうII タイタンのめつぼう（にち）",
+      "zh": "大力士的光荣2：泰坦的灭亡（日）",
+      "zh-hint": "dalishideguangrong2：taitandemiewang (ri)"
+    }
+  }
+}

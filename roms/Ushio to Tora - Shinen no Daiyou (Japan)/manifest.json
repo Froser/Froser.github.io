@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "うしおととら 深淵の大妖（日）",
+      "ja-hint": "うしおととら しんえんのたいよう（にち）",
+      "zh": "魔力大马：深渊的大妖（日）",
+      "zh-hint": "molidama：shenyuandedayao (ri)"
+    }
+  }
+}

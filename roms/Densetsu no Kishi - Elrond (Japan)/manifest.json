@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 345,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "伝説の騎士エルロンド（日）",
+      "ja-hint": "でんせつのきしエルロンド（にち）",
+      "zh": "传说骑士：艾尔洛德（日）",
+      "zh-hint": "chuanshuoqishi：aierluode (ri)"
+    }
+  }
+}

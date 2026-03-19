@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Cobra Command (Japan)": {
+      "height": 349,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Cobra Command (Japan)": {
+      "ja": "コブラコマンド（日）",
+      "ja-hint": "コブラコマンド（にち）",
+      "zh": "眼镜蛇指挥官（日）",
+      "zh-hint": "yanjingshezhihuiguan (ri)"
+    },
+    "default": {
+      "ja": "コブラコマンド（米）",
+      "ja-hint": "コブラコマンド（べい）",
+      "zh": "眼镜蛇指挥官（美）",
+      "zh-hint": "yanjingshezhihuiguan (mei)"
+    }
+  }
+}

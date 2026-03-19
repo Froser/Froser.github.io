@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 740,
+      "width": 430
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "サマーカーニバル'92烈火（日）",
+      "ja-hint": "サマーカーニバル'92れっか（にち）",
+      "zh": "夏日嘉年华'92 烈火（日）",
+      "zh-hint": "xiarijianianhua'92 liehuo (ri)"
+    }
+  }
+}

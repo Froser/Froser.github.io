@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Super Mario Bros. 3 (Japan) (Rev A)": {
+      "height": 351,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Super Mario Bros. 3 (Japan) (Rev A)": {
+      "ja": "スーパーマリオブラザーズ3（日）",
+      "ja-hint": "スーパーマリオブラザーズ3（にち）",
+      "zh": "超级马里奥兄弟3（日）",
+      "zh-hint": "chaojimaliaoxiongdi3(mei) (ri)"
+    },
+    "default": {
+      "ja": "スーパーマリオブラザーズ3（米）",
+      "ja-hint": "スーパーマリオブラザーズ3（べい）",
+      "zh": "超级马里奥兄弟3（美）",
+      "zh-hint": "chaojimaliaoxiongdi3(mei)"
+    }
+  }
+}

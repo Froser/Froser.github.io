@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Journey to Silius (USA)": {
+      "height": 292,
+      "width": 400
+    },
+    "default": {
+      "height": 400,
+      "width": 279
+    }
+  },
+  "titles": {
+    "Journey to Silius (USA)": {
+      "ja": "ラフワールド（米）",
+      "zh": "最终殖民地（美）"
+    },
+    "default": {
+      "ja": "ラフワールド（日）",
+      "ja-hint": "ラフワールド（にち）",
+      "zh": "最终殖民地（日）",
+      "zh-hint": "zuizhongzhimingdi(ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プロレス（米）",
+      "ja-hint": "プロレス（べい）",
+      "zh": "职业摔角（美）",
+      "zh-hint": "zhiyeshuaijiao (mei)"
+    }
+  }
+}

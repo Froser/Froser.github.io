@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バトルストーム（日）",
+      "ja-hint": "バトルストーム（にち）",
+      "zh": "战斗风暴（日）",
+      "zh-hint": "zhandoufengbao (ri)"
+    }
+  }
+}

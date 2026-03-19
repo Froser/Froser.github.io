@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジェームズ ボンド（米）",
+      "zh": "小詹姆斯 邦德（美）",
+      "zh-hint": "xiaozhanmusi.bangde(mei)"
+    }
+  }
+}

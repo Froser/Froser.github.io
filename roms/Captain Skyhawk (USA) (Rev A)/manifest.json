@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キャプテン スカイホーク（米）",
+      "ja-hint": "キャプテン スカイホーク（べい）",
+      "zh": "隼鹰上尉（美）",
+      "zh-hint": "sunyingshangwei (mei)"
+    }
+  }
+}

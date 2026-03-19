@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Willow (Japan)": {
+      "height": 741,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Willow (Japan)": {
+      "ja": "ウィロー（日）",
+      "ja-hint": "ウィロー（にち）",
+      "zh": "威洛之旅（日）",
+      "zh-hint": "weiluozhilv (ri)"
+    },
+    "default": {
+      "ja": "ウィロー（米）",
+      "ja-hint": "ウィロー（べい）",
+      "zh": "威洛之旅（美）",
+      "zh-hint": "weiluozhilv (mei)"
+    }
+  }
+}

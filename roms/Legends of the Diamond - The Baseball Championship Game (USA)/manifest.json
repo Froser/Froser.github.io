@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "レジェンド　オブ　ザ　ダイヤモンド（米）",
+      "ja-hint": "レジェンド　オブ　ザ　ダイヤモンド（べい）",
+      "zh": "Bandai棒球-钻石传奇（美）",
+      "zh-hint": "Bandaibangqiu-zuanshichuanqi (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "カリフォルニア　ゲーム（米）",
+      "ja-hint": "カリフォルニア　ゲーム（べい）",
+      "zh": "加州游戏（美）",
+      "zh-hint": "jiazhouyouxi (mei)"
+    }
+  }
+}

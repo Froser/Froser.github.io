@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "魔神英雄伝ワタル外伝（日）",
+      "ja-hint": "まじんえいゆうでんワタルがいでん（にち）",
+      "zh": "魔神英雄传外传（日）",
+      "zh-hint": "moshenyingxiongchuanwaichuan (ri)"
+    }
+  }
+}

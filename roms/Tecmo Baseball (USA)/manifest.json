@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テクモベースボール（米）",
+      "ja-hint": "テクモベースボール（べい）",
+      "zh": "特库摩棒球（美）",
+      "zh-hint": "tekumobangqiu (mei)"
+    }
+  }
+}

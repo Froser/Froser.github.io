@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 337,
+      "width": 505
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パチ夫くん5（日）",
+      "ja-hint": "パチおっとくん5（にち）",
+      "zh": "帕青夫君5（日）",
+      "zh-hint": "paqingfujun5 (ri)"
+    }
+  }
+}

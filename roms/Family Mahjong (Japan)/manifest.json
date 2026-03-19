@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 729,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミリーマージャン（日）",
+      "ja-hint": "ファミリーマージャン（にち）",
+      "zh": "家庭麻将（日）",
+      "zh-hint": "jiatingmajiang (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "メジャーリーグベースボール（米）",
+      "ja-hint": "メジャーリーグベースボール（べい）",
+      "zh": "美国职业棒球大联盟（美）",
+      "zh-hint": "meiguozhiyebangqiudalianmeng (mei)"
+    }
+  }
+}

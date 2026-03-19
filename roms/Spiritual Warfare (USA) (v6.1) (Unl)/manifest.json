@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スピリチュアル ウォーフェア（米）",
+      "ja-hint": "スピリチュアル ウォーフェア（べい）",
+      "zh": "精神战争（美）",
+      "zh-hint": "jingshenzhanzheng (mei)"
+    }
+  }
+}

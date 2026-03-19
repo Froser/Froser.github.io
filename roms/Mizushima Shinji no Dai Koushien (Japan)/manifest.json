@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 767,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "水島新司の大甲子園（日）",
+      "ja-hint": "みずしましんじのだいこうしえん（にち）",
+      "zh": "水岛新司的大甲子园（日）",
+      "zh-hint": "shuidaoxinsidedajiaziyuan (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーアラビアン（日）",
+      "ja-hint": "スーパーアラビアン（にち）",
+      "zh": "辛巴达（日）",
+      "zh-hint": "xinbada (ri)"
+    }
+  }
+}

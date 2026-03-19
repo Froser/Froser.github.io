@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザ　ミュータント ウイルス（米）",
+      "ja-hint": "ザ　ミュータント ウイルス（べい）",
+      "zh": "突变体病毒（美）",
+      "zh-hint": "tubiantibingdu (mei)"
+    }
+  }
+}

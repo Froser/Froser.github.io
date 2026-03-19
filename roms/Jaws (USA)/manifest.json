@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジョーズ（米）",
+      "ja-hint": "ジョーズ（べい）",
+      "zh": "大白鲨（美）",
+      "zh-hint": "dabaisha(mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 351,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "すごろクエスト　ダイスの戦士たち（日）",
+      "ja-hint": "すごろクエスト　ダイスのせんしたち（にち）",
+      "zh": "王者密令（日）",
+      "zh-hint": "wangzhemiling (ri)"
+    }
+  }
+}

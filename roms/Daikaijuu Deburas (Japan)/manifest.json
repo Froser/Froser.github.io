@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 756,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "大怪獣デブラス（日）",
+      "ja-hint": "だいかいじゅうデブラス（にち）",
+      "zh": "大怪兽得普拉斯（日）",
+      "zh-hint": "daguaishoudepulasi (ri)"
+    }
+  }
+}

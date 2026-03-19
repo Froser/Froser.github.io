@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 737,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ウィザードリィ2 リルガミンの遺産（日）",
+      "ja-hint": "ウィザードリィ2 リルガミンのいさん（にち）",
+      "zh": "巫术2：利加敏的遗产（日）",
+      "zh-hint": "wuzhu2：lijiamindeyichan (ri)"
+    }
+  }
+}

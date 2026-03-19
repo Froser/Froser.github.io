@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジュラシック・パーク（米）",
+      "ja-hint": "ジュラシック・パーク（べい）",
+      "zh": "侏罗纪公园（美）",
+      "zh-hint": "zhuluojigongyuan(mei)"
+    }
+  }
+}

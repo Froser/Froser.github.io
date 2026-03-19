@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 800,
+      "width": 560
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テニス（日、米）",
+      "ja-hint": "テニス（にち、べい）",
+      "zh": "网球（日，美）",
+      "zh-hint": " (ri, mei)"
+    }
+  }
+}

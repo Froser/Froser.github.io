@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Code Name - Viper (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Code Name - Viper (USA)": {
+      "ja": "人間兵器デッドフォックス（米）",
+      "zh": "人间兵器（美）"
+    },
+    "default": {
+      "ja": "人間兵器デッドフォックス（日）",
+      "ja-hint": "にんげんへいきデッドフォックス（にち）",
+      "zh": "人间兵器（日）",
+      "zh-hint": "renjianbingqi(ri)"
+    }
+  }
+}

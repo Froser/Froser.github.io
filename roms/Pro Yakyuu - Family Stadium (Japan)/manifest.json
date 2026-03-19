@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 739,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プロ野球ファミリースタジアム（日）",
+      "ja-hint": "プロやきゅうファミリースタジアム（にち）",
+      "zh": "职业棒球 家庭竞技场（日）",
+      "zh-hint": "zhiyebangqiu jiatingjingjichang (ri)"
+    }
+  }
+}

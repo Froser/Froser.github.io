@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゴーストバスターズ2（米）",
+      "ja-hint": "ゴーストバスターズ2（べい）",
+      "zh": "魔鬼克星2（美）",
+      "zh-hint": "moguikexing2 (mei)"
+    }
+  }
+}

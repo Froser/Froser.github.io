@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "マッハライダー（美）",
+      "ja-hint": "マッハライダー（べい）",
+      "zh": "超音速机车赛（美）",
+      "zh-hint": "chaoyinsujichesai (mei)"
+    }
+  }
+}

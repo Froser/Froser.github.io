@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロボコップVSターミネーター（米）",
+      "ja-hint": "ロボコップVSターミネーター（べい）",
+      "zh": "机器战警对终结者（美）",
+      "zh-hint": "jiqizhanjingduizhongjiezhe (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 704,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "インディジョーンズ 最後の聖戦（米）",
+      "ja-hint": "インディジョーンズ さいごのせいせん（べい）",
+      "zh": "夺宝奇兵3：圣战奇兵（美）",
+      "zh-hint": "duobaoqibing3：shengzhanqibing (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "I LOVE ソフトボール（日）",
+      "ja-hint": "I LOVE ソフトボール（にち）",
+      "zh": "软垒大赛（日）",
+      "zh-hint": "ruanleidasai (ri)"
+    }
+  }
+}

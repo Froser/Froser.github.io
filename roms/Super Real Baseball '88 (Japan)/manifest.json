@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパーリアルベースボール（日）",
+      "ja-hint": "スーパーリアルベースボール（にち）",
+      "zh": "超级实战棒球88版（日）",
+      "zh-hint": "chaojishizhanbangqiu88ban (ri)"
+    }
+  }
+}

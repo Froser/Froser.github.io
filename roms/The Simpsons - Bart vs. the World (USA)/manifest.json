@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ザシンプソンズ: バート vs. ザワールド（米）",
+      "ja-hint": "ザシンプソンズ: バート vs. ザワールド（べい）",
+      "zh": "辛普森一家 - 巴特对战世界（美）",
+      "zh-hint": "xinpusenyijia - bateduizhanshijie (mei)"
+    }
+  }
+}

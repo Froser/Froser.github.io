@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 337,
+      "width": 505
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "おぼっちゃまくん（日）",
+      "ja-hint": "おぼっちゃまくん（にち）",
+      "zh": "敲竹杠君（日）",
+      "zh-hint": "qiaozhugangjun (ri)"
+    }
+  }
+}

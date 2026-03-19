@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 738,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ちいさなおばけアッチコッチソッチ（日）",
+      "ja-hint": "ちいさなおばけアッチコッチソッチ（にち）",
+      "zh": "小小妖怪阿奇（日）",
+      "zh-hint": "xiaoxiaoyaoguaiaqi (ri)"
+    }
+  }
+}

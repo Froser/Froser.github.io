@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ロケッティア（米）",
+      "ja-hint": "ロケッティア（べい）",
+      "zh": "火箭人（美）",
+      "zh-hint": "huojianren (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "WWFレッスルマニア（米）",
+      "ja-hint": "WWFレッスルマニア（べい）",
+      "zh": "摔角狂热大赛（美）",
+      "zh-hint": "shuaijiaokuangredasai (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スペランカーII 勇者への挑戦（日）",
+      "ja-hint": "スペランカーII ゆうしゃへのちょうせん（にち）",
+      "zh": "地下冒险2：勇者的挑战（日）",
+      "zh-hint": "dixiamaoxian2：yongzhedetiaozhan (ri)"
+    }
+  }
+}

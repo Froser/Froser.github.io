@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "アラビアンドリーム シェラザード（米）",
+      "ja-hint": "アラビアンドリーム シェラザード（べい）",
+      "zh": "阿拉伯之梦（美）",
+      "zh-hint": "alabozhimeng (mei)"
+    }
+  }
+}

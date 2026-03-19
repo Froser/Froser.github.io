@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ジョシュア＆ジェリコの戦い（米）",
+      "ja-hint": "ジョシュア＆ジェリコのたたかい（べい）",
+      "zh": "约书亚与耶利哥之战（美）",
+      "zh-hint": "yueshuyayuyeligezhizhan (mei)"
+    }
+  }
+}

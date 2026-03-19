@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ゲイモス（日）",
+      "ja-hint": "ゲイモス（にち）",
+      "zh": "宇宙大射击（日）",
+      "zh-hint": "yuzhoudasheji (ri)"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "NES Open Tournament Golf (USA)": {
+      "height": 512,
+      "width": 359
+    },
+    "default": {
+      "height": 512,
+      "width": 352
+    }
+  },
+  "titles": {
+    "NES Open Tournament Golf (USA)": {
+      "ja": "マリオオープンゴルフ（米）",
+      "ja-hint": "マリオオープンゴルフ（べい）",
+      "zh": "马里奥高尔夫（美）",
+      "zh-hint": "maliaogaoerfu (mei)"
+    },
+    "default": {
+      "ja": "マリオオープンゴルフ（日）",
+      "ja-hint": "マリオオープンゴルフ（にち）",
+      "zh": "马里奥高尔夫（日）",
+      "zh-hint": "maliaogaoerfu (ri)"
+    }
+  }
+}

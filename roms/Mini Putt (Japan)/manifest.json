@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 737,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ミニパット（日）",
+      "ja-hint": "ミニパット（にち）",
+      "zh": "迷你高尔夫（日）",
+      "zh-hint": "minigaoerfu (ri)"
+    }
+  }
+}

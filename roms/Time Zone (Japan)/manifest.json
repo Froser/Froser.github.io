@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "たいむゾーン（日）",
+      "ja-hint": "たいむゾーン（にち）",
+      "zh": "时空地带（日）",
+      "zh-hint": "shikongdidai (ri)"
+    }
+  }
+}

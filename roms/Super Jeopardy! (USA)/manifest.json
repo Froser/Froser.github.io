@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スーパージェパディ（米）",
+      "ja-hint": "スーパージェパディ（べい）",
+      "zh": "超级危险边缘（美）",
+      "zh-hint": "chaojiweixianbianyuan (mei)"
+    }
+  }
+}

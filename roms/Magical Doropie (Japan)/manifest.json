@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Krion Conquest (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "The Krion Conquest (USA)": {
+      "ja": "まじかるキッズどろぴー（米）",
+      "ja-hint": "まじかるキッズどろぴー（べい）",
+      "zh": "小魔女皮皮（美）",
+      "zh-hint": "xiaomonvpipi (mei)"
+    },
+    "default": {
+      "ja": "まじかるキッズどろぴー（日）",
+      "ja-hint": "まじかるキッズどろぴー（にち）",
+      "zh": "小魔女皮皮（日）",
+      "zh-hint": "xiaomonvpipi(ri)"
+    }
+  }
+}

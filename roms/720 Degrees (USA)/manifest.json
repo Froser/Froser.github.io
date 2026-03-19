@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "720ディグリーズ（米）",
+      "ja-hint": "720ディグリーズ（べい）",
+      "zh": "720度滑板（美）",
+      "zh-hint": "720duhuaban (mei)"
+    }
+  }
+}

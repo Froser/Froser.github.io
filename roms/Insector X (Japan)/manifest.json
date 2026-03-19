@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 666,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "インセクターＸ（日）",
+      "ja-hint": "インセクターＸ（にち）",
+      "zh": "昆虫大战（日）",
+      "zh-hint": "kunchongdazhan (ri)"
+    }
+  }
+}

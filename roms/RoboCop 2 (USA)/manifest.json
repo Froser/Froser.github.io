@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "RoboCop 2 (Japan)": {
+      "height": 739,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "RoboCop 2 (Japan)": {
+      "ja": "ロボコップ2（日）",
+      "ja-hint": "ロボコップ2（にち）",
+      "zh": "机器战警2（日）",
+      "zh-hint": "jiqizhanjing2 (ri)"
+    },
+    "default": {
+      "ja": "ロボコップ2（米）",
+      "ja-hint": "ロボコップ2（べい）",
+      "zh": "机器战警2（美）",
+      "zh-hint": "jiqizhanjing2 (mei)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダークマン（米）",
+      "zh": "变形黑侠（美）",
+      "zh-hint": "bianxingheixia(mei)"
+    }
+  }
+}

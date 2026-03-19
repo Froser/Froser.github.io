@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 347,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "Ｆ１レース（日）",
+      "ja-hint": "Ｆ１レース（にち）",
+      "zh": "F1赛车（日）",
+      "zh-hint": "F1saiche (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダンジョンキッド（日）",
+      "ja-hint": "ダンジョンキッド（にち）",
+      "zh": "迷宫小子（日）",
+      "zh-hint": "migongxiaozi (ri)"
+    }
+  }
+}

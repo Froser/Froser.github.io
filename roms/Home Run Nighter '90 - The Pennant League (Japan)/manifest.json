@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホームランナイター'90（日）",
+      "ja-hint": "ホームランナイター'90（にち）",
+      "zh": "全垒打王90（日）",
+      "zh-hint": "quanleidawang90 (ri)"
+    }
+  }
+}

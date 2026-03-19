@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "テイルスピン（米）",
+      "ja-hint": "テイルスピン（べい）",
+      "zh": "航空小英雄（美）",
+      "zh-hint": "hangkongxiaoyingxiong (mei)"
+    }
+  }
+}

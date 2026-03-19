@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 715,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "維新の嵐（日）",
+      "ja-hint": "いしんのあらし（にち）",
+      "zh": "维新之岚（日）",
+      "zh-hint": "weixinzhilan (ri)"
+    }
+  }
+}

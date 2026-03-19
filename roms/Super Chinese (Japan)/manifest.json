@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Kung-Fu Heroes (USA)": {
+      "height": 400,
+      "width": 292
+    },
+    "default": {
+      "height": 267,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Kung-Fu Heroes (USA)": {
+      "ja": "スーパーチャイニーズ（米）",
+      "zh": "超级中国人（美）"
+    },
+    "default": {
+      "ja": "スーパーチャイニーズ（日）",
+      "ja-hint": "スーパーチャイニーズ（にち）",
+      "zh": "超级中国人（日）",
+      "zh-hint": "chaojizhongguoren (ri)"
+    }
+  }
+}

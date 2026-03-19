@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "光の戦士フォトン（日）",
+      "ja-hint": "ひかりのせんしフォトン（にち）",
+      "zh": "光战士（日）",
+      "zh-hint": "guangzhanshi (ri)"
+    }
+  }
+}

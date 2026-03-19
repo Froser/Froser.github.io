@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 735,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ふしぎの海のナディア（日）",
+      "ja-hint": "ふしぎのうみのナディア（にち）",
+      "zh": "冒险少女娜汀亚（日）",
+      "zh-hint": "maoxianshaonvnuotingya (ri)"
+    }
+  }
+}

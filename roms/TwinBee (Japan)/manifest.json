@@ -1,0 +1,15 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 274,
+      "width": 400
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ツインビー（日）",
+      "zh": "兵蜂（日）",
+      "zh-hint": "bingfeng(ri)"
+    }
+  }
+}

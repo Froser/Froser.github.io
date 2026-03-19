@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Hammerin' Harry (Europe)": {
+      "height": 362,
+      "width": 256
+    },
+    "default": {
+      "height": 292,
+      "width": 400
+    }
+  },
+  "titles": {
+    "Hammerin' Harry (Europe)": {
+      "ja": "大工の源さん（欧）",
+      "ja-hint": "だいくのげんさん（おう）",
+      "zh": "大力工头阿源君（欧）",
+      "zh-hint": "daligongtouayuanjun (ou)"
+    },
+    "default": {
+      "ja": "大工の源さん（日）",
+      "ja-hint": "だいくのげんさん（にち）",
+      "zh": "大力工头阿源君（日）",
+      "zh-hint": "daligongtouayuanjun (ri)"
+    }
+  }
+}

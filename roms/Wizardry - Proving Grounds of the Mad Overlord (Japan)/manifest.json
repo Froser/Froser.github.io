@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Wizardry - Proving Grounds of the Mad Overlord (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 742,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Wizardry - Proving Grounds of the Mad Overlord (USA)": {
+      "ja": "ウィザードリィ（米）",
+      "ja-hint": "ウィザードリィ（べい）",
+      "zh": "巫术：疯狂领主的试验场（美）",
+      "zh-hint": "wuzhu：fengkuanglingzhudeshiyanchang (mei)"
+    },
+    "default": {
+      "ja": "ウィザードリィ（日）",
+      "ja-hint": "ウィザードリィ（にち）",
+      "zh": "巫术：疯狂领主的试验场（日）",
+      "zh-hint": "wuzhu：fengkuanglingzhudeshiyanchang (ri)"
+    }
+  }
+}

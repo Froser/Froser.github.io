@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "トータルリコール（米）",
+      "ja-hint": "トータルリコール（べい）",
+      "zh": "全面回忆（美）",
+      "zh-hint": "quanmianhuiyi (mei)"
+    }
+  }
+}

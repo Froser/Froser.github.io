@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ホイール　オブ　フォーチュン　家族版（米）",
+      "ja-hint": "ホイール　オブ　フォーチュン　かぞくはん（べい）",
+      "zh": "命运之轮家庭版（美）",
+      "zh-hint": "mingyunzhilunjiatingban (mei)"
+    }
+  }
+}

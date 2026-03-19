@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "三ばか大将（米）",
+      "ja-hint": "さんばかたいしょう（べい）",
+      "zh": "活宝三人组（美）",
+      "zh-hint": "huobaosanrenzu (mei)"
+    }
+  }
+}

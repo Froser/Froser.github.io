@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "バンダイ ゴルフ（米）",
+      "ja-hint": "バンダイ ゴルフ（べい）",
+      "zh": "万代高尔夫（美）",
+      "zh-hint": "wandaigaoerfu (mei)"
+    }
+  }
+}

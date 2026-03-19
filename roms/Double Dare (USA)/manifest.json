@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ダブルダア（米）",
+      "ja-hint": "ダブルダア（べい）",
+      "zh": "双重挑战（美）",
+      "zh-hint": "shuangzhongtiaozhan (mei)"
+    }
+  }
+}

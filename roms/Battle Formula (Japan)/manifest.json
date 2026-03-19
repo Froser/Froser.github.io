@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Super Spy Hunter (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "Super Spy Hunter (USA)": {
+      "ja": "バトルフォーミュラ（米）",
+      "ja-hint": "バトルフォーミュラ（べい）",
+      "zh": "战斗方程式赛车（美）",
+      "zh-hint": "zhandoufangchengshisaiche(ri) (mei)"
+    },
+    "default": {
+      "ja": "バトルフォーミュラ（日）",
+      "ja-hint": "バトルフォーミュラ（にち）",
+      "zh": "战斗方程式赛车（日）",
+      "zh-hint": "zhandoufangchengshisaiche(ri)"
+    }
+  }
+}

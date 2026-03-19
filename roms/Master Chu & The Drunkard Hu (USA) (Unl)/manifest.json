@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 362,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "武侠怪盗英雄剣　楚留香（米）",
+      "ja-hint": "ぶきょうかいとうえいゆうつるぎ　そるか（べい）",
+      "zh": "盗帅楚留香（美）",
+      "zh-hint": "daoshuaichuliuxiang (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "早打ちスーパー囲碁（日）",
+      "ja-hint": "はやうちスーパーいご（にち）",
+      "zh": "超级围棋（日）",
+      "zh-hint": "chaojiweiqi(ri)"
+    }
+  }
+}

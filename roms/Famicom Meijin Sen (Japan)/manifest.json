@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ファミコン名人戦（日）",
+      "ja-hint": "ファミコンめいじんせん（にち）",
+      "zh": "任天堂名人战（日）",
+      "zh-hint": "rentiantangmingrenzhan (ri)"
+    }
+  }
+}

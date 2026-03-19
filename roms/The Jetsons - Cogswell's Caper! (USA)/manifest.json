@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Jetsons - Cogswell's Caper! (Japan)": {
+      "height": 680,
+      "width": 497
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "The Jetsons - Cogswell's Caper! (Japan)": {
+      "ja": "宇宙家族ジェットソン（日）",
+      "ja-hint": "うちゅうかぞくジェットソン（にち）",
+      "zh": "杰特森一家 - 科格斯韦尔的恶作剧（日）",
+      "zh-hint": "jiesenteyijiakegesiweierdeezuoju(mei) (ri)"
+    },
+    "default": {
+      "ja": "宇宙家族ジェットソン（米）",
+      "ja-hint": "うちゅうかぞくジェットソン（べい）",
+      "zh": "杰特森一家 - 科格斯韦尔的恶作剧（美）",
+      "zh-hint": "jiesenteyijiakegesiweierdeezuoju(mei)"
+    }
+  }
+}

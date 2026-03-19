@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "田代まさしのプリンセスがいっぱい（日）",
+      "ja-hint": "たしろまさしのプリンセスがいっぱい（にち）",
+      "zh": "田代君（日）",
+      "zh-hint": "tiandaijun (ri)"
+    }
+  }
+}

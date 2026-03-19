@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 328,
+      "width": 521
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スペースインベーダー（日）",
+      "ja-hint": "スペースインベーダー（にち）",
+      "zh": "太空侵略者（日）",
+      "zh-hint": "taikongqinlvezhe (ri)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 354,
+      "width": 256
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エクソドス（米）",
+      "ja-hint": "エクソドス（べい）",
+      "zh": "出埃及记（美）",
+      "zh-hint": "chuaijiji (mei)"
+    }
+  }
+}

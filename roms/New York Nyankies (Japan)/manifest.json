@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Rockin' Kats (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 738,
+      "width": 512
+    }
+  },
+  "titles": {
+    "Rockin' Kats (USA)": {
+      "ja": "ニューヨークニャンキーズ（日）",
+      "zh": "纽约大拳猫（日）"
+    },
+    "default": {
+      "ja": "ニューヨークニャンキーズ（日）",
+      "ja-hint": "ニューヨークニャンキーズ（にち）",
+      "zh": "纽约大拳猫（日）",
+      "zh-hint": "niuyuedaquanmao (ri)"
+    }
+  }
+}

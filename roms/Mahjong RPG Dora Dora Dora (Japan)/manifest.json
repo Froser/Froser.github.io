@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 737,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ドラ！ドラ！ドラ！（日）",
+      "ja-hint": "ドラ！ドラ！ドラ！（にち）",
+      "zh": "多拉麻将（日）",
+      "zh-hint": "duolamajiang (ri)"
+    }
+  }
+}

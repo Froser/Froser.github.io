@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "がんばれゴエモン！からくり道中（日）",
+      "ja-hint": "がんばれゴエモン！からくりどうちゅう（にち）",
+      "zh": "大盗五佑卫门（日）",
+      "zh-hint": "dadaowuyouweimen (ri)"
+    }
+  }
+}

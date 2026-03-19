@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 680,
+      "width": 497
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ぷよぷよ（日）",
+      "ja-hint": "ぷよぷよ（にち）",
+      "zh": "魔法气泡（日）",
+      "zh-hint": "mofaqipao (ri)"
+    }
+  }
+}

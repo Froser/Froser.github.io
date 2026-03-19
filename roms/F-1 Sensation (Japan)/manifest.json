@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 291
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "エフワン センセーション（日）",
+      "ja-hint": "エフワン センセーション（にち）",
+      "zh": "新F1赛车（日）",
+      "zh-hint": "xinf1saiche (ri)"
+    }
+  }
+}

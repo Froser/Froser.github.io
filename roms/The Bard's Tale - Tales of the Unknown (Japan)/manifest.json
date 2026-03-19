@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "The Bard's Tale - Tales of the Unknown (USA)": {
+      "height": 731,
+      "width": 512
+    },
+    "default": {
+      "height": 353,
+      "width": 512
+    }
+  },
+  "titles": {
+    "The Bard's Tale - Tales of the Unknown (USA)": {
+      "ja": "バーズテイル 知られざる物語（米）",
+      "ja-hint": "バーズテイル しられざるものがたり（べい）",
+      "zh": "冰城传奇：未知的故事（美）",
+      "zh-hint": "bingchengchuanqi：weizhidegushi (mei)"
+    },
+    "default": {
+      "ja": "バーズテイル 知られざる物語（日）",
+      "ja-hint": "バーズテイル しられざるものがたり（にち）",
+      "zh": "冰城传奇：未知的故事（日）",
+      "zh-hint": "bingchengchuanqi：weizhidegushi (ri)"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Gun Nac (Japan)": {
+      "height": 400,
+      "width": 278
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Gun Nac (Japan)": {
+      "ja": "ガンナック（日）",
+      "zh": "加纳战机（日）",
+      "zh-hint": "jianazhanji(ri)"
+    },
+    "default": {
+      "ja": "ガンナック（米）",
+      "zh": "加纳战机（美）",
+      "zh-hint": "jianazhanji(mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 400,
+      "width": 267
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "機動戦士Zガンダム（日）",
+      "ja-hint": "きどうせんしZガンダム（にち）",
+      "zh": "机动战士Z高达（日）",
+      "zh-hint": "jidongzhanshiZgaoda (ri)"
+    }
+  }
+}

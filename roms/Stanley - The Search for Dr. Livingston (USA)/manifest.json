@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "スタンリー（米）",
+      "ja-hint": "スタンリー（べい）",
+      "zh": "赤柱：寻找医生利文斯顿",
+      "zh-hint": "chizhu：xunzhaoyishengliwensidun"
+    }
+  }
+}

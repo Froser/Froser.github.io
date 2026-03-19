@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 743,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "飛龍の拳3 5人の龍戦士（日）",
+      "ja-hint": "ひりゅうのこぶし3 5にんのりゅうせんし（にち）",
+      "zh": "飞龙之拳3：5人的龙战士（日）",
+      "zh-hint": "feilongzhiquan3：5rendelongzhanshi (ri)"
+    }
+  }
+}

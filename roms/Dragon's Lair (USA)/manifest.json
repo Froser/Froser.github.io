@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Dragon's Lair (Japan)": {
+      "height": 356,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Dragon's Lair (Japan)": {
+      "ja": "ドラゴンズレア（日）",
+      "ja-hint": "ドラゴンズレア（にち）",
+      "zh": "龙穴历险记（日）",
+      "zh-hint": "longxuelixianji (ri)"
+    },
+    "default": {
+      "ja": "ドラゴンズレア（米）",
+      "ja-hint": "ドラゴンズレア（べい）",
+      "zh": "龙穴历险记（美）",
+      "zh-hint": "longxuelixianji (mei)"
+    }
+  }
+}

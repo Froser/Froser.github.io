@@ -1,0 +1,24 @@
+{
+  "boxarts": {
+    "Wario's Woods (USA)": {
+      "height": 400,
+      "width": 291
+    },
+    "default": {
+      "height": 400,
+      "width": 278
+    }
+  },
+  "titles": {
+    "Wario's Woods (USA)": {
+      "ja": "ワリオの森（米）",
+      "zh": "瓦里奥之森（美）"
+    },
+    "default": {
+      "ja": "ワリオの森（日）",
+      "ja-hint": "ワリオのもり（にち）",
+      "zh": "瓦里奥之森（日）",
+      "zh-hint": "waliaozhisen(ri)"
+    }
+  }
+}

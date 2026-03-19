@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 382,
+      "width": 550
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "プロ野球？殺人事件！（日）",
+      "ja-hint": "プロやきゅう？さつじんじけん！（にち）",
+      "zh": "职业棒球杀人事件（日）",
+      "zh-hint": "zhiyebangqiusharenshijian (ri)"
+    }
+  }
+}

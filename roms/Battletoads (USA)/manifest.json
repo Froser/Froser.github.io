@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "Battletoads (Japan)": {
+      "height": 360,
+      "width": 512
+    },
+    "default": {
+      "height": 400,
+      "width": 292
+    }
+  },
+  "titles": {
+    "Battletoads (Japan)": {
+      "ja": "バトルトード（日）",
+      "ja-hint": "バトルトード（にち）",
+      "zh": "忍者蛙（日）",
+      "zh-hint": "renzhewa (ri)"
+    },
+    "default": {
+      "ja": "バトルトード（米）",
+      "ja-hint": "バトルトード（べい）",
+      "zh": "忍者蛙（美）",
+      "zh-hint": "renzhewa (mei)"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 765,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "獣王記（米）",
+      "ja-hint": "じゅうおうき（べい）",
+      "zh": "兽王记（美）",
+      "zh-hint": "shouwangji (mei)"
+    }
+  }
+}

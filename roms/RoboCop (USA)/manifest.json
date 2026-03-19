@@ -1,0 +1,26 @@
+{
+  "boxarts": {
+    "RoboCop (Japan)": {
+      "height": 761,
+      "width": 512
+    },
+    "default": {
+      "height": 731,
+      "width": 512
+    }
+  },
+  "titles": {
+    "RoboCop (Japan)": {
+      "ja": "ロボコップ（日）",
+      "ja-hint": "ロボコップ（にち）",
+      "zh": "机器战警（日）",
+      "zh-hint": "jiqizhanjing (ri)"
+    },
+    "default": {
+      "ja": "ロボコップ（米）",
+      "ja-hint": "ロボコップ（べい）",
+      "zh": "机器战警（美）",
+      "zh-hint": "jiqizhanjing (mei)"
+    }
+  }
+}

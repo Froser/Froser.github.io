@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 358,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "ワイリー&ライトのロックボード ザッツパラダイス（日）",
+      "ja-hint": "ワイリー&ライトのロックボード ザッツパラダイス（にち）",
+      "zh": "洛克人大富翁（日）",
+      "zh-hint": "luokerendafuweng (ri)"
+    }
+  }
+}

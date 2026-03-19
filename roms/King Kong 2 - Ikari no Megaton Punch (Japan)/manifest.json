@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 361,
+      "width": 512
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "キングコング2 怒りのメガトンパンチ（日）",
+      "ja-hint": "キングコング2 いかりのメガトンパンチ（にち）",
+      "zh": "金刚2 愤怒的百万吨拳头（日）",
+      "zh-hint": "jingang2 fennudebaiwandunquantou (ri)"
+    }
+  }
+}

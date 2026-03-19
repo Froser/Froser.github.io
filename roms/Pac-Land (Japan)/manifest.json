@@ -1,0 +1,16 @@
+{
+  "boxarts": {
+    "default": {
+      "height": 497,
+      "width": 680
+    }
+  },
+  "titles": {
+    "default": {
+      "ja": "パックランド（日）",
+      "ja-hint": "パックランド（にち）",
+      "zh": "吃豆人世界（日）",
+      "zh-hint": "chidourenshijie (ri)"
+    }
+  }
+}
